@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" />
+
+        <nav id="menu"><ul>
+        {% for title, link in MENUITEMS %}
+            <li><a href="{{ link }}">{{ title }}</a></li>
+        {% endfor %}
+        {% if DISPLAY_PAGES_ON_MENU %}
+          {% for p in PAGES %}
+            <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+          {% endfor %}
+        {% else %}
+          {% if DISPLAY_CATEGORIES_ON_MENU %}
+            {% for cat, null in categories %}
+              <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+            {% endfor %}
+          {% endif %}
+        {% endif %}
+        </ul></nav><!-- /#menu -->
+</head>
+
+<body>
+        <header id="banner" class="body">
+                <h1><a href="{{ SITEURL }}">{{ SITENAME }} <strong>{{ SITESUBTITLE }}</strong></a></h1>
+        </header><!-- /#banner -->
+
+    <!-- Main Blog Content -->
+    <div id="main">
+    {% block content %}{% endblock %}
+    </div>
+    <!-- End Main Content -->
+
+      {% block footer %}
+                <footer id="info" class="footer">
+                  <p><small>This site is powered by <a href="http://getpelican.com/" target="_blank">Pelican</a>.
+                  Other helpful tools include: <a
+                    href="http://www.latex-project.org/" target="_blank">LaTeX</a> – typesetting | 
+                    <a href="http://johnmacfarlane.net/pandoc/"
+                      target="_blank">Pandoc</a> – document conversion | 
+                    <a href="https://code.google.com/p/macvim/"
+                      target="_blank">Macvim</a> – text editing | 
+                    <a href="https://github.com"
+                      target="_blank">Github</a> – code repository and
+                    webhost
+                </footer><!-- /#contentinfo -->
+      {% endblock %}
+
+</body>
+</html>
+
