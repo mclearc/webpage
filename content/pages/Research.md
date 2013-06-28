@@ -2,7 +2,8 @@ Title: Research
 
 ### Publications
 
-- ["Two Kinds of Unity in the *Critique of Pure Reason*,"]()
+- ["Two Kinds of Unity in the *Critique of Pure
+  Reason*,"](|filename|/pdfs/KantUnity.pdf)
   Forthcoming in *Journal of the History of Philosophy* 
 - ["Kant on Animal Consciousness,"]() *Philosophers’ Imprint*, Vol. 11,
   no. 15. November 2011, pp. 1-16. 
