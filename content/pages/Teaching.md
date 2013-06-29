@@ -3,12 +3,11 @@ Title: Teaching
 ### Information
 
 - Office Hours by appointment in ... Oldfather Hall
-- Email me at <mclearc@gmail.com>
-- Syllabi
-    - [ Introduction to Philosophy]()
-    - [ Seminar on Conceptualism ]()
+- Please [ Email me ](mailto:mclearc@gmail.com) with any questions
 
-### Links
+### Courses
+
+This semester (Fall 2013) I will teach two courses: 
 
 - [ Introduction to Philosophy ](|filename|/pages/intro.md)
 - [ Seminar on Conceptualism ](|filename|/pages/conceptualism.md)

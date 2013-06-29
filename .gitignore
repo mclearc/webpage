@@ -1,5 +1,7 @@
 *.pid
 *.pyc
 *.swp
+*.tex
+*.gz
 output/
 
