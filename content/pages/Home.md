@@ -1,4 +1,4 @@
-Title: Home
+Title: Colin McLear
 URL:
 save_as: index.html
 status: hidden
