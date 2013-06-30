@@ -56,6 +56,17 @@ h6 a { color : inherit !important }
     font-family : Arial ; sans-serif ;
 }
 
+#sidebar {
+  font-family: arial, sans-serif;
+  background-color: #FFFAEB;
+  color: #000000;
+  display: block;
+  border: 1px solid #000000;
+  padding : 1em ;
+  float : right ; 
+}
+
+
 .body {
 
   color : #000000 ; 
@@ -72,7 +83,6 @@ h6 a { color : inherit !important }
   padding : 0em ;
 
 }
-
 
 
 
