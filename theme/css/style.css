@@ -14,6 +14,7 @@ body {
     padding : 1em ;
     margin : 10% auto auto auto ;
     display : block ;
+    float : right ;
 }
 
 img {
