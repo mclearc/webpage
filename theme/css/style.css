@@ -10,8 +10,11 @@ body {
     font-size : 100% ;
     background-color : #FFFAEB ;
     color : #000000 ;
-    width : 40% ;
-    padding : 1em ;
+    width : auto ;
+    padding-top : 0%;
+    padding-bottom : 15%;
+    padding-right : 30%;
+    padding-left : 30%;
     margin : 10% auto auto auto ;
     display : block ;
 }
