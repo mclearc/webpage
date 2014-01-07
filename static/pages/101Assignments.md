@@ -1,4 +1,4 @@
-Title: PHIL 101 Assignments
+Title: PHIL101 Assignments
 Status: hidden
 
 ## Class 2 (1/16)
