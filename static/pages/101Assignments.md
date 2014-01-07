@@ -1,6 +1,8 @@
 Title: PHIL101 Assignments
 Status: hidden
 
+<!--
+
 ## Class 2 (1/16)
 
 - Excerpt from Baggini & Fosl -- [Overview of Validity & Soundness](https://www.dropbox.com/s/p8rt84c3t5alilf/LogicOverview.pdf)  
@@ -17,6 +19,8 @@ Status: hidden
 
 - Course introduction and overview
 - [Slides (1/14)]()
+ -->
+
 
 <!--
 
