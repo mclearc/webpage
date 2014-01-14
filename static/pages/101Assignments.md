@@ -1,16 +1,15 @@
 Title: PHIL101 Assignments
 Status: hidden
 
-<!--
-
 ## Class 2 (1/16)
 
 - Excerpt from Baggini & Fosl -- [Overview of Validity & Soundness](https://www.dropbox.com/s/p8rt84c3t5alilf/LogicOverview.pdf)  
-- Read Galileo -- Excerpt from [*The Assayer*](https://www.dropbox.com/s/zwqcug3yxtuk4u3/GalileoAssayer.pdf)  
-    - Start at the bottom of page 273. 
+- Read Galileo -- Excerpt from [*The
+  Assayer*](https://www.dropbox.com/s/zwqcug3yxtuk4u3/GalileoAssayer.pdf)
+  (Start at the bottom of page 273) 
     - What is Galileo trying to show?
     - What is the connection between what Galileo says about colors, tastes, and smells and what he says about heat?
-    - Is Galileo's argument convincing? Is it valid? Is it sound?
+    - What is Galileo's argument on p. 274? Is it convincing? Is it valid? Is it sound?
 - [Slides (1/16)]()
 
 ---
@@ -18,9 +17,7 @@ Status: hidden
 ## Class 1 (1/14)
 
 - Course introduction and overview
-- [Slides (1/14)]()
- -->
-
+- [Slides (1/14)](https://www.dropbox.com/s/dk7o96kojiyph15/class1.pdf)
 
 <!--
 

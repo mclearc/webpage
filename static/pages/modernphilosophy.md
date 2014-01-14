@@ -1,7 +1,7 @@
 Title: ModernPhilosophy
 Status: hidden
 
-## Course Information
+## PHIL 232 -- Course Information
 
 - [Syllabus](|filename|/pdfs/ModernSyllabus.pdf)
 - Office Hours: T/Th 11-12 or by appointment

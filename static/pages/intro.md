@@ -3,7 +3,7 @@ Date: 26-06-2013
 status: hidden
 
 
-## Course Information
+## PHIL 101 -- Course Information
 
 - [Syllabus](|filename|/pdfs/IntroSyllabus.pdf)
 - Contact Information

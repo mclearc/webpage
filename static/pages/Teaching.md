@@ -2,7 +2,7 @@ Title: Teaching
 
 ### Fall 2013
 
-- [ Introduction to Philosophy ](|filename|/pages/intro.md)
+- [ Introduction to Philosophy ]()
 - [ Seminar on Conceptualism ](|filename|/pages/conceptualism.md)
 
 ### Spring 2014
