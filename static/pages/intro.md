@@ -14,3 +14,6 @@ status: hidden
     - [User Guide](http://learningspaces.unl.edu/Self%20Paced%20Polling%20Student%20User%20Guide.pdf)
     - [iClicker Registration Guide](http://learningspaces.unl.edu/Student%20Registration%20Steps.pdf)
 - [Assignments](|filename|/pages/101Assignments.md)
+    - [Tentative Assignment
+      Calendar](https://www.dropbox.com/s/g6dpe01u0be0pk9/IntroCalendar.pdf)
+      (Note that this calendar is subject to change!)

@@ -7,3 +7,6 @@ Status: hidden
 - Office Hours: T/Th 11-12 or by appointment
 - [Contact Information](|filename|/pages/Contact.md)
 - [Assignments](|filename|/pages/232Assignments.md)
+    - [Tentative assignment
+      calendar](https://www.dropbox.com/s/sqzw1xvm5psvknm/ModernCal.pdf)
+      (this calendar is subject to change!)
