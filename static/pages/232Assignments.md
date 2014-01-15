@@ -15,4 +15,5 @@ Status: hidden
 
 ## Class 1 – The Medieval Background (1/14)
 
-- [Notes](https://www.dropbox.com/s/yxs7pt7mjs0te5k/MedievalBackground.html)
+- [Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/MedievalBackground.html)
+
