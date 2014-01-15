@@ -8,7 +8,7 @@ status: hidden
 - [Syllabus](|filename|/pdfs/IntroSyllabus.pdf)
 - Contact Information
     - [Dr. Colin McLear](|filename|/pages/Contact.md): T/R 11-12 or by appointment
-    - [Shane George](mailto:algernongordoneffect@gmail.com): office hours TBA 
+    - [Shane George](mailto:algernongordoneffect@gmail.com): Mon 2:30-3:30 and Tue. 3:30-4:30 
     - [Andrew Spaid]( mailto:aspaid2@unlserve.unl.edu ): office hours TBA
 - iClicker Information
     - [User Guide](http://learningspaces.unl.edu/Self%20Paced%20Polling%20Student%20User%20Guide.pdf)
