@@ -15,4 +15,4 @@ Status: hidden
 
 ## Class 1 – The Medieval Background (1/14)
 
-- [Notes](https://www.dropbox.com/s/dg3ee8umdakgvhl/class1.html)
+- [Notes](https://www.dropbox.com/s/yxs7pt7mjs0te5k/MedievalBackground.html)
