@@ -10,6 +10,7 @@ Status: hidden
         - [Dedication, Preface, &
           Synopsis](https://www.dropbox.com/s/fuemo24n4f0817h/Descartes%20Preface%20%26%20Synopsis.pdf)
           -- Note that this isn't available from *earlymoderntexts.com*
+- [Class Notes:](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/Method%26Meditations.html)
 
 ---
 

@@ -10,7 +10,7 @@ Status: hidden
     - What is Galileo trying to show?
     - What is the connection between what Galileo says about colors, tastes, and smells and what he says about heat?
     - What is Galileo's argument on p. 274? Is it convincing? Is it valid? Is it sound?
-- [Slides (1/16)]()
+- [Slides (1/16)](https://www.dropbox.com/s/xb9ztep70tb3o8o/class2.pdf)
 
 ---
 
