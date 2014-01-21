@@ -6,6 +6,7 @@ Status: hidden
 - Descartes: [Meditation 1](http://www.earlymoderntexts.com/pdfs/descartes1641.pdf)
     - We'll also discuss the [dedication and preface](https://www.dropbox.com/s/fuemo24n4f0817h/Descartes%20Preface%20%26%20Synopsis.pdf)
 - (Optional) Gary Hatfield, ["Reading the Meditations"](https://www.dropbox.com/s/ksdelikaq4zkg3g/Hatfield%20-%20Reading%20the%20Mediations.pdf)
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/Meditation%201.html)
 ---
 
 ## Class 2 – Descartes on Method (1/16)
