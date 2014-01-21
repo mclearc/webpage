@@ -1,6 +1,12 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 4 – *Meditation* 2 (1/23)
+
+- Descartes: [Meditation 2](http://www.earlymoderntexts.com/pdfs/descartes1641.pdf)
+
+---
+
 ## Class 3 – *Meditation* 1 (1/21)
 
 - Descartes: [Meditation 1](http://www.earlymoderntexts.com/pdfs/descartes1641.pdf)
