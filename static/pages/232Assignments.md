@@ -1,7 +1,7 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
-## Class 3 (1/21)
+## Class 3 – *Meditation* 1 (1/21)
 
 - Descartes: [Meditation 1](http://www.earlymoderntexts.com/pdfs/descartes1641.pdf)
     - We'll also discuss the [dedication and preface](https://www.dropbox.com/s/fuemo24n4f0817h/Descartes%20Preface%20%26%20Synopsis.pdf)
