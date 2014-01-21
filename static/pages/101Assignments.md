@@ -7,7 +7,7 @@ Status: hidden
     - When Williams says that knowledge is "of what is there anyway" what does he mean?
     - What is the "absolute conception of reality" and what is its relation to knowledge?
     - On p. 226 Williams begins talking about the distinction between "primary" qualities (supposedly fundamental qualities like shape, location, and size) and "secondary" qualities (supposedly non-fundamental or subjective qualities like colors, tastes, and smells). How does Williams think the distinction between primary and secondary qualities fits into the notion of the absolute conception of reality?
-
+- [Slides (1/21)](https://www.dropbox.com/s/jjtb7rycsqnn98j/class3.pdf)
 ---
 
 ## Class 2 (1/16)
