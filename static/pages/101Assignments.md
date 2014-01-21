@@ -1,6 +1,19 @@
 Title: PHIL101 Assignments
 Status: hidden
 
+## Class 4 (1/23)
+
+- Williams on Objectivity (continued)
+- Thomas Nagel: [What is it like to be a bat?]( |filename|/pdfs/NagelBat.pdf )
+    - What is physicalism?
+    - What is the significance of the experience of the bat for physicalism?
+    - Is there a connection between Nagel's notion of physicalism and objectivity and Williams' discussion of the 'Absolute Conception'?
+- If you are finding it difficult to understand what you should be doing in reading philosophy read ch.1 of Vaughn---*Writing Philosophy*
+- If you find it difficult to distinguish between and evaluate different kinds of arguments (e.g. inductive and deductive arguments) you should read ch. 2 of Vaughn---*Writing Philosophy*
+- Please be sure to bring your iClicker to class
+
+---
+
 ## Class 3 (1/21)
 
 - [Excerpts from Williams on Objectivity]( |filename|/pdfs/Williams_Objectivity.pdf)
