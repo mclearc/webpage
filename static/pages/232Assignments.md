@@ -5,6 +5,7 @@ Status: hidden
 
 - Review 'Wax Argument' in *Meditation* 2
 - Read *Meditations* 3 & 4
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/Meditation%202.html)
 
 --- 
 
