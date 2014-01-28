@@ -15,8 +15,8 @@ Status: hidden
     - What is physicalism?
     - What is the significance of the experience of the bat for physicalism?
     - What, according to Nagel, is the problem concerning consciousness and objectivity?
-    - Is there a connection between Nagel's notion of physicalism and objectivity and Williams' discussion of the 'Absolute Conception'?
-- [Slides](https://www.dropbox.com/s/nct70xd3beajy2c/class5.pdf)
+    - Is th)re a connection between Nagel's notion of physicalism and objectivity and Williams' discussion of the 'Absolute Conception'?
+- [Slides (1/28)](https://www.dropbox.com/s/nct70xd3beajy2c/class5.pdf)
 
 --- 
 
@@ -29,8 +29,8 @@ Status: hidden
     - Is there a connection between Nagel's notion of physicalism and objectivity and Williams' discussion of the 'Absolute Conception'?
 - If you are finding it difficult to understand what you should be doing in reading philosophy read ch.1 of Vaughn---*Writing Philosophy*
 - If you find it difficult to distinguish between and evaluate different kinds of arguments (e.g. inductive and deductive arguments) you should read ch. 2 of Vaughn---*Writing Philosophy*
-- Please be sure to bring your iClicker to class
-- [Slides](https://www.dropbox.com/s/cdvu2z25qcsbxlj/class4.pdf)
+- Please be sur) to bring your iClicker to class
+- [Slides (1/23)](https://www.dropbox.com/s/cdvu2z25qcsbxlj/class4.pdf)
 ---
 
 ## Class 3 (1/21)
