@@ -1,6 +1,12 @@
 Title: PHIL101 Assignments
 Status: hidden
 
+## Class 6 (1/30)
+
+- Ned Block: [On a Confusion about a Function of Consciousness](https://www.dropbox.com/s/pht8qbek0p5333x/BlockConsciousness.pdf)
+    - What is the difference between A-consciousness and P-consciousness?
+    - Does this distinction make a difference to Nagel's argument about physicalism?
+
 ## Class 5 (1/28)
 
 - Thomas Nagel (continued): [What is it like to be a bat?]( |filename|/pdfs/NagelBat.pdf )
@@ -8,6 +14,7 @@ Status: hidden
     - What is the significance of the experience of the bat for physicalism?
     - What, according to Nagel, is the problem concerning consciousness and objectivity?
     - Is there a connection between Nagel's notion of physicalism and objectivity and Williams' discussion of the 'Absolute Conception'?
+- [Slides](https://www.dropbox.com/s/nct70xd3beajy2c/class5.pdf)
 
 --- 
 
