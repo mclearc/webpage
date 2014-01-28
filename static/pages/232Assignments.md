@@ -5,13 +5,14 @@ Status: hidden
 
 - Review 'Wax Argument' in *Meditation* 2
 - Read *Meditations* 3 & 4
-- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/Meditation%202.html)
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/Meditation3.html)
 
 --- 
 
 ## Class 4 – *Meditation* 2 (1/23)
 
 - Descartes: [Meditation 2](http://www.earlymoderntexts.com/pdfs/descartes1641.pdf)
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/Meditation%202.html)
 
 ---
 
