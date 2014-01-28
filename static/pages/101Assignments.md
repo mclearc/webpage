@@ -7,6 +7,8 @@ Status: hidden
     - What is the difference between A-consciousness and P-consciousness?
     - Does this distinction make a difference to Nagel's argument about physicalism?
 
+---
+
 ## Class 5 (1/28)
 
 - Thomas Nagel (continued): [What is it like to be a bat?]( |filename|/pdfs/NagelBat.pdf )
