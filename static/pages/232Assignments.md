@@ -1,6 +1,18 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 6 – *Meditations* 3 & 4 (continued, 1/30)
+
+- Continue discussion of *Meditation* 3
+    - Theory of ideas
+    - The 'truth rule'
+    - Proofs of God's existence
+- *Meditation* 4
+    - What is Descartes's account of error?
+- *Objections and Replies* --- [ Hobbes on the *Fourth Meditation* (pp. 50-2) ](https://www.dropbox.com/s/fe7n0vli5v12de3/descartes1642%20-%20Objections%20%26%20Replies.pdf)
+
+---
+
 ## Class 5 – *Meditations* 3 & 4 (1/28)
 
 - Review 'Wax Argument' in *Meditation* 2
