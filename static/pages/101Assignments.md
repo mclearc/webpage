@@ -1,4 +1,4 @@
-Title: Philosophy 101 Assignments
+Title: Philosophy101 Assignments
 Status: hidden
 
 ## Class 6 (1/30)
