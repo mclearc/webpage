@@ -6,7 +6,7 @@ Status: hidden
 - Ned Block: [On a Confusion about a Function of Consciousness](https://www.dropbox.com/s/pht8qbek0p5333x/BlockConsciousness.pdf)
     - What is the difference between A-consciousness and P-consciousness?
     - Does this distinction make a difference to Nagel's argument about physicalism?
-
+- [Slides (1/30)](https://www.dropbox.com/s/5lwgteowgexyem4/class6.pdf)
 ---
 
 ## Class 5 (1/28)
