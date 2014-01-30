@@ -1,6 +1,17 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 7 – *Meditation* 5 (2/4)
+
+- Meditation 5
+- *Objections & Replies* --- [Caterus on Descartes's ontological
+  proof (pp. 10-16)](https://www.dropbox.com/s/fe7n0vli5v12de3/descartes1642%20-%20Objections%20%26%20Replies.pdf)
+- Finish discussion of *Meditations* 3 & 4
+    - 2 proofs of God's existence (Med 3)
+    - Descartes's theory of error (Med 4)
+
+---
+
 ## Class 6 – *Meditations* 3 & 4 (continued, 1/30)
 
 - Continue discussion of *Meditation* 3
@@ -9,7 +20,8 @@ Status: hidden
     - Proofs of God's existence
 - *Meditation* 4
     - What is Descartes's account of error?
-- *Objections and Replies* --- [ Hobbes on the *Fourth Meditation* (pp. 50-2) ](https://www.dropbox.com/s/fe7n0vli5v12de3/descartes1642%20-%20Objections%20%26%20Replies.pdf)
+- *Objections & Replies* --- [ Hobbes on the *Fourth Meditation* (pp. 50-2) ](https://www.dropbox.com/s/fe7n0vli5v12de3/descartes1642%20-%20Objections%20%26%20Replies.pdf)
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/Meditation4.html)
 
 ---
 
