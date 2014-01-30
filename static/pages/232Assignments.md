@@ -3,7 +3,7 @@ Status: hidden
 
 ## Class 7 – *Meditation* 5 (2/4)
 
-- Meditation 5
+- *Meditation* 5
 - *Objections & Replies* --- [Caterus on Descartes's ontological
   proof (pp. 10-16)](https://www.dropbox.com/s/fe7n0vli5v12de3/descartes1642%20-%20Objections%20%26%20Replies.pdf)
 - Finish discussion of *Meditations* 3 & 4
