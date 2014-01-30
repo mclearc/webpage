@@ -1,6 +1,14 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 7 (2/4)
+
+- Block on consciousness (continued)
+    - what is the "target reasoning" with which Block is concerned?
+    - what is the difference between A and P-consciousness? Are Block's arguments convincing?
+
+---
+
 ## Class 6 (1/30)
 
 - Ned Block: [On a Confusion about a Function of Consciousness](https://www.dropbox.com/s/pht8qbek0p5333x/BlockConsciousness.pdf)
