@@ -1,6 +1,14 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 8 – The Ontological Proof & the Cartesian Circle (2/6)
+
+- *Meditation* 5
+- James Van Cleve, [Foundationalism, Epistemic Principles, and the Cartesian Circle](https://www.dropbox.com/s/toew5b0tyi9qjgm/van%20cleve1979.pdf)
+    - See especially sections 1-3, 5
+
+---
+
 ## Class 7 – *Meditation* 5 (2/4)
 
 - *Meditation* 5
