@@ -9,6 +9,7 @@ Status: hidden
 - Finish discussion of *Meditations* 3 & 4
     - 2 proofs of God's existence (Med 3)
     - Descartes's theory of error (Med 4)
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/Meditation5.html)
 
 ---
 
