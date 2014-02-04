@@ -1,7 +1,17 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 8 (2/6)
+
+- Block on consciousness (continued)
+    - what is the "target reasoning" with which Block is concerned?
+    - what is the difference between A and P-consciousness? Are Block's arguments convincing?
+
+---
+
 ## Class 7 (2/4)
+
+**Class Cancelled!**
 
 - Block on consciousness (continued)
     - what is the "target reasoning" with which Block is concerned?
