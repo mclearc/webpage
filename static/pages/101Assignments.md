@@ -1,6 +1,15 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 9 (2/11)
+
+- Review Block's distinction between two kinds of consciousness
+- Frank Jackson: [Ephiphenomenal Qualia](https://www.dropbox.com/s/49l13gsdxmlg60q/jackson1982.pdf)
+    - What is the knowledge argument? How does it threaten the truth of physicalism?
+    - What is the modal argument? Why is the possibility of a phenomenal zombie a problem for physicalism?
+
+---
+
 ## Class 8 (2/6)
 
 - Block on consciousness (continued)
