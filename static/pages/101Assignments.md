@@ -15,6 +15,7 @@ Status: hidden
 - Block on consciousness (continued)
     - what is the "target reasoning" with which Block is concerned?
     - what is the difference between A and P-consciousness? Are Block's arguments convincing?
+- [Slides (2/6)](https://www.dropbox.com/s/y9y8mrj93z4ffea/class8.pdf)
 
 ---
 
