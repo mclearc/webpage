@@ -1,6 +1,13 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 9 – *Meditation* 6 (2/11)
+
+- Review Van Cleve on Cartesian Circle (especially part V)
+- Read *Meditation* 6
+
+---
+
 ## Class 8 – The Ontological Proof & the Cartesian Circle (2/6)
 
 - *Meditation* 5
