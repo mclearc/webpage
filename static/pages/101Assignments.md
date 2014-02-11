@@ -1,13 +1,27 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 10 (2/13)
+
+- David Lewis: [What Experience Teaches](https://www.dropbox.com/s/bco5xuir6mulkwy/lewis1999a.pdf)
+    - Read the following sections (though you're encouraged to read the whole thing!)
+        - Experience the best teacher
+        - The hypothesis of phenomenal information
+        - the knowledge argument
+        - the ability hypothesis
+    - What, according to Lewis, is 'phenomenal information'?
+    - What role does phenomenal information play in the Knowledge Argument and its assessment?
+    - What is the 'ability hypothesis' and how does it propose to resolve the Knowledge Argument?
+
+---
+
 ## Class 9 (2/11)
 
 - Review Block's distinction between two kinds of consciousness
 - Frank Jackson: [Ephiphenomenal Qualia](https://www.dropbox.com/s/49l13gsdxmlg60q/jackson1982.pdf)
     - What is the knowledge argument? How does it threaten the truth of physicalism?
     - What is the modal argument? Why is the possibility of a phenomenal zombie a problem for physicalism?
-
+- [Slides](https://www.dropbox.com/s/5gims4f88b0aaek/class9.pdf)
 ---
 
 ## Class 8 (2/6)
