@@ -5,6 +5,7 @@ Status: hidden
 
 - Review Van Cleve on Cartesian Circle (especially part V)
 - Read *Meditation* 6
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/Meditation6.html)
 
 ---
 
