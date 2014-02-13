@@ -22,7 +22,7 @@ Status: hidden
     - What, according to Lewis, is 'phenomenal information'?
     - What role does phenomenal information play in the Knowledge Argument and its assessment?
     - What is the 'ability hypothesis' and how does it propose to resolve the Knowledge Argument?
-- [Slides](https://www.dropbox.com/s/11dchjs1hktdast/class10.pdf)
+- [Slides (2/13)](https://www.dropbox.com/s/11dchjs1hktdast/class10.pdf)
 
 ---
 
@@ -32,7 +32,7 @@ Status: hidden
 - Frank Jackson: [Ephiphenomenal Qualia](https://www.dropbox.com/s/49l13gsdxmlg60q/jackson1982.pdf)
     - What is the knowledge argument? How does it threaten the truth of physicalism?
     - What is the modal argument? Why is the possibility of a phenomenal zombie a problem for physicalism?
-- [Slides](https://www.dropbox.com/s/5gims4f88b0aaek/class9.pdf)
+- [Slides (2/11)](https://www.dropbox.com/s/5gims4f88b0aaek/class9.pdf)
 ---
 
 ## Class 8 (2/6)
