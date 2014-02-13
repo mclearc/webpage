@@ -1,6 +1,19 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 11 – Innate Ideas (2/18)
+
+- Locke, *An Essay Concerning Human Understanding* [BK I: Introduction & chs. 3, 4](http://www.earlymoderntexts.com/pdfs/locke1690book1.pdf)
+
+---
+
+## Class 10 – *Meditation* 6 (continued (2/13))
+
+- The Real Distinction Argument
+- Proof of the External World
+
+---
+
 ## Class 9 – *Meditation* 6 (2/11)
 
 - Review Van Cleve on Cartesian Circle (especially part V)
