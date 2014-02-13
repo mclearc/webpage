@@ -1,7 +1,7 @@
 Title: Phil101 Assignments
 Status: hidden
 
-Class 11 (2/18)
+## Class 11 (2/18)
 
 - Tim Crane, ["The Puzzle of Representation"](https://www.dropbox.com/s/h2egqzwnbs9rxh1/Crane_PuzzleMind.pdf)
     - why is the issue of representation problematic?
