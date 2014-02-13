@@ -1,6 +1,16 @@
 Title: Phil101 Assignments
 Status: hidden
 
+Class 11 (2/18)
+
+- Tim Crane, ["The Puzzle of Representation"](https://www.dropbox.com/s/h2egqzwnbs9rxh1/Crane_PuzzleMind.pdf)
+    - why is the issue of representation problematic?
+    - why can't all representation be understood in terms of resemblance?
+    - what is the distinction between attitude and content in mental representation?
+    - what is intentionality?
+
+---
+
 ## Class 10 (2/13)
 
 - David Lewis: [What Experience Teaches](https://www.dropbox.com/s/bco5xuir6mulkwy/lewis1999a.pdf)
@@ -12,6 +22,7 @@ Status: hidden
     - What, according to Lewis, is 'phenomenal information'?
     - What role does phenomenal information play in the Knowledge Argument and its assessment?
     - What is the 'ability hypothesis' and how does it propose to resolve the Knowledge Argument?
+-[Slides](https://www.dropbox.com/s/11dchjs1hktdast/class10.pdf)
 
 ---
 
