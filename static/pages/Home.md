@@ -11,5 +11,5 @@ My work focuses on two (often intersecting) areas of philosophy --- the
 History of Modern Philosophy (especially Kant) and the Philosophy of
 Mind.  
 
-Click here for [my CV](|filename|/pdfs/McLearCV.pdf)
+[My CV](|filename|/pdfs/McLearCV.pdf)
 
