@@ -1,6 +1,15 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 12 (2/20)
+
+- Dretske, ["A Recipe for Thought"](https://www.dropbox.com/s/2uu53eqoc40sbfc/dretske1994.pdf)
+    - In what sense does Drestske think of intentionality as natural?
+    - Why is misrepresentation an important for understanding intentionality?
+    - What is the 'disjunction problem'?
+
+---
+
 ## Class 11 (2/18)
 
 - Tim Crane, ["The Puzzle of Representation"](https://www.dropbox.com/s/h2egqzwnbs9rxh1/Crane_PuzzleMind.pdf)
