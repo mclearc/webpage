@@ -8,6 +8,7 @@ Status: hidden
     - why can't all representation be understood in terms of resemblance?
     - what is the distinction between attitude and content in mental representation?
     - what is intentionality?
+- [Slides (2/18)](https://www.dropbox.com/s/1m9befjimvt0up2/class11.pdf)
 
 ---
 
