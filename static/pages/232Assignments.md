@@ -1,6 +1,12 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 12 – Leibniz's Defense of Innate Ideas (2/20)
+
+- Leibniz, [*New Essays on Human Understanding*](http://www.earlymoderntexts.com/pdfs/leibniz1705book1.pdf), Preface, BK I: chs. i, iii
+
+---
+
 ## Class 11 – Innate Ideas (2/18)
 
 - Locke, *An Essay Concerning Human Understanding* [BK I: Introduction & chs. 2, 4](http://www.earlymoderntexts.com/pdfs/locke1690book1.pdf)
