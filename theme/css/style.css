@@ -2,7 +2,7 @@ header {
   font-style: normal ;
   font-size: smaller ;
   font-family: Arial ; sans-serif ; 
-  border-bottom: 1px solid #000000 ;
+  border-bottom: 2px solid #000000 ;
   color : #000000 ;
 }
 
@@ -28,7 +28,7 @@ img {
     margin-bottom : 1px ;
     float : left ;
     display : block ; 
-    border : 1px black solid ; 
+    border : 2px black solid ; 
 
 }
 
@@ -83,7 +83,7 @@ h6 a { color : inherit !important }
   background-color: #FFFAEB;
   color: #000000;
   display: block;
-  border-top: 1px solid #000000;
+  border-top: 2px solid #000000;
   padding : 0em ;
 
 }
