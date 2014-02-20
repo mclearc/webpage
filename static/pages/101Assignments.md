@@ -8,6 +8,8 @@ Status: hidden
     - what is the relationship between indication and representation?
     - what is a function and how is it important for representation?
 
+---
+
 ## Class 12 (2/20)
 
 - Dretske, ["A Recipe for Thought"](https://www.dropbox.com/s/2uu53eqoc40sbfc/dretske1994.pdf)
