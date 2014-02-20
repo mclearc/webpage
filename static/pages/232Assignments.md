@@ -4,7 +4,7 @@ Status: hidden
 ## Class 12 – Leibniz's Defense of Innate Ideas (2/20)
 
 - Leibniz, *New Essays on Human Understanding*, [Preface, BK I: chs. 1, 3](http://www.earlymoderntexts.com/pdfs/leibniz1705book1.pdf)
-- [Class Notes](https://www.dropbox.com/s/p5qr4rqwno56rdg/LeibnizInnateIdeas.html)
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/LeibnizInnateIdeas.html)
 
 ---
 
