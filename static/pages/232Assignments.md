@@ -1,6 +1,16 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 13 – Molyneux's Question & Mid-Term Review (2/25)
+
+- Locke, *Essay* [Bk. II, chapter 9 (Perception)](http://www.earlymoderntexts.com/pdfs/locke1690book2.pdf)
+    - Pay special attention to Locke's discussion of Molineux's question
+      at II.ix.8
+- Leibniz, *New Essays*, [Bk. II, chapter 9 (Perception)](http://www.earlymoderntexts.com/pdfs/leibniz1705book2_1.pdf)
+- Bring study questions for the Mid-Term
+
+---
+
 ## Class 12 – Leibniz's Defense of Innate Ideas (2/20)
 
 - Leibniz, *New Essays on Human Understanding*, [Preface, BK I: chs. 1, 3](http://www.earlymoderntexts.com/pdfs/leibniz1705book1.pdf)
