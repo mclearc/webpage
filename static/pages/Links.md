@@ -1,4 +1,4 @@
-Title: Resources
+Title: Links
 
 ### Philosophy Resources ###
 
