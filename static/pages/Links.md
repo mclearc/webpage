@@ -8,6 +8,7 @@ Some links for research, and for writing good philosophical prose.
 - [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/)
 - [PhilPapers](http://philpapers.org)
 - [KantPapers](http://kantpapers.org)
+- [Early Modern Philosophy Texts](http://earlymoderntexts.com)
 - [Philosophical Terms & Methods](http://www.jimpryor.net/teaching/vocab/index.html)
 - [Jim Pryor's](http://www.jimpryor.net) guides to [reading](http://www.jimpryor.net/teaching/guidelines/reading.html) and [writing](http://www.jimpryor.net/teaching/guidelines/writing.html) philosophy
 - [Purdue Online Writing Lab](http://owl.english.purdue.edu/owl/)
