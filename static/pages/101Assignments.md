@@ -16,7 +16,7 @@ Status: hidden
     - In what sense does Drestske think of intentionality as natural?
     - Why is misrepresentation an important for understanding intentionality?
     - What is the 'disjunction problem'?
--[Slides (2/20)](https://www.dropbox.com/s/93m0lwy2l9z2qai/class12.pdf)
+- [Slides (2/20)](https://www.dropbox.com/s/93m0lwy2l9z2qai/class12.pdf)
 
 ---
 
