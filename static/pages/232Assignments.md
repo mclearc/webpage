@@ -8,7 +8,7 @@ Status: hidden
       at II.ix.8
 - Leibniz, *New Essays*, [Bk. II, chapter 9 (Perception)](http://www.earlymoderntexts.com/pdfs/leibniz1705book2_1.pdf)
 - Bring study questions for the Mid-Term
-
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/Molyneux.html)
 ---
 
 ## Class 12 – Leibniz's Defense of Innate Ideas (2/20)
