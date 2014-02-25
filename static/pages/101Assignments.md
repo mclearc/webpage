@@ -7,6 +7,9 @@ Status: hidden
     - what is indication?
     - what is the relationship between indication and representation?
     - what is a function and how is it important for representation?
+- [Slides (2/25)](https://www.dropbox.com/s/pni43vdtb0m1nnx/class13.pdf)
+- __No Class on Thursday 2/27!__
+    + Friday section occurs as normal
 
 ---
 
