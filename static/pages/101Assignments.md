@@ -1,6 +1,15 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 14 (3/4) ##
+
+- Searle, ["Is the Brain's Mind a Computer Program?"](https://www.dropbox.com/s/ds4gd8euw7n6iqu/searle1990b.pdf)
+    - What model of the mind is Searle criticizing?
+    - What is the difference between syntax and semantics?
+    - What is the 'Chinese Room Argument'? What is it supposed to show?
+
+---
+
 ## Class 13 (2/25)
 
 - Dretske (continued)
