@@ -4,8 +4,8 @@ Status: hidden
 ## Class 14 (3/4) ##
 
 - Primary vs. Secondary Qualities
-  + Galileo, excerpt from [*The Assayer*](https://www.dropbox.com/s/uc36m0ie3erbf1t/GalileoAssayer.pdf)
-  + Locke, *Essay* [Bk.II, ch.8](http://www.earlymoderntexts.com/pdfs/locke1690book2_1.pdf)
+    + Galileo, excerpt from [*The Assayer*](https://www.dropbox.com/s/uc36m0ie3erbf1t/GalileoAssayer.pdf)
+    + Locke, *Essay* [Bk.II, ch.8](http://www.earlymoderntexts.com/pdfs/locke1690book2_1.pdf)
 
 ---
 
