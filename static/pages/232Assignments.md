@@ -1,6 +1,25 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 14 (3/4) ##
+
+- Primary vs. Secondary Qualities
+  + Galileo, excerpt from [*The Assayer*](https://www.dropbox.com/s/uc36m0ie3erbf1t/GalileoAssayer.pdf)
+  + Locke, *Essay* [Bk.II, ch.8](http://www.earlymoderntexts.com/pdfs/locke1690book2_1.pdf)
+
+---
+
+## Mid-Term (2/27) ##
+
+- Structure
+  + Passage ID (author/work/main argument of passage)
+  + Definition
+  + Multiple Choice
+  + Short Essay
+- Good luck!
+
+---
+
 ## Class 13 – Molyneux's Question & Mid-Term Review (2/25)
 
 - Locke, *Essay* [Bk. II, chapter 9 (Perception)](http://www.earlymoderntexts.com/pdfs/locke1690book2.pdf)
@@ -9,6 +28,7 @@ Status: hidden
 - Leibniz, *New Essays*, [Bk. II, chapter 9 (Perception)](http://www.earlymoderntexts.com/pdfs/leibniz1705book2_1.pdf)
 - Bring study questions for the Mid-Term
 - [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/Molyneux.html)
+
 ---
 
 ## Class 12 – Leibniz's Defense of Innate Ideas (2/20)
