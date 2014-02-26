@@ -5,6 +5,7 @@ Status: hidden
 
 - Primary vs. Secondary Qualities
     + Galileo, excerpt from [*The Assayer*](https://www.dropbox.com/s/uc36m0ie3erbf1t/GalileoAssayer.pdf)
+        * start at bottom of p. 273
     + Locke, *Essay* [Bk.II, ch.8](http://www.earlymoderntexts.com/pdfs/locke1690book2_1.pdf)
 
 ---
