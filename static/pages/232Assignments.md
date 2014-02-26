@@ -12,10 +12,10 @@ Status: hidden
 ## Mid-Term (2/27) ##
 
 - Structure
-  + Passage ID (author/work/main argument of passage)
-  + Definition
-  + Multiple Choice
-  + Short Essay
+    + Passage ID (author/work/main argument of passage)  
+    + Definition
+    + Multiple Choice
+    + Short Essay
 - Good luck!
 
 ---
