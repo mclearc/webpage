@@ -1,6 +1,13 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 15 (3/6) ##
+
+- Locke on Knowledge
+    - *Essay*, [Bk. IV, chs. i-iv](http://www.earlymoderntexts.com/pdfs/locke1690book4.pdf)
+
+---
+
 ## Class 14 (3/4) ##
 
 - Primary vs. Secondary Qualities
