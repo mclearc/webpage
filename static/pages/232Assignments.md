@@ -1,6 +1,12 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 16 (3/11) ##
+
+- Locke on Knowledge (see class 15)
+- Matter and its Critics
+    + Leibniz, [*New System on the Nature of Substances*](http://www.earlymoderntexts.com/pdfs/leibniz1695c.pdf)
+
 ## Class 15 (3/6) ##
 
 - Locke on Knowledge
