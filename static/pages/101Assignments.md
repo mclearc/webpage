@@ -13,7 +13,7 @@ Status: hidden
     - What model of the mind is Searle criticizing?
     - What is the difference between syntax and semantics?
     - What is the 'Chinese Room Argument'? What is it supposed to show?
-- [Class Notes](https://www.dropbox.com/s/734ti8xiz6wxmjn/class14.pdf)
+- [Slides (3/4)](https://www.dropbox.com/s/734ti8xiz6wxmjn/class14.pdf)
 
 ---
 
