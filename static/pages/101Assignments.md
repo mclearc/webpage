@@ -1,6 +1,13 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 16 (3/11) ##
+
+- Mid-Term Exam Review
+    + Come prepared with questions!
+
+---
+
 ## Class 15 (3/6) ##
 
 - Searle (continued)
