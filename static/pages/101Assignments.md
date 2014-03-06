@@ -4,6 +4,8 @@ Status: hidden
 ## Class 15 (3/6) ##
 
 - Searle (continued)
+    + what is the 'systems' objection?
+    + what is the 'implementation' objection?
 - [Slides (3/6)](https://www.dropbox.com/s/yrmmud8j2vbhavn/class15.pdf)
 
 ---
