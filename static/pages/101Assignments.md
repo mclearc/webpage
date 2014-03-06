@@ -4,6 +4,7 @@ Status: hidden
 ## Class 15 (3/6) ##
 
 - Searle (continued)
+- [Slides (3/6)](https://www.dropbox.com/s/yrmmud8j2vbhavn/class15.pdf)
 
 ---
 
