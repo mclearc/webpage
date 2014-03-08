@@ -3,9 +3,10 @@ Status: hidden
 
 ## Class 16 (3/11) ##
 
-- Locke on Knowledge (see class 15)
+- Locke on Knowledge (continued -- see class 15)
 - Matter and its Critics
     + Leibniz, [*New System on the Nature of Substances*](http://www.earlymoderntexts.com/pdfs/leibniz1695c.pdf)
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/LeibnizMatter.html)
 
 ---
 
