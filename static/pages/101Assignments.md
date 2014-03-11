@@ -5,6 +5,7 @@ Status: hidden
 
 - Mid-Term Exam Review
     + Come prepared with questions!
+- [Slides (3/11)](https://www.dropbox.com/s/8r30vjpheimmtw7/Mid-TermReview.pdf)
 
 ---
 
