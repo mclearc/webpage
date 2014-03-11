@@ -13,6 +13,8 @@ Status: hidden
 - Discuss Mid-Term
 - Matter and its Critics (see class 16)
 
+---
+
 ## Class 16 (3/11) ##
 
 - Locke on Knowledge (continued -- see class 15)
