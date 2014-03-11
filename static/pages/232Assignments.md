@@ -1,6 +1,18 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 18 (3/18) ##
+
+- Leibniz's Idealism
+    + [*The Monadology*](http://www.earlymoderntexts.com/pdfs/leibniz1714b.pdf)
+
+---
+
+## Class 17 (3/13) ##
+
+- Discuss Mid-Term
+- Matter and its Critics (see class 16)
+
 ## Class 16 (3/11) ##
 
 - Locke on Knowledge (continued -- see class 15)
