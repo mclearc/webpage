@@ -1,5 +1,5 @@
 ---
-title: Paper\ Topics
+title: PaperTopics
 status: hidden
 ...
 
