@@ -3,6 +3,8 @@ Status: hidden
 
 ## Class 18 (3/18) ##
 
+- Leibniz's criticisms of material substance conception 
+    - see notes for Class 16
 - Leibniz's Idealism
     + [*The Monadology*](http://www.earlymoderntexts.com/pdfs/leibniz1714b.pdf)
 
