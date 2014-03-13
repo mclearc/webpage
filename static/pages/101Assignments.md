@@ -1,6 +1,12 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 17 (3/13) ##
+
+- Mid-Term
+
+---
+
 ## Class 16 (3/11) ##
 
 - Mid-Term Exam Review
