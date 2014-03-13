@@ -1,7 +1,5 @@
----
 title: PaperTopics
 status: hidden
-...
 
 - [List of Paper Topics](https://www.dropbox.com/s/lo32mi05vearasy/ModernPaperTopics.pdf)
     + Paper Proposal due no later than __Tuesday, April 8th__
