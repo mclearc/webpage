@@ -9,6 +9,8 @@ Status: hidden
         * please follow formatting directions as specified in the [syllabus](http://colinmclear.net/static/pdfs/ModernSyllabus.pdf)
     + If you'd like to write on something other than one of the proposed topics please consult with me
 
+---
+
 ## Class 18 (3/18) ##
 
 - Leibniz's criticisms of material substance conception 
