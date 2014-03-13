@@ -10,3 +10,4 @@ Status: hidden
     - [Tentative assignment
       calendar](https://www.dropbox.com/s/sqzw1xvm5psvknm/ModernCal.pdf)
       (this calendar is subject to change!)
+    - [Paper Topics](|filename|/pages/PaperTopics.md)
