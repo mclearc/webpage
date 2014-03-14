@@ -17,6 +17,7 @@ Status: hidden
     - see notes for Class 16
 - Leibniz's Idealism
     + [*The Monadology*](http://www.earlymoderntexts.com/pdfs/leibniz1714b.pdf)
+        * Especially §§1-15
 
 ---
 
