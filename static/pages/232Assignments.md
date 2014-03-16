@@ -18,6 +18,7 @@ Status: hidden
 - Leibniz's Idealism
     + [*The Monadology*](http://www.earlymoderntexts.com/pdfs/leibniz1714b.pdf)
         * Especially §§1-15
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/LeibnizIdealism.html)
 
 ---
 
