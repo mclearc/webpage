@@ -17,3 +17,6 @@ status: hidden
     - [Tentative Assignment
       Calendar](https://www.dropbox.com/s/g6dpe01u0be0pk9/IntroCalendar.pdf)
       (Note that this calendar is subject to change!)
+    - [Paper Topics](|filename|/pdfs/NewPaperTopics.pdf)
+        + Papers are due Friday, April 25th
+
