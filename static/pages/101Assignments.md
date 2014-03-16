@@ -3,7 +3,7 @@ Status: hidden
 
 ## Paper Topics ##
 
-- [Papers are due Friday, April 25th](|filename|/pdfs/NewPaperTopic.pdf)
+- [Papers are due Friday, April 25th](|filename|/pdfs/NewPaperTopics.pdf)
 
 ---
 
