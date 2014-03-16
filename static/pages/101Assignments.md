@@ -1,6 +1,19 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 18 (3/18) ##
+
+- Mackie, ["The Subjectivity of Value"](https://www.dropbox.com/s/zvx7ff8bh0fgfi8/MackieValue.pdf)
+    - How does Mackie understand the notions of moral skepticism and
+      subjectivism?
+    - How does Mackie understand the difference between "first-order"
+      and "second-order" questions in ethics?
+    - What, according to Mackie, is characteristic of objectivity in ethics?
+    - What is Mackie's "error theory"? Why does he think the error
+      theory is the best description of the nature of ethical judgment?
+
+---
+
 ## Paper Topics ##
 
 - [Papers are due Friday, April 25th](|filename|/pdfs/NewPaperTopics.pdf)
@@ -310,14 +323,7 @@ Status: hidden
 
 ## For Thursday (10/31)
 
-- Mackie, ["The Subjectivity of Value"](https://www.dropbox.com/s/zvx7ff8bh0fgfi8/MackieValue.pdf)
-    - How does Mackie understand the notions of moral skepticism and
-      subjectivism?
-    - How does Mackie understand the difference between "first-order"
-      and "second-order" questions in ethics?
-    - What is characteristic of objectivity in ethics?
-    - What is Mackie's "error theory"? Why does he think the error
-      theory is the best description of the nature of ethical judgment?
+
 
 ---
 
