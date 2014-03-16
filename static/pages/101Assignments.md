@@ -1,6 +1,12 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Paper Topics ##
+
+- [Papers are due Friday, April 25th](|filename|/pdfs/NewPaperTopic.pdf)
+
+---
+
 ## Class 17 (3/13) ##
 
 - Mid-Term
