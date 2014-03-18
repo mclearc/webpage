@@ -1,6 +1,13 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 19 (3/20) ##
+
+- Leibniz, [*Discourse on Metaphysics*](http://www.earlymoderntexts.com/pdfs/leibniz1686d.pdf)
+    + §§8-14 (EMT pp. 4-9)
+
+---
+
 ## Paper Topics ##
 
 - [List of Paper Topics](https://www.dropbox.com/s/lo32mi05vearasy/ModernPaperTopics.pdf)
