@@ -11,6 +11,7 @@ Status: hidden
     - What, according to Mackie, is characteristic of objectivity in ethics?
     - What is Mackie's "error theory"? Why does he think the error
       theory is the best description of the nature of ethical judgment?
+- [Slides (3/18)](https://www.dropbox.com/s/sge2t2tl9xh0cuz/class18.pdf)
 
 ---
 
