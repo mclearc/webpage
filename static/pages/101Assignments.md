@@ -1,6 +1,14 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 19 (3/20) ##
+
+- Mackie (continued)
+    - What is Mackie's argument against noncognitivism?
+    - How does Mackie argue for his error theory?
+
+--- 
+
 ## Class 18 (3/18) ##
 
 - Mackie, ["The Subjectivity of Value"](https://www.dropbox.com/s/zvx7ff8bh0fgfi8/MackieValue.pdf)
