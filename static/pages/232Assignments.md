@@ -5,6 +5,7 @@ Status: hidden
 
 - Leibniz, [*Discourse on Metaphysics*](http://www.earlymoderntexts.com/pdfs/leibniz1686d.pdf)
     + §§8-14 (EMT pp. 4-9)
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/LeibnizFreedom.html)
 
 ---
 
