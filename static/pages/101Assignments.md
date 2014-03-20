@@ -1,11 +1,20 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 20 (4/1) ##
+
+- Mackie (continued)
+    + What is the argument from disagreement? Why does it count against the objectivity of morality?
+    + What is the argument from 'queerness'?
+
+---
+
 ## Class 19 (3/20) ##
 
 - Mackie (continued)
     - What is Mackie's argument against noncognitivism?
     - How does Mackie argue for his error theory?
+- [Slides (3/20)](https://www.dropbox.com/s/zzrw82et9f1rqz3/class19.pdf)
 
 --- 
 
