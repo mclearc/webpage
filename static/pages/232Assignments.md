@@ -1,6 +1,16 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 20 (4/1) ##
+
+- Leibniz on Free Will
+    + [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/LeibnizFreedom.html)
+- Berkeley on Matter & Idealism
+    + [Dialogues 1 & 2](http://www.earlymoderntexts.com/pdfs/berkeley1713.pdf)
+- Paper proposals due Tuesday, April 8 by email
+
+---
+
 ## Class 19 (3/20) ##
 
 - Leibniz, [*Discourse on Metaphysics*](http://www.earlymoderntexts.com/pdfs/leibniz1686d.pdf)
