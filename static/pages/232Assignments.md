@@ -1,6 +1,14 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 21 (4/3) ##
+
+- Berkeley on Matter & Idealism
+    + [Dialogues 1 & 2](http://www.earlymoderntexts.com/pdfs/berkeley1713.pdf)
+    + [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/BerkeleyMatter.html)
+
+---
+
 ## Class 20 (4/1) ##
 
 - Leibniz on Free Will
