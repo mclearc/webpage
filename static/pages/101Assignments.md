@@ -1,11 +1,23 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 21 (4/3) ##
+
+- Williams, [Knowledge, Science, Convergence](https://www.dropbox.com/s/vatj5d6vrrjkmqn/WilliamsEthics.pdf)
+    - What does Williams think of as the important difference between
+      science and ethics?
+    - Why is convergence important for understanding objectivity?
+    - What role does the 'absolute conception' play in Williams's
+      argument?
+
+---
+
 ## Class 20 (4/1) ##
 
 - Mackie (continued)
     + What is the argument from disagreement? Why does it count against the objectivity of morality?
     + What is the argument from 'queerness'?
+- [Slides (4/1)](https://www.dropbox.com/s/0z3vxe7y1wdkkag/class20.pdf)
 
 ---
 
