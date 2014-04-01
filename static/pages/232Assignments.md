@@ -7,7 +7,7 @@ Status: hidden
     + [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/LeibnizFreedom.html)
 - Berkeley on Matter & Idealism
     + [Dialogues 1 & 2](http://www.earlymoderntexts.com/pdfs/berkeley1713.pdf)
-- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/BerkeleyMatter.html)
+    + [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/BerkeleyMatter.html)
 - Paper proposals due Tuesday, April 8 by email
 
 ---
