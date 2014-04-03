@@ -1,6 +1,15 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 22 (4/8) ##
+
+- Berkeley (continued)
+- Hume's theory of mind
+    + [*Enquiry Concerning Human Understanding*](http://www.earlymoderntexts.com/pdfs/hume1748.pdf)
+        * Sections 1-4 (pp. 1-18)
+
+---
+
 ## Class 21 (4/3) ##
 
 - Berkeley on Matter & Idealism
