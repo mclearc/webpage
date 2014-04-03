@@ -1,6 +1,18 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 22 (4/8) ##
+
+- Williams (continued)
+    + What are thick concepts?
+    - What role do thick concepts play (according to Williams) in ethical
+      judgment?
+    - What are the features of Williams's 'hypertraditional society'?
+    - What is the discussion the hypertraditional society meant to show?
+- [Korsgaard on Williams](https://www.dropbox.com/s/n3tyjsufdghrkc7/KorsgaardWilliams.pdf) (optional, but recommended!)
+
+---
+
 ## Class 21 (4/3) ##
 
 - Williams, [Knowledge, Science, Convergence](https://www.dropbox.com/s/vatj5d6vrrjkmqn/WilliamsEthics.pdf)
@@ -9,6 +21,7 @@ Status: hidden
     - Why is convergence important for understanding objectivity?
     - What role does the 'absolute conception' play in Williams's
       argument?
+- [Slides (4/3)](https://www.dropbox.com/s/ue04c7bch4owu5j/class21.pdf)
 
 ---
 
