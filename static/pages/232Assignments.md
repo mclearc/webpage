@@ -7,6 +7,7 @@ Status: hidden
 - Hume's theory of mind
     + [*Enquiry Concerning Human Understanding*](http://www.earlymoderntexts.com/pdfs/hume1748.pdf)
         * Sections 1-4 (pp. 1-18)
+- __Paper Proposals Due__ by email
 
 ---
 
