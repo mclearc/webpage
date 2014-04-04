@@ -11,3 +11,5 @@ Status: hidden
       calendar](https://www.dropbox.com/s/sqzw1xvm5psvknm/ModernCal.pdf)
       (this calendar is subject to change!)
     - [Paper Topics](|filename|/pages/PaperTopics.md)
+        - [Writing a Thesis Statement](https://www.dropbox.com/s/lyods0bt22x8u6l/ThesisOverview.pdf)
+        - [Paper Structure](https://www.dropbox.com/s/eaggc570nfu6nqa/PaperStructure.pdf)
