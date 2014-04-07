@@ -1,6 +1,15 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+<!--
+## Class 23 (4/10) ##
+
+- Hume on causation
+    + *Enquiry*, sections 4-7 (pp.11-39)
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/HumeCausation.html)
+
+---
+-->
 ## Class 22 (4/8) ##
 
 - Berkeley (continued)

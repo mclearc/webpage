@@ -22,7 +22,7 @@ Links to tools I use for research and writing
 - [Sublime Text](http://www.sublimetext.com): Superb text editor
 - [BibDesk](http://bibdesk.sourceforge.net): Reference Manager
 - [Skim](http://skim-app.sourceforge.net): PDF Reader & Annotator
-- [Git](http://kieranhealy.org/resources/): Version control
+- [Git](http://git-scm.com): Version control
 - [Github](https://education.github.com): Online storage and collaboration
 - Kieran Healy's [writing resources page](http://kieranhealy.org/resources/)
 - [Profhacker](http://chronicle.com/blogs/profhacker/): Blog on teaching & technology 
