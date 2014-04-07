@@ -8,6 +8,7 @@ Status: hidden
     + [*Enquiry Concerning Human Understanding*](http://www.earlymoderntexts.com/pdfs/hume1748.pdf)
         * Sections 1-4 (pp. 1-18)
 - __Paper Proposals Due__ by email
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/HumeMind.html)
 
 ---
 
