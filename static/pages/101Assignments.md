@@ -1,6 +1,15 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 23 (4/10) ##
+
+- Camus, ["The Myth of Sisyphus"](https://www.dropbox.com/s/m9jaaspbik6u7q0/CamusSisyphus.pdf)
+    - Why, according to Camus, is the only philosophical problem
+      whether one should commit suicide?
+    - Why does Camus think life is absurd? What does 'absurd' mean here?
+    - What does Camus think the appropriate response is to the
+      (supposed) absurdity of life?
+
 ## Class 22 (4/8) ##
 
 - Williams (continued)
@@ -10,6 +19,7 @@ Status: hidden
     - What are the features of Williams's 'hypertraditional society'?
     - What is the discussion the hypertraditional society meant to show?
 - [Korsgaard on Williams](https://www.dropbox.com/s/n3tyjsufdghrkc7/KorsgaardWilliams.pdf) (optional, but recommended!)
+- [Slides (4/8)](https://www.dropbox.com/s/6qyznq79xvpqklp/class22.pdf)
 
 ---
 
