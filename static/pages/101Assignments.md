@@ -10,6 +10,8 @@ Status: hidden
     - What does Camus think the appropriate response is to the
       (supposed) absurdity of life?
 
+---
+
 ## Class 22 (4/8) ##
 
 - Williams (continued)
