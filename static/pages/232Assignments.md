@@ -1,9 +1,24 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## No Class on 4/17!
+
+- Work on your papers!
+
+---
+
+## Class 24 (4/15) ##
+
+- Hume on Personal Identity
+    + *Treatise on Human Nature*, [ch. 6 & Appendix](https://www.dropbox.com/s/9hwq00ov6minmm1/Hume_PersonalIdentity.pdf)
+- Hume's Skepticsm
+    + [*Enquiry*](https://www.dropbox.com/s/ke1anl6uhc6tnz1/hume1748.pdf), section 12
+
+---
+
 ## Class 23 (4/10) ##
 
-- Hume on causation
+- Hume on Causation
     + *Enquiry*, sections 4-7 (pp.11-39)
 - [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/HumeCausation.html)
 
@@ -12,7 +27,7 @@ Status: hidden
 ## Class 22 (4/8) ##
 
 - Berkeley (continued)
-- Hume's theory of mind
+- Hume's Theory of Mind
     + [*Enquiry Concerning Human Understanding*](http://www.earlymoderntexts.com/pdfs/hume1748.pdf)
         * Sections 1-4 (pp. 1-18)
 - __Paper Proposals Due__ by email
