@@ -1,6 +1,16 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 24 (4/15) ##
+
+- Nagel, ["The Absurd"](https://www.dropbox.com/s/s59gcrwcvt1mq4p/NagelAbsurd.pdf)
+    - What does Nagel think of standard ways of arguing for the absurdity of
+      life?
+    - What, according to Nagel, generates the sense that life is absurd?
+    - What is Nagel's 'solution' to the absurdity of life?
+
+---
+
 ## Class 23 (4/10) ##
 
 - Camus, ["The Myth of Sisyphus"](https://www.dropbox.com/s/m9jaaspbik6u7q0/CamusSisyphus.pdf)
@@ -9,6 +19,7 @@ Status: hidden
     - Why does Camus think life is absurd? What does 'absurd' mean here?
     - What does Camus think the appropriate response is to the
       (supposed) absurdity of life?
+- [Slides (4/10)](https://www.dropbox.com/s/utckv3zhqvxn1vq/class23.pdf)
 
 ---
 
