@@ -11,6 +11,7 @@ Status: hidden
 
 - Hume on Personal Identity
     + *Treatise on Human Nature*, [ch. 6 & Appendix](https://www.dropbox.com/s/9hwq00ov6minmm1/Hume_PersonalIdentity.pdf)
+    + [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/HumeIdentity.html)
 - Hume's Skepticsm
     + [*Enquiry*](https://www.dropbox.com/s/ke1anl6uhc6tnz1/hume1748.pdf), section 12
 
