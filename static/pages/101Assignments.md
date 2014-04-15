@@ -8,6 +8,7 @@ Status: hidden
       life?
     - What, according to Nagel, generates the sense that life is absurd?
     - What is Nagel's 'solution' to the absurdity of life?
+- [Slides (4/15)](https://www.dropbox.com/s/fdbf6bgd6ko2guu/class24.pdf)
 
 ---
 
