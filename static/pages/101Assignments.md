@@ -1,6 +1,21 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 25 (4/22) ##
+
+- Descartes, ["Meditations I-II"](https://www.dropbox.com/s/9bxwhndy6so3oar/DescartesMeditations.pdf)
+    - What does Descartes doubt and why?
+    - What are the stages of doubt?
+    - What, according to Descartes, cannot be doubted?
+
+---
+
+## No Class Thursday, 4/17! ##
+
+- Section on Friday meets as usual
+
+---
+
 ## Class 24 (4/15) ##
 
 - Nagel, ["The Absurd"](https://www.dropbox.com/s/s59gcrwcvt1mq4p/NagelAbsurd.pdf)
