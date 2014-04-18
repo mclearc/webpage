@@ -1,6 +1,13 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 25 (4/22) ##
+
+- Kant & the Synthetic A Priori
+    + [Introduction](http://www.earlymoderntexts.com/pdfs/kant1781part1.pdf) to the *Critique of Pure Reason* (pp. 17-27)
+
+---
+
 ## No Class on 4/17!
 
 - Work on your papers!
