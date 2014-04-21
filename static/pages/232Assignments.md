@@ -23,6 +23,7 @@ Status: hidden
 
 - Kant & the Synthetic A Priori
     + [Introduction](http://www.earlymoderntexts.com/pdfs/kant1781part1.pdf) to the *Critique of Pure Reason* (pp. 17-27)
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/KantIntro.html)
 
 ---
 
