@@ -1,6 +1,24 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 27 (4/29) ##
+
+- Kant's 'Transcendental Deduction' and Defense of Causation
+    + [*Critique of Pure Reason*](http://www.earlymoderntexts.com/pdfs/kant1781part1.pdf), 
+        + On Logic pp. 41-2 
+        + Introduction to the Deduction, pp. 57-61, 73-4
+        + On Causation (the Second Analogy), pp. 111-20 
+
+---
+
+## Class 26 (4/24) ##
+
+- Kant on Space, Geometry, and Idealism
+    + [*Critique of Pure Reason*](http://www.earlymoderntexts.com/pdfs/kant1781part1.pdf), Transcendental Aesthetic (space only), pp. 28-32
+    + [Prolegomena](http://www.earlymoderntexts.com/pdfs/kant1783_1.pdf), §§6-13 & notes 1-2 (pp. 17-22) 
+
+---
+
 ## Class 25 (4/22) ##
 
 - Kant & the Synthetic A Priori

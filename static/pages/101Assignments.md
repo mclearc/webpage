@@ -1,6 +1,14 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 26 (4/24) ##
+
+- Moore, ["Proof of the External World"](https://www.dropbox.com/s/r62o7o9vmoedwle/MooreProof.pdf)
+    - What is Moore's Proof?
+    - What assumption about knowledge does Moore reject?
+
+---
+
 ## Class 25 (4/22) ##
 
 - Descartes, ["Meditations I-II"](https://www.dropbox.com/s/9bxwhndy6so3oar/DescartesMeditations.pdf)
