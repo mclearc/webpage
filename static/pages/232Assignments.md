@@ -16,6 +16,7 @@ Status: hidden
 - Kant on Space, Geometry, and Idealism
     + [*Critique of Pure Reason*](http://www.earlymoderntexts.com/pdfs/kant1781part1.pdf), Transcendental Aesthetic (space only), pp. 28-32
     + [Prolegomena](http://www.earlymoderntexts.com/pdfs/kant1783_1.pdf), §§6-13 & notes 1-2 (pp. 17-22) 
+        * we'll discuss §13 in some detail
 
 ---
 
