@@ -11,6 +11,12 @@ Status: hidden
 
 ---
 
+## Paper Due Friday (4/25) ##
+
+Paper due by email to me by 4 p.m. Friday
+
+---
+
 ## Class 26 (4/24) ##
 
 - Kant on Space, Geometry, and Idealism
