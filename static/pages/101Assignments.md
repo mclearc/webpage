@@ -9,6 +9,8 @@ Status: hidden
       inductive knowledge?
     - What proof is there that nature is uniform? 
 
+--- 
+
 ## Class 26 (4/24) ##
 
 - Moore, ["Proof of the External World"](https://www.dropbox.com/s/r62o7o9vmoedwle/MooreProof.pdf)
