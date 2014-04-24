@@ -1,11 +1,20 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 27 (4/29) ##
+
+- Russell, ["On Induction"](https://www.dropbox.com/s/7l4zpvqhz0t5qao/RussellInduction.pdf)
+    - What is the problem of induction?
+    - Why must we assume that nature is uniform in order to have
+      inductive knowledge?
+    - What proof is there that nature is uniform? 
+
 ## Class 26 (4/24) ##
 
 - Moore, ["Proof of the External World"](https://www.dropbox.com/s/r62o7o9vmoedwle/MooreProof.pdf)
     - What is Moore's Proof?
     - What assumption about knowledge does Moore reject?
+- [Slides (4/24)](https://www.dropbox.com/s/9tlkbfu2xksvy1u/class26.pdf)
 
 ---
 
