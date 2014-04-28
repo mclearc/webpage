@@ -8,6 +8,7 @@ Status: hidden
         + On Logic pp. 41-2 
         + Introduction to the Deduction, pp. 57-61, 73-4
         + On Causation (the Second Analogy), pp. 111-20 
+- [Class Notes](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/KantCausation.html)
 
 ---
 
