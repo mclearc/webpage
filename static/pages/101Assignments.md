@@ -1,6 +1,13 @@
 Title: Phil101 Assignments
 Status: hidden
 
+## Class 28 (5/1) ##
+
+- Review for exam
+    + come prepared with questions
+
+---
+
 ## Class 27 (4/29) ##
 
 - Russell, ["On Induction"](https://www.dropbox.com/s/7l4zpvqhz0t5qao/RussellInduction.pdf)
