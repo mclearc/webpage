@@ -8,6 +8,7 @@ Status: hidden
     - Why must we assume that nature is uniform in order to have
       inductive knowledge?
     - What proof is there that nature is uniform? 
+[Slides (4/29)](https://www.dropbox.com/s/rs8uh8uq902wdud/class27.pdf)
 
 --- 
 
