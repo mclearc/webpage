@@ -1,6 +1,13 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Class 28 (5/1) ##
+
+- Kant on causation (continued)
+- Review for final exam
+
+---
+
 ## Class 27 (4/29) ##
 
 - Kant's 'Transcendental Deduction' and Defense of Causation
