@@ -5,6 +5,7 @@ Status: hidden
 
 - Review for exam
     + come prepared with questions
+- [Slides (5/1)](https://www.dropbox.com/s/w4wy99viqp7ohaz/FinalReview.pdf)
 
 ---
 
