@@ -1,6 +1,15 @@
 Title: ModernPhilosophy Assignments
 Status: hidden
 
+## Final Exam Info ##
+
+- Thursday, May 8: 10:00 to 12:00 noon
+    - http://registrar.unl.edu/final-exam-information-spring
+- Location: CBA 118 (our normal room)
+- [Overview](http://htmlpreview.github.io/?https://github.com/mclearc/ModernPhilosophyNotes/blob/master/FinalOverview.html) of material for Final
+
+---
+
 ## Class 28 (5/1) ##
 
 - Kant on causation (continued)
