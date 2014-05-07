@@ -2,7 +2,7 @@ Title: Research
 
 ### Publications
 
-- ["Kant on Perceptual Content,"](https://www.dropbox.com/s/l2t08k71cgemtb5/KantContent.pdf) forthcoming in *Mind*
+- ["Kant on Perceptual Content,"](|filename|/pdfs/KantContent.pdf) forthcoming in *Mind*
 - ["Two Kinds of Unity in the *Critique of Pure Reason*,"](|filename|/pdfs/KantUnity.pdf)
   forthcoming in *Journal of the History of Philosophy* 
 - ["Kant on Animal Consciousness,"](|filename|/pdfs/KantAnimalConsciousness.pdf) *Philosophers’ Imprint*, Vol. 11,
