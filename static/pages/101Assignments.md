@@ -5,37 +5,37 @@ Status: hidden
 
 - Review for exam
     + come prepared with questions
-- [Slides (5/1)](https://www.dropbox.com/s/vzakerexo5tiwkd/FinalReview.pdf)
+- [Slides (5/1)](|filename|/pdfs/phil101/FinalReview.pdf)
 
 ---
 
 ## Class 27 (4/29) ##
 
-- Russell, ["On Induction"](https://www.dropbox.com/s/7l4zpvqhz0t5qao/RussellInduction.pdf)
+- Russell, ["On Induction"](|filename|/pdfs/phil101/RussellInduction.pdf)
     - What is the problem of induction?
     - Why must we assume that nature is uniform in order to have
       inductive knowledge?
     - What proof is there that nature is uniform? 
-- [Slides (4/29)](https://www.dropbox.com/s/rs8uh8uq902wdud/class27.pdf)
+- [Slides (4/29)](|filename|/pdfs/phil101/class27.pdf)
 
 --- 
 
 ## Class 26 (4/24) ##
 
-- Moore, ["Proof of the External World"](https://www.dropbox.com/s/r62o7o9vmoedwle/MooreProof.pdf)
+- Moore, ["Proof of the External World"](|filename|/pdfs/phil101/MooreProof.pdf)
     - What is Moore's Proof?
     - What assumption about knowledge does Moore reject?
-- [Slides (4/24)](https://www.dropbox.com/s/9tlkbfu2xksvy1u/class26.pdf)
+- [Slides (4/24)](|filename|/pdfs/phil101/class26.pdf)
 
 ---
 
 ## Class 25 (4/22) ##
 
-- Descartes, ["Meditations I-II"](https://www.dropbox.com/s/9bxwhndy6so3oar/DescartesMeditations.pdf)
+- Descartes, ["Meditations I-II"](|filename|/pdfs/phil101/DescartesMeditations.pdf)
     - What does Descartes doubt and why?
     - What are the stages of doubt?
     - What, according to Descartes, cannot be doubted?
-- [Slides (4/22)](https://www.dropbox.com/s/xr7vlhlemfeaehf/class25.pdf)
+- [Slides (4/22)](|filename|/pdfs/phil101/class25.pdf)
 
 ---
 
@@ -47,24 +47,24 @@ Status: hidden
 
 ## Class 24 (4/15) ##
 
-- Nagel, ["The Absurd"](https://www.dropbox.com/s/s59gcrwcvt1mq4p/NagelAbsurd.pdf)
+- Nagel, ["The Absurd"](|filename|/pdfs/phil101/NagelAbsurd.pdf)
     - What does Nagel think of standard ways of arguing for the absurdity of
       life?
     - What, according to Nagel, generates the sense that life is absurd?
     - What is Nagel's 'solution' to the absurdity of life?
-- [Slides (4/15)](https://www.dropbox.com/s/fdbf6bgd6ko2guu/class24.pdf)
+- [Slides (4/15)](|filename|/pdfs/phil101/class24.pdf)
 
 ---
 
 ## Class 23 (4/10) ##
 
-- Camus, ["The Myth of Sisyphus"](https://www.dropbox.com/s/m9jaaspbik6u7q0/CamusSisyphus.pdf)
+- Camus, ["The Myth of Sisyphus"](|filename|/pdfs/phil101/CamusSisyphus.pdf)
     - Why, according to Camus, is the only philosophical problem
       whether one should commit suicide?
     - Why does Camus think life is absurd? What does 'absurd' mean here?
     - What does Camus think the appropriate response is to the
       (supposed) absurdity of life?
-- [Slides (4/10)](https://www.dropbox.com/s/utckv3zhqvxn1vq/class23.pdf)
+- [Slides (4/10)](|filename|/pdfs/phil101/class23.pdf)
 
 ---
 
@@ -76,20 +76,20 @@ Status: hidden
       judgment?
     - What are the features of Williams's 'hypertraditional society'?
     - What is the discussion the hypertraditional society meant to show?
-- [Korsgaard on Williams](https://www.dropbox.com/s/n3tyjsufdghrkc7/KorsgaardWilliams.pdf) (optional, but recommended!)
-- [Slides (4/8)](https://www.dropbox.com/s/6qyznq79xvpqklp/class22.pdf)
+- [Korsgaard on Williams](|filename|/pdfs/phil101/KorsgaardWilliams.pdf) (optional, but recommended!)
+- [Slides (4/8)](|filename|/pdfs/phil101/class22.pdf)
 
 ---
 
 ## Class 21 (4/3) ##
 
-- Williams, [Knowledge, Science, Convergence](https://www.dropbox.com/s/vatj5d6vrrjkmqn/WilliamsEthics.pdf)
+- Williams, [Knowledge, Science, Convergence](|filename|/pdfs/phil101/WilliamsEthics.pdf)
     - What does Williams think of as the important difference between
       science and ethics?
     - Why is convergence important for understanding objectivity?
     - What role does the 'absolute conception' play in Williams's
       argument?
-- [Slides (4/3)](https://www.dropbox.com/s/ue04c7bch4owu5j/class21.pdf)
+- [Slides (4/3)](|filename|/pdfs/phil101/class21.pdf)
 
 ---
 
@@ -98,7 +98,7 @@ Status: hidden
 - Mackie (continued)
     + What is the argument from disagreement? Why does it count against the objectivity of morality?
     + What is the argument from 'queerness'?
-- [Slides (4/1)](https://www.dropbox.com/s/0z3vxe7y1wdkkag/class20.pdf)
+- [Slides (4/1)](|filename|/pdfs/phil101/class20.pdf)
 
 ---
 
@@ -107,13 +107,13 @@ Status: hidden
 - Mackie (continued)
     - What is Mackie's argument against noncognitivism?
     - How does Mackie argue for his error theory?
-- [Slides (3/20)](https://www.dropbox.com/s/zzrw82et9f1rqz3/class19.pdf)
+- [Slides (3/20)](|filename|/pdfs/phil101/class19.pdf)
 
 --- 
 
 ## Class 18 (3/18) ##
 
-- Mackie, ["The Subjectivity of Value"](https://www.dropbox.com/s/zvx7ff8bh0fgfi8/MackieValue.pdf)
+- Mackie, ["The Subjectivity of Value"](|filename|/pdfs/phil101/MackieValue.pdf )
     - How does Mackie understand the notions of moral skepticism and
       subjectivism?
     - How does Mackie understand the difference between "first-order"
@@ -121,7 +121,7 @@ Status: hidden
     - What, according to Mackie, is characteristic of objectivity in ethics?
     - What is Mackie's "error theory"? Why does he think the error
       theory is the best description of the nature of ethical judgment?
-- [Slides (3/18)](https://www.dropbox.com/s/sge2t2tl9xh0cuz/class18.pdf)
+- [Slides (3/18)](|filename|/pdfs/phil101/class18.pdf)
 
 ---
 
@@ -141,7 +141,7 @@ Status: hidden
 
 - Mid-Term Exam Review
     + Come prepared with questions!
-- [Slides (3/11)](https://www.dropbox.com/s/8r30vjpheimmtw7/Mid-TermReview.pdf)
+- [Slides (3/11)](|filename|/pdfs/phil101/Mid-TermReview.pdf)
 
 ---
 
