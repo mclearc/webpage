@@ -150,17 +150,17 @@ Status: hidden
 - Searle (continued)
     + what is the 'systems' objection?
     + what is the 'implementation' objection?
-- [Slides (3/6)](https://www.dropbox.com/s/yrmmud8j2vbhavn/class15.pdf)
+- [Slides (3/6)](|filename|/pdfs/phil101/class15.pdf)
 
 ---
 
 ## Class 14 (3/4) ##
 
-- Searle, ["Is the Brain's Mind a Computer Program?"](https://www.dropbox.com/s/ds4gd8euw7n6iqu/searle1990b.pdf)
+- Searle, ["Is the Brain's Mind a Computer Program?"](|filename|/pdfs/phil101/SearleBrain.pdf)
     - What model of the mind is Searle criticizing?
     - What is the difference between syntax and semantics?
     - What is the 'Chinese Room Argument'? What is it supposed to show?
-- [Slides (3/4)](https://www.dropbox.com/s/734ti8xiz6wxmjn/class14.pdf)
+- [Slides (3/4)](|filename|/pdfs/phil101/class14.pdf)
 
 ---
 
@@ -170,7 +170,7 @@ Status: hidden
     - what is indication?
     - what is the relationship between indication and representation?
     - what is a function and how is it important for representation?
-- [Slides (2/25)](https://www.dropbox.com/s/pni43vdtb0m1nnx/class13.pdf)
+- [Slides (2/25)](|filename|/pdfs/phil101/class13.pdf)
 - __No Class on Thursday 2/27!__
     + Friday section occurs as normal
 
@@ -178,28 +178,29 @@ Status: hidden
 
 ## Class 12 (2/20)
 
-- Dretske, ["A Recipe for Thought"](https://www.dropbox.com/s/2uu53eqoc40sbfc/dretske1994.pdf)
+- Dretske, ["A Recipe for
+Thought"](|filename|/pdfs/phil101/DretskeMind.pdf)
     - In what sense does Drestske think of intentionality as natural?
     - Why is misrepresentation an important for understanding intentionality?
     - What is the 'disjunction problem'?
-- [Slides (2/20)](https://www.dropbox.com/s/93m0lwy2l9z2qai/class12.pdf)
+- [Slides (2/20)](|filename|/pdfs/phil101/class12.pdf)
 
 ---
 
 ## Class 11 (2/18)
 
-- Tim Crane, ["The Puzzle of Representation"](https://www.dropbox.com/s/h2egqzwnbs9rxh1/Crane_PuzzleMind.pdf)
+- Tim Crane, ["The Puzzle of Representation"](|filename|/pdfs/phil101/Crane_PuzzleMind.pdf)
     - why is the issue of representation problematic?
     - why can't all representation be understood in terms of resemblance?
     - what is the distinction between attitude and content in mental representation?
     - what is intentionality?
-- [Slides (2/18)](https://www.dropbox.com/s/1m9befjimvt0up2/class11.pdf)
+- [Slides (2/18)](|filename|/pdfs/phil101/class11.pdf)
 
 ---
 
 ## Class 10 (2/13)
 
-- David Lewis: [What Experience Teaches](https://www.dropbox.com/s/bco5xuir6mulkwy/lewis1999a.pdf)
+- David Lewis: [What Experience Teaches](|filename|/pdfs/phil101/LewisQualia.pdf)
     - Read the following sections (though you're encouraged to read the whole thing!)
         - Experience the best teacher
         - The hypothesis of phenomenal information
@@ -208,17 +209,17 @@ Status: hidden
     - What, according to Lewis, is 'phenomenal information'?
     - What role does phenomenal information play in the Knowledge Argument and its assessment?
     - What is the 'ability hypothesis' and how does it propose to resolve the Knowledge Argument?
-- [Slides (2/13)](https://www.dropbox.com/s/11dchjs1hktdast/class10.pdf)
+- [Slides (2/13)](|filename|/pdfs/phil101/class10.pdf)
 
 ---
 
 ## Class 9 (2/11)
 
 - Review Block's distinction between two kinds of consciousness
-- Frank Jackson: [Ephiphenomenal Qualia](https://www.dropbox.com/s/49l13gsdxmlg60q/jackson1982.pdf)
+- Frank Jackson: [Ephiphenomenal Qualia](|filename|/pdfs/phil101/JacksonQualia.pdf)
     - What is the knowledge argument? How does it threaten the truth of physicalism?
     - What is the modal argument? Why is the possibility of a phenomenal zombie a problem for physicalism?
-- [Slides (2/11)](https://www.dropbox.com/s/5gims4f88b0aaek/class9.pdf)
+- [Slides (2/11)](|filename|/pdfs/phil101/class9.pdf)
 ---
 
 ## Class 8 (2/6)
@@ -226,7 +227,7 @@ Status: hidden
 - Block on consciousness (continued)
     - what is the "target reasoning" with which Block is concerned?
     - what is the difference between A and P-consciousness? Are Block's arguments convincing?
-- [Slides (2/6)](https://www.dropbox.com/s/y9y8mrj93z4ffea/class8.pdf)
+- [Slides (2/6)](|filename|/pdfs/phil101/class8.pdf)
 
 ---
 
@@ -242,34 +243,34 @@ Status: hidden
 
 ## Class 6 (1/30)
 
-- Ned Block: [On a Confusion about a Function of Consciousness](https://www.dropbox.com/s/pht8qbek0p5333x/BlockConsciousness.pdf)
+- Ned Block: [On a Confusion about a Function of Consciousness](|filename|/pdfs/phil101/BlockConsciousness.pdf)
     - What is the difference between A-consciousness and P-consciousness?
     - Does this distinction make a difference to Nagel's argument about physicalism?
-- [Slides (1/30)](https://www.dropbox.com/s/5lwgteowgexyem4/class6.pdf)
+- [Slides (1/30)](|filename|/pdfs/phil101/class6.pdf)
 ---
 
 ## Class 5 (1/28)
 
-- Thomas Nagel (continued): [What is it like to be a bat?]( |filename|/pdfs/NagelBat.pdf )
+- Thomas Nagel (continued): [What is it like to be a bat?](|filename|/pdfs/phil101/NagelBat.pdf)
     - What is physicalism?
     - What is the significance of the experience of the bat for physicalism?
     - What, according to Nagel, is the problem concerning consciousness and objectivity?
     - Is th)re a connection between Nagel's notion of physicalism and objectivity and Williams' discussion of the 'Absolute Conception'?
-- [Slides (1/28)](https://www.dropbox.com/s/nct70xd3beajy2c/class5.pdf)
+- [Slides (1/28)](|filename|/pdfs/phil101/class5.pdf)
 
 --- 
 
 ## Class 4 (1/23)
 
 - Williams on Objectivity (continued)
-- Thomas Nagel: [What is it like to be a bat?]( |filename|/pdfs/NagelBat.pdf )
+- Thomas Nagel: [What is it like to be a bat?]( |filename|/pdfs/phil101/NagelBat.pdf )
     - What is physicalism?
     - What is the significance of the experience of the bat for physicalism?
     - Is there a connection between Nagel's notion of physicalism and objectivity and Williams' discussion of the 'Absolute Conception'?
 - If you are finding it difficult to understand what you should be doing in reading philosophy read ch.1 of Vaughn---*Writing Philosophy*
 - If you find it difficult to distinguish between and evaluate different kinds of arguments (e.g. inductive and deductive arguments) you should read ch. 2 of Vaughn---*Writing Philosophy*
 - Please be sur) to bring your iClicker to class
-- [Slides (1/23)](https://www.dropbox.com/s/cdvu2z25qcsbxlj/class4.pdf)
+- [Slides (1/23)](|filename|/pdfs/phil101/class4.pdf)
 ---
 
 ## Class 3 (1/21)
@@ -278,27 +279,27 @@ Status: hidden
     - When Williams says that knowledge is "of what is there anyway" what does he mean?
     - What is the "absolute conception of reality" and what is its relation to knowledge?
     - On p. 226 Williams begins talking about the distinction between "primary" qualities (supposedly fundamental qualities like shape, location, and size) and "secondary" qualities (supposedly non-fundamental or subjective qualities like colors, tastes, and smells). How does Williams think the distinction between primary and secondary qualities fits into the notion of the absolute conception of reality?
-- [Slides (1/21)](https://www.dropbox.com/s/jjtb7rycsqnn98j/class3.pdf)
+- [Slides (1/21)](|filename|/pdfs/phil101/class3.pdf)
 
 ---
 
 ## Class 2 (1/16)
 
-- Excerpt from Baggini & Fosl -- [Overview of Validity & Soundness](https://www.dropbox.com/s/p8rt84c3t5alilf/LogicOverview.pdf)  
+- Excerpt from Baggini & Fosl -- [Overview of Validity & Soundness](|filename|/pdfs/phil101/LogicOverview.pdf)  
 - Read Galileo -- Excerpt from [*The
-  Assayer*](https://www.dropbox.com/s/zwqcug3yxtuk4u3/GalileoAssayer.pdf)
+  Assayer*](|filename|/pdfs/phil101/GalileoAssayer.pdf)
   (Start at the bottom of page 273) 
     - What is Galileo trying to show?
     - What is the connection between what Galileo says about colors, tastes, and smells and what he says about heat?
     - What is Galileo's argument on p. 274? Is it convincing? Is it valid? Is it sound?
-- [Slides (1/16)](https://www.dropbox.com/s/xb9ztep70tb3o8o/class2.pdf)
+- [Slides (1/16)](|filename|/pdfs/phil101/class2.pdf)
 
 ---
 
 ## Class 1 (1/14)
 
 - Course introduction and overview
-- [Slides (1/14)](https://www.dropbox.com/s/dk7o96kojiyph15/class1.pdf)
+- [Slides (1/14)](|filename|/pdfs/phil101/class1.pdf)
 
 <!--
 
