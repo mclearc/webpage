@@ -3,8 +3,8 @@ Title: Contact
 
 Dr. Colin McLear  
 Office: 1003 Oldfather Hall  
-Office hours: T/R 11-12  
-Email: mclear(at)unl.edu  
+Office hours: M--F, 2-3 p.m.  
+Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#99;&#108;&#101;&#97;&#114;&#64;&#117;&#110;&#108;&#46;&#101;&#100;&#117;">&#109;&#99;&#108;&#101;&#97;&#114;&#64;&#117;&#110;&#108;&#46;&#101;&#100;&#117;</a>
 
 ### PHIL 101 Students:
 

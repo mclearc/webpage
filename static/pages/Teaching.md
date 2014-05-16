@@ -1,13 +1,12 @@
 Title: Teaching
 
-### Fall 2013
-
-- [ Introduction to Philosophy ]()
-- [ Seminar on Conceptualism ](|filename|/pages/conceptualism.md)
-
-### Spring 2014
+### Current Classes  ###
 
 - [Introduction to Philosophy](|filename|/pages/intro.md)
+
+### Previously Taught ###
+
+- [Seminar on Conceptualism](|filename|/pages/conceptualism.md)
 - [History of Modern Philosophy](|filename|/pages/modernphilosophy.md)
 
 

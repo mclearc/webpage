@@ -2,21 +2,16 @@ Title: Phil101
 Date: 26-06-2013
 status: hidden
 
+## PHIL 101 (Summer) -- Course Information ##
 
-## PHIL 101 -- Course Information
+- [Assignment Schedule](|filename|/pages/Summer101.md)
+    + This schedule is subject to change!
+- [Paper Topics](|filename|/pdfs/phil101/NewPaperTopics.pdf)
+    + Papers are due Tuesday, June 3rd
+- [Syllabus](|filename|/pdfs/phil101/IntroSyllabus.pdf)
+- Contact: [Dr. Colin McLear](|filename|/pages/Contact.md)
+- Office Hours: M-F, 2-3 p.m. in Oldfather Hall 1003
 
-- [Syllabus](|filename|/pdfs/IntroSyllabus.pdf)
-- Contact Information
-    - [Dr. Colin McLear](|filename|/pages/Contact.md): T/R 11-12 or by appointment
-    - [Shane George](mailto:algernongordoneffect@gmail.com): Mon 2:30-3:30 and Tue. 3:30-4:30 
-    - [Andrew Spaid](mailto:spaid@uwalumni.com): Monday 1-3pm
-- iClicker Information
-    - [User Guide](http://learningspaces.unl.edu/Self%20Paced%20Polling%20Student%20User%20Guide.pdf)
-    - [iClicker Registration Guide](http://learningspaces.unl.edu/Student%20Registration%20Steps.pdf)
-- [Assignments](|filename|/pages/101Assignments.md)
-    - [Tentative Assignment
-      Calendar](https://www.dropbox.com/s/kxzk76ef9u9uo3u/IntroCalendar.pdf)
-      (Note that this calendar is subject to change!)
-    - [Paper Topics](|filename|/pdfs/NewPaperTopics.pdf)
-        + Papers are due Friday, April 25th
-
+<!--- [User Guide](http://learningspaces.unl.edu/Self%20Paced%20Polling%20Student%20User%20Guide.pdf)
+    - [iClicker Registration
+Guide](http://learningspaces.unl.edu/Student%20Registration%20Steps.pdf)-->
