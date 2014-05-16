@@ -12,8 +12,9 @@ forthcoming in *Mind*.
 
 If you're interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
 
--   "Intuition and Presence" Draft.
--   "Definition and Essence in the *Metaphysical Foundations of Natural Science*" Draft.
--   "The Role of the Understanding in Kant's Philosophy of Nature,"
-    Draft.
+- "The Kantian (Non)-Conceptualism Debate" Draft.
+- "Intuition and Presence" Draft.
+- "Definition and Essence in the *Metaphysical Foundations of Natural Science*"
+  Draft.
+- "The Role of the Understanding in Kant's Philosophy of Nature," Draft.
 
