@@ -15,7 +15,7 @@ Status: hidden
 
 ## Class 2 -- Consciousness and Physicalism ##
 
-- Thomas Nagel: [What is it like to be a bat?]( |filename|/pdfs/phil101/NagelBat.pdf )
+- Thomas Nagel: ["What is it like to be a bat?"]( |filename|/pdfs/phil101/NagelBat.pdf )
     - What is physicalism?
     - What is the significance of the experience of the bat for physicalism?
     - What, according to Nagel, is the problem concerning consciousness and
@@ -25,7 +25,7 @@ Status: hidden
 
 ## Class 3 -- Varieties of Consciousness ##
 
-- Ned Block: [On a Confusion about a Function of Consciousness](|filename|/pdfs/phil101/BlockConsciousness.pdf)
+- Ned Block: ["On a Confusion about a Function of Consciousness"](|filename|/pdfs/phil101/BlockConsciousness.pdf)
     - What is the "target reasoning" with which Block is concerned?
     - What is the difference between A-consciousness and P-consciousness? Are
       Block's arguments/examples convincing?
@@ -36,7 +36,7 @@ Status: hidden
 
 ## Class 4 -- Qualia & the Knowledge Argument ##
 
-- Frank Jackson: [Ephiphenomenal Qualia](|filename|/pdfs/phil101/JacksonQualia.pdf)
+- Frank Jackson: ["Ephiphenomenal Qualia"](|filename|/pdfs/phil101/JacksonQualia.pdf)
     - What is the knowledge argument? How does it threaten the truth of physicalism?
     - What is the modal argument? Why is the possibility of a phenomenal zombie a problem for physicalism?
 
@@ -44,7 +44,7 @@ Status: hidden
 
 ## Class 5 -- Replies to the Knowledge Argument ##
 
-- David Lewis: [What Experience Teaches](|filename|/pdfs/phil101/LewisQualia.pdf)
+- David Lewis: ["What Experience Teaches"](|filename|/pdfs/phil101/LewisQualia.pdf)
     - Read the following sections (though you're encouraged to read the whole thing!)
         - Experience the best teacher
         - The hypothesis of phenomenal information
