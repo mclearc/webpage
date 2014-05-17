@@ -17,7 +17,8 @@ Some links for research, and for writing good philosophical prose.
 
 Links to tools I use for research and writing
 
-- [Markdown](http://daringfireball.net/projects/markdown/): Plaintext markup for easy writing
+- [Markdown](http://daringfireball.net/projects/markdown/): Plaintext markup 
+  for easy writing
 - [Pandoc](http://johnmacfarlane.net/pandoc/index.html): File conversion
 - [Sublime Text](http://www.sublimetext.com): Superb text editor
 - [BibDesk](http://bibdesk.sourceforge.net): Reference Manager
@@ -25,4 +26,7 @@ Links to tools I use for research and writing
 - [Git](http://git-scm.com): Version control
 - [Github](https://education.github.com): Online storage and collaboration
 - Kieran Healy's [writing resources page](http://kieranhealy.org/resources/)
-- [Profhacker](http://chronicle.com/blogs/profhacker/): Blog on teaching & technology 
+- [Profhacker](http://chronicle.com/blogs/profhacker/): Blog on teaching &
+  technology
+- [The Programming Historian](http://programminghistorian.org): Tutorials for
+  aspiring digital humanists
