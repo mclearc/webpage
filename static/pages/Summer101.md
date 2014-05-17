@@ -15,7 +15,7 @@ Status: hidden
 
 ## Class 2 -- Consciousness and Physicalism ##
 
-- Thomas Nagel: ["What is it like to be a bat?"]( |filename|/pdfs/phil101/NagelBat.pdf )
+- Thomas Nagel: ["What is it like to be a Bat?"]( |filename|/pdfs/phil101/NagelBat.pdf )
     - What is physicalism?
     - What is the significance of the experience of the bat for physicalism?
     - What, according to Nagel, is the problem concerning consciousness and
