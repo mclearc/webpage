@@ -98,7 +98,7 @@ Status: hidden
 
 ---
 
-## Class 10 -- Ethics & the Error Theory ##
+## Classes 10-11 -- Ethics & the Error Theory ##
 
 - Mackie, ["The Subjectivity of Value"](|filename|/pdfs/phil101/MackieValue.pdf )
     - How does Mackie understand the notions of moral skepticism and
@@ -115,7 +115,7 @@ Status: hidden
 
 ---
 
-## Class 11 -- The Absurd ##
+## Class 12 -- The Absurd ##
 
 - Camus, ["The Myth of Sisyphus"](|filename|/pdfs/phil101/CamusSisyphus.pdf)
     - Why, according to Camus, is the only philosophical problem
@@ -131,7 +131,7 @@ Status: hidden
 
 ---
 
-## Class 12 -- Knowledge & Skepticism ##
+## Class 13 -- Knowledge & Skepticism ##
 
 - Paper Due at 4 p.m. by [email](mailto:mclear@unl.edu)
 - Descartes, ["Meditations I-II"](|filename|/pdfs/phil101/DescartesMeditations.pdf)
@@ -144,7 +144,7 @@ Status: hidden
 
 ---
 
-## Class 13 -- Skepticism about Induction ##
+## Class 14 -- Skepticism about Induction ##
 
 - Russell, ["On Induction"](|filename|/pdfs/phil101/RussellInduction.pdf)
     - What is the problem of induction?
@@ -155,6 +155,6 @@ Status: hidden
 
 ---
 
-## Class 14 -- Final Exam ##
+## Class 15 -- Final Exam ##
 
 
