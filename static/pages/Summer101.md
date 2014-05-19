@@ -10,6 +10,7 @@ Status: hidden
     + soundness
     + modus ponens
     + modus tollens
+- [Slides (5/19)](|filename|/pdfs/phil101/class1.pdf)
 
 ---
 
