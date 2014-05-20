@@ -21,6 +21,7 @@ Status: hidden
     - What is the significance of the experience of the bat for physicalism?
     - What, according to Nagel, is the problem concerning consciousness and
       objectivity?
+- [Slides (5/20)](|filename|/pdfs/phil101/class2Physicalism.pdf)
 
 ---
 
@@ -160,5 +161,3 @@ Status: hidden
 ---
 
 ## Class 14 -- Final Exam ##
-
-
