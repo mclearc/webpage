@@ -33,6 +33,7 @@ Status: hidden
       Block's arguments/examples convincing?
     - Does this distinction make a difference to Nagel's argument about
       physicalism?
+- [Slides (5/21)](|filename|/pdfs/phil101/class3Consciousness.pdf)
 
 ---
 
