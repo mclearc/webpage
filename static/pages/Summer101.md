@@ -95,6 +95,9 @@ Status: hidden
 
 ---
 
+## Class 9 -- Mid-Term ##
+
+<!--
 ## Class 9 -- Ethics and Meta-Ethics ##
 
 - Mid-Term
@@ -102,10 +105,11 @@ Status: hidden
     + What is the difference between meta-ethics and ethics?
     + What is it to be a descriptivist about ethics?
     + What is non-cogntivism about ethics?
+-->
 
 ---
 
-## Classes 10 -- Ethics & the Error Theory ##
+## Class 10 -- (Meta)-Ethics & the Error Theory ##
 
 - Mackie, ["The Subjectivity of Value"](|filename|/pdfs/phil101/MackieValue.pdf )
     - How does Mackie understand the notions of moral skepticism and
