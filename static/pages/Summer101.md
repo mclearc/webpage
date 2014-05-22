@@ -60,7 +60,7 @@ Status: hidden
 
 ---
 
-## No Class -- Memorial Day! ##
+## No Class Monday (5/26) -- Memorial Day! ##
 
 ---
 
