@@ -42,7 +42,7 @@ Status: hidden
 - Frank Jackson: ["Ephiphenomenal Qualia"](|filename|/pdfs/phil101/JacksonQualia.pdf)
     - What is the knowledge argument? How does it threaten the truth of physicalism?
     - What is the modal argument? Why is the possibility of a phenomenal zombie a problem for physicalism?
-- [Slides (5/22)](https://www.dropbox.com/s/h9d92gy3yt5ottz/class4Qualia.pdf)
+- [Slides (5/22)](|filename|/pdfs/phil101/class4Qualia.pdf)
 
 ---
 
