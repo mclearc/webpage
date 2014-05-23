@@ -57,6 +57,7 @@ Status: hidden
     - What, according to Lewis, is 'phenomenal information'?
     - What role does phenomenal information play in the Knowledge Argument and its assessment?
     - What is the 'ability hypothesis' and how does it propose to resolve the Knowledge Argument?
+- [Slides (5/23)](|filename|/pdfs/phil101/class5Lewis.pdf)
 
 ---
 
