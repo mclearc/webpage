@@ -7,7 +7,7 @@ status: hidden
 - [Assignment Schedule](|filename|/pages/Summer101.md)
     + This schedule is subject to change!
 - [Paper Topics](|filename|/pdfs/phil101/NewPaperTopics.pdf)
-    + Papers are due Tuesday, June 3rd
+    + Papers are due Wednesday, June 4th
 - [Syllabus](|filename|/pdfs/phil101/IntroSyllabus.pdf)
 - Contact: [Dr. Colin McLear](|filename|/pages/Contact.md)
 - Office Hours: M-F, 2-3 p.m. in Oldfather Hall 1003
