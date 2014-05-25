@@ -91,7 +91,9 @@ Status: hidden
 
 ## Class 8 -- Free Will and Neuroscience ##
 
-- TBA
+- Libet on Free Will & Conscious Intention
+    + Benjamin Libet, ["Do We Have Free Will"](|filename|/pdfs/phil101/LibetFreeWill.pdf)
+    + Walter Sinnott-Armstrong, ["Lessons from Libet"](|filename|/pdfs/phil101/ArmstrongOnLibet.pdf)
 - Mid-Term Review
 
 ---
@@ -112,6 +114,10 @@ Status: hidden
 
 ## Class 10 -- (Meta)-Ethics & the Error Theory ##
 
+- (Suggested reading) Mark Schroeder, ["The Problems of Metaethics"](|filename|/pdfs/phil101/SchroederMeta.pdf)
+    + What is the difference between meta-ethics and ethics?
+    + What is it to be a descriptivist about ethics?
+    + What is non-cogntivism about ethics?
 - Mackie, ["The Subjectivity of Value"](|filename|/pdfs/phil101/MackieValue.pdf )
     - How does Mackie understand the notions of moral skepticism and
       subjectivism?

@@ -2,6 +2,7 @@ Title: Research
 
 ### Publications
 
+- ["The Kantian (Non)-Conceptualism Debate"](|filename|/pdfs/McLear_PhilCompass.pdf)
 - ["Kant on Perceptual Content,"](|filename|/pdfs/KantContent.pdf)
 forthcoming in *Mind*.
 - ["Two Kinds of Unity in the *Critique of Pure Reason*,"](|filename|/pdfs/KantUnity.pdf) forthcoming in *Journal of the History of Philosophy*.
