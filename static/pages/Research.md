@@ -2,7 +2,8 @@ Title: Research
 
 ### Publications
 
-- ["The Kantian (Non)-Conceptualism Debate"](|filename|/pdfs/McLear_PhilCompass.pdf)
+<!-- - ["The Kantian (Non)-Conceptualism Debate,"](|filename|/pdfs/McLear_PhilCompass.pdf) forthcoming in *Philosophy Compass*    -->
+
 - ["Kant on Perceptual Content,"](|filename|/pdfs/KantContent.pdf)
 forthcoming in *Mind*.
 - ["Two Kinds of Unity in the *Critique of Pure Reason*,"](|filename|/pdfs/KantUnity.pdf) forthcoming in *Journal of the History of Philosophy*.
@@ -18,4 +19,8 @@ If you're interested in a draft of any of the following please [email me](mailto
 - "Definition and Essence in the *Metaphysical Foundations of Natural Science*"
   Draft.
 - "The Role of the Understanding in Kant's Philosophy of Nature," Draft.
+
+
+
+
 
