@@ -78,6 +78,7 @@ Status: hidden
     - What is the 'Chinese Room Argument'? What is it supposed to show?
         - What is the 'systems' objection?
         + What is the 'implementation' objection?
+- [Slides (5/27)](|filename|/pdfs/phil101/class6AI.pdf)
 
 ---
 
@@ -86,6 +87,7 @@ Status: hidden
 - Thomas Nagel, ["Free Will"](|filename|/pdfs/phil101/NagelFreeWill.pdf)
     + What is freedom of the will?
     + What is determinism?
+    + Are determinism and free will compatible?
 
 ---
 

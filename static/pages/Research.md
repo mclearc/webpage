@@ -2,7 +2,7 @@ Title: Research
 
 ### Publications
 
-<!-- - ["The Kantian (Non)-Conceptualism Debate,"](|filename|/pdfs/McLear_PhilCompass.pdf) forthcoming in *Philosophy Compass*    -->
+<!-- - ["The Kantian (Non)-Conceptualism Debate,"](|filename|/pdfs/McLear_PhilCompass.pdf) forthcoming in *Philosophy Compass*.    -->
 
 - ["Kant on Perceptual Content,"](|filename|/pdfs/KantContent.pdf)
 forthcoming in *Mind*.
