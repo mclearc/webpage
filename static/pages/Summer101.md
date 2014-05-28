@@ -88,6 +88,7 @@ Status: hidden
     + What is freedom of the will?
     + What is determinism?
     + Are determinism and free will compatible?
+- [Slides (5/28)](|filename|/pdfs/phil101/class7FreeWill.pdf)
 
 ---
 
