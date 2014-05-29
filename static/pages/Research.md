@@ -2,8 +2,8 @@ Title: Research
 
 ### Publications
 
-<!-- - ["The Kantian (Non)-Conceptualism Debate,"](|filename|/pdfs/McLear_PhilCompass.pdf) forthcoming in *Philosophy Compass*.    -->
-
+- "The Kantian (Non)-Conceptualism Debate", forthcoming in 
+  *Philosophy Compass*.
 - ["Kant on Perceptual Content,"](|filename|/pdfs/KantContent.pdf)
 forthcoming in *Mind*.
 - ["Two Kinds of Unity in the *Critique of Pure Reason*,"](|filename|/pdfs/KantUnity.pdf) forthcoming in *Journal of the History of Philosophy*.
@@ -14,7 +14,6 @@ forthcoming in *Mind*.
 
 If you're interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
 
-- "The Kantian (Non)-Conceptualism Debate" Draft.
 - "Intuition and Presence" Draft.
 - "Definition and Essence in the *Metaphysical Foundations of Natural Science*"
   Draft.
