@@ -98,6 +98,7 @@ Status: hidden
     + Benjamin Libet, ["Do We Have Free Will"](|filename|/pdfs/phil101/LibetFreeWill.pdf)
     + Walter Sinnott-Armstrong, ["Lessons from Libet"](|filename|/pdfs/phil101/ArmstrongOnLibet.pdf)
 - Mid-Term Review
+- [Slides (5/29)](|filename|/pdfs/phil101/class8Libet.pdf)
 
 ---
 
