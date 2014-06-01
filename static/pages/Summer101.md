@@ -134,6 +134,7 @@ Status: hidden
     + What is the argument from disagreement? Why does it count against the
       objectivity of morality?
     + What is the argument from 'queerness'?
+- [Slides 6/2](|filename|/pdfs/phil101/class10Ethics.pdf)
 
 ---
 
