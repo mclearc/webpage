@@ -177,6 +177,7 @@ Status: hidden
       inductive knowledge?
     - What proof is there that nature is uniform? 
 - Review for Final Exam
+- [Slides 6/5](|filename|/pdfs/phil101/class13Induction.pdf)
 
 ---
 
