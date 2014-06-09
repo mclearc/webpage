@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Colin McLear'
 SITENAME = u'Colin McLear'
-SITEURL = 'colinmclear.net'
+SITEURL = ''
 
 TIMEZONE = 'America/New_York'
 
@@ -28,7 +28,7 @@ PAGE_SAVE_AS = '{slug}.html'
 #PAGE_LANG_SAVE_AS = '{slug}-{lang}.html'}
 
 
-THEME = "/Users/Roambot/Dropbox/Webpage/content/themes/two-column"
+THEME = "content/themes/two-column"
 #THEME = "/Users/Roambot/Dropbox/Webpage/content/themes/basic"
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -42,6 +42,6 @@ EXTRA_PATH_METADATA = {'extras/CNAME': {'path': 'CNAME'},}
 TYPOGRIFY = True
 
 # A list of files to copy from the source to the destination
-FILES_TO_COPY = ( ('images/favicon.ico', 'favicon.ico'),('CNAME', 'CNAME'), )
+#FILES_TO_COPY = ( ('images/favicon.ico', 'favicon.ico'),('CNAME', 'CNAME'), )
 
 USER_LOGO_URL = 'themes/two-column/static/images/me.jpg'
