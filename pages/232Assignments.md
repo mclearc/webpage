@@ -1,4 +1,4 @@
-Title: ModernPhilosophy Assignments
+Title: PHIL 232 - Assignments
 Status: hidden
 
 ## Final Exam Info ##
