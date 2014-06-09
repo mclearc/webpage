@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Colin McLear'
 SITENAME = u'Colin McLear'
-SITEURL = ''
+SITEURL = 'colinmclear.net'
 
 TIMEZONE = 'America/New_York'
 
@@ -35,7 +35,8 @@ THEME = "/Users/Roambot/Dropbox/Webpage/content/themes/two-column"
 #RELATIVE_URLS = True
 
 # Internal Links
-STATIC_PATHS = ['images', 'pdfs', 'pages', 'themes']
+STATIC_PATHS = ['images', 'pdfs', 'pages', 'themes', 'extras/CNAME']
+EXTRA_PATH_METADATA = {'extras/CNAME': {'path': 'CNAME'},}
 
 # Turn on Typogrify
 TYPOGRIFY = True
