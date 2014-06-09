@@ -1,0 +1,252 @@
+@red:  #ff0000;
+@black:  #000000;
+@white:  #ffffff;
+@light-grey:  #eeeeee;
+@med-grey:  #999999;
+@dark-grey:  #2B3856;
+@blue:  #17BFC2;
+@accent:  #993300;
+@sans: 'Avenir Next', sans-serif;
+@serif: 'PT Serif', serif;
+@mono: 'PT Mono', monospace;
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: @white;
+  color: @black;
+  font-family: @sans;
+  font-size: 18px;
+}
+
+a {
+  color: #99001A;
+  text-decoration: none;
+}
+
+a:hover {
+  color: @blue;
+}
+
+/*a:visited {color : #2966B8 ; text-decoration : none ; }*/
+
+hr {
+  color: @light-grey;
+  background-color: @light-grey;
+  height: 1px;
+  border: none;
+}
+
+.border-radius (@radius: 5px) {
+  border-radius: @radius;
+  -moz-border-radius: @radius;
+  -webkit-border-radius: @radius;
+}
+
+aside {
+  /*color: rgba(255,255,255,.5); #993300;*/
+  background-color: #B7110D;
+  a {color: @black;}
+  a:hover {color : @white; }
+  div#user_meta {
+    padding: 40px;
+    text-align: center;
+
+    h2 {
+      margin: 15px 0 5px 0;
+    }
+
+    p {
+      margin: 0 0 15px 0;
+      font-size: 14px;
+      color: @black;
+    }
+
+    ul {
+      margin: 40px 0 0 0;
+      padding-left: 0;
+      font-size: 20px;
+      /*font-weight: bold;*/
+      list-style-type: none;
+      /*text-align: right;*/
+
+      li {
+        display: inline;
+        line-height: 3em;
+
+        a {
+          padding: 5px 15px 5px 15px;
+          border: 2px solid @black;
+          .border-radius(15px);
+          color: @black;
+        }
+        
+        a:hover {
+         background-color: @white;
+        }
+      }
+    }
+  }
+}
+
+main {
+  header {
+    padding: 15px;
+    border-top: @dark-grey 1px solid;
+    border-bottom: @dark-grey 1px solid;
+
+    p {
+      font-weight: bold;
+      font-size: 10px;
+      text-transform: uppercase;
+    }
+  }
+
+  article {
+    max-width: 640px;
+    padding-left: 60px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+    div.article_title {
+      font-size: 20px;
+      font-weight: bold;
+      text-transform: uppercase;
+      border-bottom:1px solid;
+      
+    }
+
+    div.article_text {
+      line-height: 1.475em;
+
+      /*1.375em;*/
+      a {
+        text-decoration: none;
+      }
+
+      a:hover {
+         border-bottom:1px dashed;
+        }
+
+      code {
+        margin: 2px;
+        padding: 0;
+        color: @black;
+        font-size: 14px;
+        font-family: @mono;
+        background: @light-grey;
+      }
+
+      pre {
+        margin: 22px 2px 22px 2px;
+        padding: 2px;
+        color: @black;
+        border-left: 3px solid @accent;
+        font-size: 14px;
+        font-family: @mono;
+        background: @light-grey;
+        line-height: 1.125em;
+        overflow-x: auto;
+      }
+
+      blockquote {
+        margin: 22px 2px 22px 2px;
+        padding-left: 40px;
+        color: @med-grey;
+        font-style: italic;
+      }
+    }
+
+    div.gist {
+      line-height: .875em;
+    }
+
+    div.article_meta {
+      font-size: 12px;
+      color: @med-grey;
+    }
+  }
+
+  footer {
+    border-top: @light-grey 0px solid;
+    border-bottom: @light-grey 1px solid;
+    padding: 40px;
+
+    a.button_accent {
+      padding: 10px;
+      border: 0px solid @accent;
+      .border-radius(20px);
+      text-transform: uppercase;
+      color: @accent;
+      font-size: 18px;
+      &:hover {
+        color: @white;
+        background-color: @accent;
+      }
+      &:active {
+        color: @white;
+        background-color: @accent;
+      }
+    }
+
+    div#paginator {
+    }
+  }
+
+  div#ending_message {
+    padding: 0 40px 0 40px;
+    color: @dark-grey;
+    font-size: 10px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  aside {
+    width: 25%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    border-right: @light-grey 1px solid;
+
+    h2 {
+      margin: 10px 0 0 0;
+    }
+
+    div#user_meta {
+      max-width: 250px;
+      text-align: center;
+
+      ul {
+        li {
+          display: block;
+
+        }     
+      }
+    
+      img {
+        border : 2px black solid ; 
+      }
+
+    }
+  }
+
+  main {
+    width: 75%;
+    position: absolute;
+    top: 0;
+    left: 25%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+    article {
+      max-width: 640px;
+    }
+
+    header {
+      border-top: 0;
+    }
+  }
+}

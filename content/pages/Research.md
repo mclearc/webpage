@@ -3,11 +3,13 @@ Title: Research
 ### Publications ###
 
 - "The Kantian (Non)-Conceptualism Debate", forthcoming in *Philosophy
-Compass*. [(Preprint)](|filename|/pdfs/KantConceptualism.pdf)
-- "Kant on Perceptual Content," forthcoming in *Mind*. [(Preprint)](|filename|/pdfs/KantContent.pdf)
-- "Two Kinds of Unity in the *Critique of Pure Reason*," forthcoming in *Journal of the History of Philosophy*. [(Preprint)](|filename|/pdfs/KantUnity.pdf)
-- ["Kant on Animal Consciousness,"](|filename|/pdfs/KantAnimalConsciousness.pdf) *Philosophers' Imprint*, Vol. 11, no.15. November 2011, pp. 1--16.
-- ["Three Skeptics and the *Critique*: Critical Notice of Michael Forster's *Kant and Skepticism*,"](|filename|/pdfs/Chignell_McLear_ThreeSkeptics.pdf) with Andrew Chignell. *Philosophical Books*, Vol. 51, no. 4. October 2010, pp. 228--244.
+Compass*. [(Preprint)](|filename|/pdfs/papers/KantConceptualism.pdf)
+- "Kant on Perceptual Content," forthcoming in *Mind*.
+[(Preprint)](|filename|/pdfs/papers/KantContent.pdf)
+- "Two Kinds of Unity in the *Critique of Pure Reason*," forthcoming in *Journal of the History of Philosophy*.
+[(Preprint)](|filename|/pdfs/papers/KantUnity.pdf)
+- ["Kant on Animal Consciousness,"](|filename|/pdfs/papers/KantAnimalConsciousness.pdf) *Philosophers' Imprint*, Vol. 11, no.15. November 2011, pp. 1--16.
+- ["Three Skeptics and the *Critique*: Critical Notice of Michael Forster's *Kant and Skepticism*,"](|filename|/pdfs/papers/Chignell_McLear_ThreeSkeptics.pdf) with Andrew Chignell. *Philosophical Books*, Vol. 51, no. 4. October 2010, pp. 228--244.
 
 ### Work in Progress
 

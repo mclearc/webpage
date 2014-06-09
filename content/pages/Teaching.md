@@ -1,18 +1,13 @@
 Title: Teaching
 
-### Information
+### Academic Year 2014-15 ###
 
-- Office Hours by appointment in ... Oldfather Hall
-- Please [ Email me ](mailto:mclearc@gmail.com) with any questions
+- [PHIL 101 - Introduction to Philosophy](|filename|/pages/phil101.md)
+- [PHIL 471/871 - Kant's Critical Philosophy](|filename|/pdfs/)
 
-### Courses
+### Previously Taught ###
 
-This semester (Fall 2013) I will teach two courses: 
-
-- [ Introduction to Philosophy ](|filename|/pages/intro.md)
-- [ Seminar on Conceptualism ](|filename|/pages/conceptualism.md)
-
-
-
+- [Seminar on Conceptualism](|filename|/pages/conceptualism.md)
+- [History of Modern Philosophy](|filename|/pages/phil232.md)
 
 
