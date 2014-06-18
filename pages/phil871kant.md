@@ -1,4 +1,4 @@
-Title: PHIL 471/871 - Kant
+Title: PHIL 4/871 - Kant
 status: hidden
 
 ### Course Information ###
