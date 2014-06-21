@@ -15,12 +15,11 @@ Compass*. [(Preprint)](|filename|/pdfs/papers/KantConceptualism.pdf)
 
 If you're interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
 
-- "Intuition and Presence," Draft.
+- "Intuition and Presence"
 - "Definition and Essence in the *Metaphysical Foundations of Natural
-  Science*," Draft.
-- "The Role of the Understanding in Kant's Philosophy of Nature," Draft.
-- "Strands of Subjectivity: Kant on Presentation and Projection,"
-Draft.
+  Science*"
+- "The Role of the Understanding in Kant's Philosophy of Nature"
+- "Strands of Subjectivity: Kant on Presentation and Projection"
 
 
 
