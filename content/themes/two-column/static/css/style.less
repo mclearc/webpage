@@ -46,15 +46,19 @@ hr {
 aside {
   /*color: rgba(255,255,255,.5); #993300;*/
   background-color: #B7110D;
+
   a {color: @black;}
-  a:hover {color : @white; }
+  a:hover {color : @blue; }
   div#user_meta {
     padding: 40px;
     text-align: center;
- 
+    font-size: 18px;
+
     img {
       border : 3px black solid; 
+      display: none;
     }
+
     h2 {
       margin: 15px 0 5px 0;
     }
@@ -68,8 +72,8 @@ aside {
     ul {
       margin: 40px 0 0 0;
       padding-left: 0;
-      font-size: 20px;
-      /*font-weight: bold;*/
+      font-size: 17px;
+      font-weight: bold;
       list-style-type: none;
       /*text-align: right;*/
 
@@ -79,13 +83,17 @@ aside {
 
         a {
           padding: 5px 15px 5px 15px;
-          border: 2px solid @black;
+          border: 1px solid @black;
+          /*border-right: 1px solid @black;
+          border-left: 1px solid @black;
+          border-top: 1px solid @black;
+          border-bottom: 1px solid @black;*/
           .border-radius(15px);
           color: @black;
         }
-        
+
         a:hover {
-         background-color: @white;
+         background-color: @blue;
         }
       }
     }
@@ -106,12 +114,12 @@ main {
   }
 
   article {
-    max-width: 640px;
-    padding-left: 60px;
-    padding-right: 60px;
+    max-width: 840px;
+    /*padding: 20px;*/
+    padding-left: 30px;
+    padding-right: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
-
 
     div.article_title {
       font-size: 20px;
@@ -195,6 +203,7 @@ main {
     }
 
     div#paginator {
+
     }
   }
 
@@ -205,7 +214,7 @@ main {
   }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1075px) {
   aside {
     width: 25%;
     height: 100%;
@@ -217,10 +226,11 @@ main {
 
     h2 {
       margin: 10px 0 0 0;
+
     }
 
     div#user_meta {
-      max-width: 250px;
+      max-width: 75%;
       text-align: center;
 
       ul {
@@ -230,8 +240,12 @@ main {
         }     
       }
     
+    
       img {
-        border : 3px black solid ; 
+        border : 3px black solid ;
+        display: inline;
+        position: relative;
+
       }
 
     }
@@ -247,6 +261,10 @@ main {
 
     article {
       max-width: 640px;
+      padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 30px;
+    padding-bottom: 20px;
     }
 
     header {
