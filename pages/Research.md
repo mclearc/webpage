@@ -19,6 +19,9 @@ If you're interested in a draft of any of the following please [email me](mailto
 - "Definition and Essence in the *Metaphysical Foundations of Natural
   Science*," Draft.
 - "The Role of the Understanding in Kant's Philosophy of Nature," Draft.
+- "Strands of Subjectivity: Kant on Presentation and Projection,"
+Draft.
+
 
 
 
