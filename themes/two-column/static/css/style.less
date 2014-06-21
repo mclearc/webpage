@@ -73,7 +73,7 @@ aside {
       margin: 40px 0 0 0;
       padding-left: 0;
       font-size: 17px;
-      /*font-weight: bold;*/
+      font-weight: bold;
       list-style-type: none;
       /*text-align: right;*/
 
@@ -83,11 +83,15 @@ aside {
 
         a {
           padding: 5px 15px 5px 15px;
-          border: 2px solid @black;
+          border: 1px solid @black;
+          /*border-right: 1px solid @black;
+          border-left: 1px solid @black;
+          border-top: 1px solid @black;
+          border-bottom: 1px solid @black;*/
           .border-radius(15px);
           color: @black;
         }
-        
+
         a:hover {
          background-color: @blue;
         }
@@ -222,10 +226,11 @@ main {
 
     h2 {
       margin: 10px 0 0 0;
+
     }
 
     div#user_meta {
-      max-width: 250px;
+      max-width: 75%;
       text-align: center;
 
       ul {
@@ -239,6 +244,7 @@ main {
       img {
         border : 3px black solid ;
         display: inline;
+        position: relative;
 
       }
 
