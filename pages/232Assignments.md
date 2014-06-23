@@ -1,4 +1,4 @@
-Title: PHIL 232 - Assignments
+Title: Phil 232 - Assignments
 Status: hidden
 
 ## Final Exam Info ##

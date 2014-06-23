@@ -1,4 +1,4 @@
-Title: PHIL 232
+Title: Phil 232
 Status: hidden
 
 ### Course Information

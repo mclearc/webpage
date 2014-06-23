@@ -1,4 +1,4 @@
-title: PHIL 232 - Paper Topics
+title: Phil 232 - Paper Topics
 status: hidden
 
 - [List of Paper Topics](https://www.dropbox.com/s/lo32mi05vearasy/ModernPaperTopics.pdf)
