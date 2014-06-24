@@ -1,0 +1,733 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-im",
+				"border-image-width"
+			],
+			[
+				"image",
+				"background-image"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"da",
+				"dark-grey"
+			],
+			[
+				"med",
+				"med-grey"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"fo",
+				"follow_symlinks"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Pandown/Pandown Markdown.sublime-build",
+	"command_palette":
+	{
+		"height": 368.0,
+		"selected_items":
+		[
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"syntax: ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"beamer",
+				"Build: Pandown: LaTeX Beamer Slideshow - PDF"
+			],
+			[
+				"tod",
+				"TodoReview: Generate List"
+			],
+			[
+				"todo",
+				"TodoReview: Generate List"
+			],
+			[
+				"78",
+				"Word Wrap: Column 78"
+			],
+			[
+				"80",
+				"Word Wrap: Column 80"
+			],
+			[
+				"wrap",
+				"Word Wrap: Column 70"
+			],
+			[
+				"lin",
+				"View: Toggle Line Numbers"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"prefe",
+				"Preference Helper: Open *.sublime-settings"
+			],
+			[
+				"line",
+				"View: Toggle Line Numbers"
+			],
+			[
+				"preferences key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"markdown",
+				"Build: Pandown: Markdown"
+			],
+			[
+				"markd",
+				"Build: Pandown: Markdown"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			],
+			[
+				"prefer",
+				"Preferences: Syntax Specific – User"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"ruler",
+				"Ruler: None"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"rad",
+				"ReadmePlease"
+			],
+			[
+				"prefere",
+				"Preferences: Syntax Specific – User"
+			],
+			[
+				"line number",
+				"View: Toggle Line Numbers"
+			],
+			[
+				"prefern",
+				"Preferences: Syntax Specific – User"
+			],
+			[
+				"prefernces",
+				"Preferences: Syntax Specific – User"
+			],
+			[
+				"auto",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"aca",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"spell",
+				"View: Toggle Spell Check"
+			],
+			[
+				"gcom",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"gst",
+				"Git: Status"
+			],
+			[
+				"gsta",
+				"Git: Status"
+			],
+			[
+				"git: in",
+				"Git: Init"
+			],
+			[
+				"nex",
+				"Spell Check: Next Misspelling"
+			],
+			[
+				"next",
+				"Spell Check: Next Misspelling"
+			],
+			[
+				"academ",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"pandown mark",
+				"Build: Pandown: Markdown with Literate Haskell"
+			],
+			[
+				"markdo",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"pandown",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax a",
+				"Set Syntax: AcademicMarkdown"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"settings",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"markdon",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mutli",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"settings ",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"markdown sett",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git: init",
+			"import os; os.system('git --version')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Roambot/Dropbox/Webpage/content/pages/phil232.md",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/phil101.md",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/101PaperTopics.md",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/phil871kant.md",
+		"/Users/Roambot/Dropbox/Webpage/pelicanconf.py",
+		"/Users/Roambot/Dropbox/Webpage/content/themes/two-column/static/css/style.less",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/Home.md",
+		"/Users/Roambot/Dropbox/Work/Projects/Kant_IEP/IEPOutline.md",
+		"/Users/Roambot/Dropbox/Work/Teaching/Syllabi/KantSyllabus.tex",
+		"/Users/Roambot/Dropbox/Webpage/output/theme/js/less-1.5.0.min.js",
+		"/Users/Roambot/Dropbox/Webpage/output/themes/two-column/static/css/style.less",
+		"/Users/Roambot/Dropbox/Webpage/output/theme/css/style.less",
+		"/Users/Roambot/Dropbox/Webpage/output/themes/two-column/static/js/less-1.5.0.min.js",
+		"/Users/Roambot/Dropbox/Webpage/content/themes/two-column/static/js/less-1.5.0.min.js",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/Links.md",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/Teaching.md",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/Contact.md",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/232PaperTopics.md",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/232Assignments.md",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/phil971kant.md",
+		"/Users/Roambot/Dropbox/Webpage/output/phil-971-kant-survey.html",
+		"/Users/Roambot/Dropbox/Webpage/output/phil-971-kant.html",
+		"/Users/Roambot/Dropbox/Webpage/output/phil101.html",
+		"/Users/Roambot/Dropbox/Webpage/output/pages/971conceptualism.md",
+		"/Users/Roambot/Dropbox/Webpage/output/contact.html",
+		"/Users/Roambot/Dropbox/Webpage/output/conceptualism.html",
+		"/Users/Roambot/Dropbox/Webpage/output/CNAME",
+		"/Users/Roambot/Dropbox/Webpage/output/pages/232Assignments.md",
+		"/Users/Roambot/Dropbox/Webpage/output/modern-philosophy.html",
+		"/Users/Roambot/Dropbox/Webpage/output/modernphilosophy-assignments.html",
+		"/Users/Roambot/Dropbox/Webpage/Makefile",
+		"/Users/Roambot/Dropbox/Webpage/output/teaching.html",
+		"/Users/Roambot/Dropbox/Webpage/output/tags.html",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/intro.md",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/modernphilosophy.md",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/PaperTopics.md",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/Research.md",
+		"/Users/Roambot/Dropbox/Webpage/content/themes/pelican-svbhack/README.md",
+		"/Users/Roambot/Dropbox/Website/themes/hyde/static/css/hyde.css",
+		"/Users/Roambot/Dropbox/Webpage/content/themes/basic/static/css/style.css",
+		"/Users/Roambot/Dropbox/Webpage/content/themes/pelican-svbhack/static/css/style.less",
+		"/Users/Roambot/Dropbox/Webpage/srv.pid",
+		"/Users/Roambot/Dropbox/Webpage/README",
+		"/Users/Roambot/Dropbox/Website/config.yaml",
+		"/Users/Roambot/Dropbox/Webpage/output/research.html",
+		"/Users/Roambot/Dropbox/Work/Teaching/Phil101/MarkdownSlides/class13.md",
+		"/Users/Roambot/Dropbox/Webpage/output/static/pages/Links.md",
+		"/Users/Roambot/Dropbox/Webpage/output/links.html",
+		"/Users/Roambot/Dropbox/Webpage/content/pages/101Assignments.md",
+		"/Users/Roambot/Dropbox/Webpage/content/CNAME",
+		"/Users/Roambot/Dropbox/Webpage/publishconf.py",
+		"/Users/Roambot/Dropbox/Webpage/develop_server.sh",
+		"/Users/Roambot/Dropbox/Webpage/.gitignore",
+		"/Users/Roambot/Library/Application Support/Sublime Text 3/Packages/PlainTasks/Readme.md",
+		"/Users/Roambot/Library/Application Support/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/Users/Roambot/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Roambot/Dropbox/Apps/SublimeProjects/Research.sublime-project",
+		"/Users/Roambot/Dropbox/PDFLibrary/watkins1998a (notes).skim",
+		"/Users/Roambot/Dropbox/PDFLibrary/watkins2009a (notes).skim",
+		"/Users/Roambot/Dropbox/NotesArchive/Watkins on Sensation.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/Watkins on the myth of the given.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/Watkins on the myth of the given II.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/Remarks on Watkins on Sensation.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/McDowell and Watkins on the Given.txt",
+		"/Users/Roambot/Dropbox/PDFLibrary/watkins2012.skim",
+		"/Users/Roambot/Dropbox/PDFLibrary/watkins2009a.skim",
+		"/Users/Roambot/Dropbox/PDFLibrary/watkins2009.skim",
+		"/Users/Roambot/Dropbox/PDFLibrary/watkins2008.skim",
+		"/Users/Roambot/Dropbox/PDFLibrary/watkins1998a.skim",
+		"/Users/Roambot/Dropbox/PDFLibrary/wallace2010.skim",
+		"/Users/Roambot/Dropbox/Work/Notes/wedding.md",
+		"/Users/Roambot/Dropbox/Work/Projects/Archive/Kant_Object/ObjectArchive/AprioriScience.md",
+		"/Users/Roambot/Dropbox/NotesArchive/Kant on the contingent a priori.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/Representing intuition vs. intuitive representation.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/# epistemology of perception reading list.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/interpretations of \"combination\" argument in §15.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/The list of Anti-Presentationalist Works-.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/two conceptions of reality.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/objective probability and determinism.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/Interpretations of \"relation to an object\".txt",
+		"/Users/Roambot/Dropbox/Work/Projects/PhilCompass/AnonymousConceptualism_PhilCompass.md",
+		"/Users/Roambot/Dropbox/Work/Notes/alief.md",
+		"/Users/Roambot/Dropbox/NotesArchive/Appearance vs. Object.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/# Byrne's \"Experience and Content\".txt",
+		"/Users/Roambot/Dropbox/NotesArchive/The blog called \"Argonaught\".txt",
+		"/Users/Roambot/Dropbox/NotesArchive/Get some Phil Collins era Genesis - \"There must be some.txt",
+		"/Users/Roambot/Dropbox/Work/Notes/scrap.md",
+		"/Users/Roambot/Dropbox/Work/Projects/Archive/Kant_Unity/UnityArchive/TwoUnitiesHandout.md",
+		"/Users/Roambot/Dropbox/NotesArchive/title for the dissertation-.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/On the A-deduction.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/Tobias t20d@yahoo.de.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/McDowell on ARVs myth of the Given.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/Notes on the Deduction.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/The material equivalence of subject and object.txt",
+		"/Users/Roambot/Dropbox/Work/Projects/Archive/Kant_JobTalk/Archive/ObjectTalk.markdown",
+		"/Users/Roambot/Dropbox/Work/Projects/Archive/Kant_JobTalk/Archive/ObjectSlides.markdown",
+		"/Users/Roambot/Dropbox/Work/Projects/Archive/Kant_JobTalk/Archive/Object.markdown",
+		"/Users/Roambot/Dropbox/Work/Notes/Stomach Doctor.md",
+		"/Users/Roambot/Dropbox/NotesArchive/The order of argument in the B-edition TD-.txt",
+		"/Users/Roambot/Dropbox/NotesArchive/The Deduction and the Unity of Objects.txt",
+		"/Users/Roambot/Dropbox/Work/Notes/The order of argument in the B-edition TD.md",
+		"/Users/Roambot/Dropbox/Work/Notes/Talk Objections.md",
+		"/Users/Roambot/Dropbox/Work/Notes/Teaching.md",
+		"/Users/Roambot/Dropbox/NotesArchive/KantDisjunctivism.txt",
+		"/Users/Roambot/Dropbox/Work/Notes/Kant Conference.md",
+		"/Users/Roambot/Dropbox/Work/Notes/Kant Akademie Ausgabe.md",
+		"/Users/Roambot/Dropbox/Work/Projects/Kant_Molyneux/MolyneuxTalk.md",
+		"/Users/Roambot/Dropbox/Work/Projects/Kant_Molyneux/MolyneuxTalk.ft",
+		"/Users/Roambot/Dropbox/Notes/meier on error.md",
+		"/Users/Roambot/Dropbox/Work/Teaching/Modern/LectureOutlines/MedievalBackground.md",
+		"/Users/Roambot/Dropbox/Work/Teaching/Modern/ModernPhilosophyNotes/MedievalBackground.html",
+		"/Users/Roambot/Dropbox/Work/Teaching/Modern/LectureOutlines/Meditation1.md",
+		"/Users/Roambot/Dropbox/Notes/mortgage.md",
+		"/Users/Roambot/Dropbox/Work/Projects/Dissertation/McLear_DissAbstract.tex",
+		"/Users/Roambot/Library/Application Support/Sublime Text 3/Packages/User/AcademicMarkdown.sublime-settings",
+		"/Users/Roambot/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Roambot/Dropbox/Notes/Conceptualism.md",
+		"/Users/Roambot/Dropbox/Notes/conceptualism 1.md",
+		"/Users/Roambot/Dropbox/Notes/conceptualism students.md",
+		"/Users/Roambot/Dropbox/Notes/ConceptualismPaper.md",
+		"/Users/Roambot/Dropbox/Notes/ConceptualismReadings.md",
+		"/Users/Roambot/Dropbox/Work/Projects/PhilCompass/Conceptualism Notes.md",
+		"/Users/Roambot/Dropbox/Work/Projects/PhilCompass/Conceptualism_PhilCompass.md",
+		"/Users/Roambot/Dropbox/Work/Projects/PhilCompass/Archive/ConceptualismVarieties.docx",
+		"/Users/Roambot/Dropbox/Work/Projects/Conceptualism/Notes_Conceptualism.md",
+		"/Users/Roambot/Dropbox/Work/Projects/PhilCompass/KantianConceptualism_PhilCompass.docx",
+		"/Users/Roambot/Dropbox/Work/Projects/Dissertation/DisArchive/ch5-Object.md",
+		"/Users/Roambot/Dropbox/Notes/pelican.md"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"im",
+			"aside",
+			"media",
+			"user",
+			"aside",
+			"size",
+			"user",
+			"aside",
+			"user",
+			"aside",
+			"media",
+			"max",
+			"min",
+			"media",
+			"medi",
+			"user",
+			"im",
+			"button",
+			"accent",
+			"6",
+			"font",
+			"marked"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 150.0
+	},
+	"output.git-init":
+	{
+		"height": 61.0
+	},
+	"project": "Webpage.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"home",
+				"content/pages/Home.md"
+			],
+			[
+				"less",
+				"content/themes/two-column/static/css/style.less"
+			],
+			[
+				"te",
+				"content/pages/Teaching.md"
+			],
+			[
+				"philkant",
+				"content/pages/phil971kant.md"
+			],
+			[
+				"phil101.md",
+				"content/pages/phil101.md"
+			],
+			[
+				"971k",
+				"content/pages/phil971kant.md"
+			],
+			[
+				"contact.md",
+				"content/pages/Contact.md"
+			],
+			[
+				"232",
+				"content/pages/232PaperTopics.md"
+			],
+			[
+				"phil232",
+				"content/pages/phil232.md"
+			],
+			[
+				"phil",
+				"content/pages/phil101.md"
+			],
+			[
+				"teaching.md",
+				"content/pages/Teaching.md"
+			],
+			[
+				"style",
+				"content/themes/basic/static/css/style.css"
+			],
+			[
+				"read",
+				"content/themes/pelican-svbhack/README.md"
+			],
+			[
+				"rese",
+				"content/pages/Research.md"
+			],
+			[
+				"link",
+				"content/pages/Links.md"
+			],
+			[
+				"",
+				"content/pages/101Assignments.md"
+			],
+			[
+				"apriori",
+				"NotesArchive/Kant on the contingent a priori.txt"
+			],
+			[
+				"kantded",
+				"Projects/Definition/KantDefinition.md"
+			],
+			[
+				"mol",
+				"Projects/Kant_Molyneux/MolyneuxTalk.md"
+			],
+			[
+				"molyn",
+				"Projects/Kant_Molyneux/MolyneuxTalk.md"
+			],
+			[
+				"medieva",
+				"Teaching/Modern/LectureOutlines/MedievalBackground.md"
+			],
+			[
+				"conceptualism",
+				"Notes/Conceptualism.md"
+			],
+			[
+				"objectnew",
+				"Projects/Archive/Kant_Object/ObjectNEW.tex"
+			],
+			[
+				"object",
+				"Projects/Archive/Kant_Object/ObjectArchive/AristotelianScience.md"
+			],
+			[
+				"conceptualismsched",
+				"ConceptualismSeminar/Notes/ConceptualismSchedule.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Apps/SublimeProjects/Webpage.sublime-project"
+			],
+			[
+				"re",
+				"~/Dropbox/Apps/SublimeProjects/Research.sublime-project"
+			],
+			[
+				"tea",
+				"~/Dropbox/Apps/SublimeProjects/Teaching.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"fss_on_distraction_free": false,
+		"fss_on_full_screen": false
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
