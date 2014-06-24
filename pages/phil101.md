@@ -6,9 +6,10 @@ status: hidden
 
 - [Assignment Schedule](|filename|/pages/101Assignments.md)
     + This schedule is subject to change!
-- [Paper Topics](|filename|/pdfs/phil101/NewPaperTopics.pdf)
+- [Paper Topics](|filename|/pages/101PaperTopics.md)
     + [Writing a Thesis Statement](|filename|/pdfs/phil101/ThesisOverview.pdf)
     + [Paper Structure](|filename|/pdfs/phil101/PaperStructure.pdf)
+    + [Grading Rubric](|filename|/pdfs/phil101/PaperRubric.pdf)
 - [Syllabus](|filename|/pdfs/phil101/IntroSyllabus.pdf)
 - Contact: [Dr. Colin McLear](|filename|/pages/Contact.md)
 - Office Hours: M-F, 2-3 p.m. in Oldfather Hall 1003
