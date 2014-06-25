@@ -10,6 +10,7 @@ status: hidden
     + [Writing a Thesis Statement](|filename|/pdfs/phil101/ThesisOverview.pdf)
     + [Paper Structure](|filename|/pdfs/phil101/PaperStructure.pdf)
     + [Grading Rubric](|filename|/pdfs/phil101/PaperRubric.pdf)
+    + [A Guide to Philosophical Writing](http://writingproject.fas.harvard.edu/files/hwp/files/philosophical_writing.pdf)
 - [Syllabus](|filename|/pdfs/phil101/IntroSyllabus.pdf)
 - Contact: [Dr. Colin McLear](|filename|/pages/Contact.md)
 - Office Hours: M-F, 2-3 p.m. in Oldfather Hall 1003
