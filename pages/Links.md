@@ -23,7 +23,7 @@ Links to tools I use for research and writing
 - [Pandoc](http://johnmacfarlane.net/pandoc/index.html): File conversion
 - [Sublime Text](http://www.sublimetext.com): Superb text editor
 - [BibDesk](http://bibdesk.sourceforge.net): Reference manager
-- [Skim](http://skim-app.sourceforge.net): PDF Reader & annotator
+- [Skim](http://skim-app.sourceforge.net): PDF reader & annotator
 - [Git](http://git-scm.com): Version control
 - [Github](https://education.github.com): Online storage and collaboration
 - Kieran Healy's [writing resources page](http://kieranhealy.org/resources/)
