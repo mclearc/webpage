@@ -11,6 +11,18 @@ Compass*. [(Preprint)](|filename|/pdfs/papers/KantConceptualism.pdf)
 - ["Kant on Animal Consciousness,"](|filename|/pdfs/papers/KantAnimalConsciousness.pdf) *Philosophers' Imprint*, Vol. 11, no.15. November 2011, pp. 1--16.
 - ["Three Skeptics and the *Critique*: Critical Notice of Michael Forster's *Kant and Skepticism*,"](|filename|/pdfs/papers/Chignell_McLear_ThreeSkeptics.pdf) with Andrew Chignell. *Philosophical Books*, Vol. 51, no. 4. October 2010, pp. 228--244.
 
+### Upcoming Conferences & Presentations ###
+
+- August 23, 2014: [UK Kant Society Annual Conference, Oxford
+  University](http://www.philosophy.ox.ac.uk/events/uk_kant_society_conference)
+    + Definition & Essence in the *Metaphysical Foundations of Natural Science*
+- October 3-5, 2014: [Kantian Freedom, Simon Fraser
+  University](http://philevents.org/event/show/13483)
+    + Priority Monism, Intuition, and Freedom
+- May 1-2, 2015: Organizer, UNL Chambers Philosophy Conference – [Kant on
+  Introspection, Self-Consciousness, &
+  Self-Knowledge](|filename|/pages/KantConference.md)
+
 ### Work in Progress
 
 If you're interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
@@ -20,9 +32,6 @@ If you're interested in a draft of any of the following please [email me](mailto
   Science*"
 - "The Role of the Understanding in Kant's Philosophy of Nature"
 - "Strands of Subjectivity: Kant on Presentation and Projection"
-
-
-
 
 
 
