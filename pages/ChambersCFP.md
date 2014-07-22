@@ -5,7 +5,7 @@ status: hidden
 #### May 1-2, 2015
 
 The Department of Philosophy at the University of Nebraska–Lincoln is happy to
-invite papers for the Seventh Annual Robert R. Chambers Philosophy Conference
+invite papers for the seventh annual Robert R. Chambers Philosophy Conference
 on themes related to Kant's (and Kantian) views on introspection,
 self-consciousness, and self-knowledge at UNL on May 1-2, 2015. Submissions are
 encouraged on these topics from both historical and contemporary approaches.
