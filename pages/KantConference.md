@@ -1,9 +1,5 @@
----
-title: Seventh Annual Robert R. Chambers Conference -- Kant on
-Introspection, Self-Consciousness, and Self-Knowledge
+title: Seventh Annual Robert R. Chambers Philosophy Conference -- Kant on Introspection, Self-Consciousness, and Self-Knowledge
 status: hidden
-
-...
 
 Welcome to the home page for the Seventh Annual Robert R. Chambers Philosophy
 Conference on themes related to Kant's (and Kantian) views on introspection,
