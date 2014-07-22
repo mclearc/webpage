@@ -11,3 +11,4 @@ Philosophy](http://www.unl.edu/philosophy/philosophy) at [UNL](http://www.unl.ed
 Updates coming soon...
 
 - [Conference CFP](|filename|/pages/ChambersCFP.md)
+    + [Phil Events Page](http://philevents.org/event/show/15078)
