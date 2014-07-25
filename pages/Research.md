@@ -1,5 +1,13 @@
 Title: Research
 
+Though I have quite general interests in the history of seventeenth and
+eighteenth century European philosophy, my work mostly focuses on issues
+pertaining to Immanuel Kant's philosophy of mind, perception, his theory of
+human reason and rationality, and the broader metaphysical and epistemological
+views with which these ideas are integrated. I'm also very interested in seeing
+what, if any, connections may be made between Kant's positions and contemporary
+research programs in philosophy of mind and metaphysics.
+
 ### Publications ###
 
 - "The Kantian (Non)-Conceptualism Debate", forthcoming in *Philosophy
