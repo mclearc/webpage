@@ -23,10 +23,11 @@ Compass*. [(Preprint)](|filename|/pdfs/papers/KantConceptualism.pdf)
 
 - August 23, 2014: [UK Kant Society Annual Conference, Oxford
   University](http://www.philosophy.ox.ac.uk/events/uk_kant_society_conference)
-    + Definition & Essence in the *Metaphysical Foundations of Natural Science*
+  – 'Definition and Essence in the *Metaphysical Foundations of Natural
+  Science*'
 - October 3-5, 2014: [Kantian Freedom, Simon Fraser
-  University](http://philevents.org/event/show/13483)
-    + Priority Monism, Intuition, and Freedom
+  University](http://philevents.org/event/show/13483) – 'Priority Monism,
+  Intuition, and Freedom'
 - May 1-2, 2015: Organizer, UNL Chambers Philosophy Conference – [Kant on
   Introspection, Self-Consciousness, &
   Self-Knowledge](|filename|/pages/KantConference.md)
