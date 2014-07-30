@@ -11,7 +11,7 @@ tentative semester schedule.
 Hatfield, 15-23)
 - §§4-5 of *Prolegomena*, 4:271-80 (Hatfield, 24-31)
 - (Optional) Van Cleve, "[Necessity, Analyticity, and the A
-  Priori](|filename|/pdfs/ 871kant/VanCleveNecessity)"
+  Priori](|filename|/pdfs/871kant/VanCleveNecessity)"
 - (Optional) Preface to *Prolegomena*, 4:255-64 (Hatfield, 5-14)
 - (Optional) SEP entry on [Kant's Philosophical Development](http://plato.stanford.edu/entries/kant-development/)
 
