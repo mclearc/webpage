@@ -13,3 +13,4 @@ status: hidden
 - [KantPapers](http://kantpapers.org)
 - [Kant in the Classroom](http://www.manchester.edu/kant/Home/index.htm)
 - [Early Modern Philosophy Texts](http://earlymoderntexts.com)
+<!-- - [Supplementary Readings](|filename|/pages/KantReadings.md) -->
