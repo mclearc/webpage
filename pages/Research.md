@@ -29,7 +29,7 @@ Compass*. [(Preprint)](|filename|/pdfs/papers/KantConceptualism.pdf)
   University](http://philevents.org/event/show/13483) – "Priority Monism,
   Intuition, and Freedom"
 - October 25-6, 2014: Midwest Study Group of the North American Kant Society,
-  3) – "Intuition and Presence"
+  Washington University – "Intuition and Presence"
 - May 1-2, 2015: Organizer, UNL Chambers Philosophy Conference – [Kant on
   Introspection, Self-Consciousness, &
   Self-Knowledge](|filename|/pages/KantConference.md)
