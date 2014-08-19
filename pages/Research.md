@@ -26,7 +26,7 @@ Compass*. [(Preprint)](|filename|/pdfs/papers/KantConceptualism.pdf)
   – "Definition and Essence in the *Metaphysical Foundations of Natural
   Science*"
 - October 3-5, 2014: [Kantian Freedom, Simon Fraser
-  University](http://philevents.org/event/show/13483) – "Priority Monism,
+  University](http://www.sfu.ca/kantian-freedom/index.html) – "Priority Monism,
   Intuition, and Freedom"
 - October 25-6, 2014: Midwest Study Group of the North American Kant Society,
   Washington University in St. Louis – "Intuition and Presence"
