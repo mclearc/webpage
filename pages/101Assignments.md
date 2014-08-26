@@ -13,6 +13,8 @@ Status: hidden
     + modus ponens
     + modus tollens
 
+---
+
 ### Class 1 – Philosophy & Argument (8/26) ###
 
 - Introduction
