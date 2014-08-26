@@ -16,7 +16,7 @@ status: hidden
     + [Dr. Colin McLear](|filename|/pages/Contact.md)
     + Gabe Bruguier
         * Office hours: T Th, 10:30-11:30
-        * Office #: 1019
+        * Office: 1019 Oldfather Hall
         * Email: <gbruguier@gmail.com>
 - iClicker References
     + [User Guide](http://learningspaces.unl.edu/Self%20Paced%20Polling%20Student%20User%20Guide.pdf)
