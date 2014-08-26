@@ -17,7 +17,6 @@ Status: hidden
 
 ### Class 1 – Philosophy & Argument (8/26) ###
 
-- Introduction
 - [Slides](|filename|/pdfs/phil101/1Intro.pdf) (8/26)
 
 
