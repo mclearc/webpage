@@ -9,7 +9,7 @@ Status: hidden
     - What is the significance of the experience of the bat for physicalism?
     - What is the connection between consciousness and subjectivity?
 - If you are finding it difficult to understand what you should be doing in reading philosophy read ch.1 of Vaughn---*Writing Philosophy*
-- If you find it difficult to distinguishing and evaluating different kinds of arguments (e.g. inductive and deductive arguments) you should read ch. 2 of Vaughn---*Writing Philosophy*
+- If you find it difficult to distinguish and evaluate different kinds of arguments (e.g. inductive and deductive arguments) you should read ch. 2 of Vaughn---*Writing Philosophy*
 - Please be sure to bring your iClicker to class
 
 ---
