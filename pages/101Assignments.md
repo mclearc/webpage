@@ -1,7 +1,7 @@
 Title: Phil 101 Assignments
 Status: hidden
 
-### Class 3 – Consciousness & Physicalism
+### Class 3 – Consciousness & Physicalism (9/2) ###
 
 - Thomas Nagel: [What is it like to be a bat?]( |filename|/pdfs/phil101/NagelBat.pdf )
     - What is physicalism?
