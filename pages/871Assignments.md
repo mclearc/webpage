@@ -1,9 +1,17 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
+<!--
+### Class 3 – Kant on Mathematics (9/11)
+
+- CPR: The Discipline of Pure Reason in dogmatic use (A712-38/B740-66; Guyer & Wood, 630-643)
+- Prolegomena: §§6-13 & Note I (Hatfield 32-40)
+- Optional: Shabel, ['Apriority and Application'](https://www.dropbox.com/s/c0bm4u2x8kggrt2/shabel2005.pdf?dl=0)
+ -->
+
 ### Class 2 – Kant on Space (9/4) ###
 
-- CPR: Transcendental Aesthetic (B33-73, Guyer & Wood, 172-92)
+- CPR: Transcendental Aesthetic (B33-73; Guyer & Wood, 172-92)
     + We'll focus primarily on Kant's discussion of *space*
 - Prolegomena: §§6-10 (Hatfield 32-5), §13 (Hatfield 37-8)
 - Optional: Parsons, [The Transcendental Aesthetic](https://www.dropbox.com/s/pqu2fhedpn22e3c/parsons1992.pdf?dl=0)
