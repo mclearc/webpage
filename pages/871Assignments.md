@@ -1,8 +1,16 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
-See the [syllabus](|filename|/pdfs/871kant/KantSyllabus.pdf) for a
-tentative semester schedule. 
+### Class 2 – Kant on Space (9/4) ###
+
+- CPR: Transcendental Aesthetic (B33-73, Guyer & Wood, 172-92)
+    + We'll focus primarily on Kant's discussion of *space*
+- Prolegomena: §§6-10 (Hatfield 32-5), §13 (Hatfield 37-8)
+- Optional: Parsons, [The Transcendental Aesthetic](https://www.dropbox.com/s/pqu2fhedpn22e3c/parsons1992.pdf?dl=0)
+- Optional: Janiak, [Kant's Views on Space and Time](http://plato.stanford.edu/entries/kant-spacetime/)
+- Optional: Shabel, [Kant's Argument from Geometry](https://www.dropbox.com/s/dgnpaacw4fez7ct/shabel2004.pdf?dl=0)
+
+---
 
 ### Class 1 – Kant's Project (8/28) ###
 
@@ -14,6 +22,10 @@ Hatfield, 15-23)
   Priori](|filename|/pdfs/871kant/VanCleveNecessity.pdf)"
 - (Optional) Preface to *Prolegomena*, 4:255-64 (Hatfield, 5-14)
 - (Optional) SEP entry on [Kant's Philosophical Development](http://plato.stanford.edu/entries/kant-development/)
+
+
+See the [syllabus](|filename|/pdfs/871kant/KantSyllabus.pdf) for a
+tentative semester schedule. 
 
 <!-- 
 
