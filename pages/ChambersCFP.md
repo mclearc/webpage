@@ -28,3 +28,5 @@ approximately 45 minutes. Submissions exceeding 25 pages are discouraged.
 Notification of acceptance by late February. Accepted submissions will receive
 a $500 stipend. Submissions should be sent by email to Colin McLear at
 <mclear@unl.edu>.   
+
+- See the [conference homepage](http://colinmclear.net/chambers-conference) for further details.
