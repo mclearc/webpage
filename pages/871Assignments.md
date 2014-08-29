@@ -30,7 +30,7 @@ Hatfield, 15-23)
   Priori](|filename|/pdfs/871kant/VanCleveNecessity.pdf)"
 - (Optional) Preface to *Prolegomena*, 4:255-64 (Hatfield, 5-14)
 - (Optional) SEP entry on [Kant's Philosophical Development](http://plato.stanford.edu/entries/kant-development/)
-
+- [Handout](|filename|/pdfs/871kant/1_KantProject.pdf)
 
 See the [syllabus](|filename|/pdfs/871kant/KantSyllabus.pdf) for a
 tentative semester schedule. 
