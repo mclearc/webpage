@@ -3,7 +3,7 @@ Status: hidden
 
 ### Class 4 – Nagel on Consciousness (9/4) ###
 
-- Reread Nagel's argument
+- Reread Nagel's [essay](|filename|/pdfs/phil101/NagelBat.pdf)
     - What is physicalism?
     - What is the connection between physicalism and objectivity?
     - What is the significance of the experience of the bat for physicalism?
