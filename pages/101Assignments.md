@@ -1,6 +1,16 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 4 – Nagel on Consciousness (9/4) ###
+
+- Reread Nagel's argument
+    - What is physicalism?
+    - What is the connection between physicalism and objectivity?
+    - What is the significance of the experience of the bat for physicalism?
+    - What is the connection between consciousness and subjectivity?
+
+---
+
 ### Class 3 – Consciousness & Physicalism (9/2) ###
 
 - Thomas Nagel: [What is it like to be a bat?]( |filename|/pdfs/phil101/NagelBat.pdf )
