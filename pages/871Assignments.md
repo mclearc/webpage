@@ -6,7 +6,9 @@ Status: hidden
 
 - CPR: The Discipline of Pure Reason in dogmatic use (A712-38/B740-66; Guyer & Wood, 630-643)
 - Prolegomena: §§6-13 & Note I (Hatfield 32-40)
+- Optional: Shabel, ['Kant's Philosophy of Mathematics'](http://plato.stanford.edu/entries/kant-mathematics/)
 - Optional: Shabel, ['Apriority and Application'](https://www.dropbox.com/s/c0bm4u2x8kggrt2/shabel2005.pdf?dl=0)
+- Optional: Anderson, ['It Adds Up After All: Philosophy of Arithmetic in Light of the Traditional Logic'](https://www.dropbox.com/s/10ufndmtlf60adw/anderson2004.pdf?dl=0)
  -->
 
 ### Class 2 – Kant on Space (9/4) ###
@@ -17,6 +19,7 @@ Status: hidden
 - Optional: Parsons, [The Transcendental Aesthetic](https://www.dropbox.com/s/pqu2fhedpn22e3c/parsons1992.pdf?dl=0)
 - Optional: Janiak, [Kant's Views on Space and Time](http://plato.stanford.edu/entries/kant-spacetime/)
 - Optional: Shabel, [Kant's Argument from Geometry](https://www.dropbox.com/s/dgnpaacw4fez7ct/shabel2004.pdf?dl=0)
+- [Handout](|filename|/pdfs/871kant/2_KantSpace.pdf)
 
 ---
 
