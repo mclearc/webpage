@@ -18,7 +18,7 @@ status: hidden
 ### Secondary Literature ###
 
 - Allison, [*Kant's Transcendental Idealism*](https://www.dropbox.com/s/ol01gu8gmrawxig/allison2004.pdf?dl=0)
-- Friedman, [Kant and the Exact Sciences](https://www.dropbox.com/s/z4ddcq8txii9xj3/friedman1992.pdf?dl=0)
+- Friedman, [*Kant and the Exact Sciences*](https://www.dropbox.com/s/z4ddcq8txii9xj3/friedman1992.pdf?dl=0)
 - Guyer, [*Kant and the Claims of Knowledge*](https://www.dropbox.com/s/wmt4ulo1mo4byoh/guyer1987.pdf?dl=0)
 - Longuenesse, [*Kant and the Capacity to Judge*](https://www.dropbox.com/s/uoa9rauau6lqghm/longuenesse1998.pdf?dl=0)
 - Strawson, [*The Bounds of Sense*](https://www.dropbox.com/s/qs28xe115xxg8op/strawson1966.pdf?dl=0)
