@@ -10,6 +10,7 @@ research programs in philosophy of mind and metaphysics.
 
 ### Publications ###
 
+- [Comments on Stefanie Grüne's *Blinde Anschauung*](http://virtualcritique.wordpress.com/2014/08/19/colin-mclear-on-stefanie-grunes-blinde-anschauung/), Author meets critics session of [*Critique*](http://virtualcritique.wordpress.com/about/). ([PDF version](|filename|/pdfs/papers/GrüneCritique.pdf))
 - "The Kantian (Non)-Conceptualism Debate", forthcoming in *Philosophy
 Compass*. [(Preprint)](|filename|/pdfs/papers/KantConceptualism.pdf)
 - "Kant on Perceptual Content," forthcoming in *Mind*.
