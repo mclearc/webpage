@@ -10,7 +10,7 @@ research programs in philosophy of mind and metaphysics.
 
 ### Publications ###
 
-- "The Kantian (Non)-Conceptualism Debate", forthcoming in *Philosophy
+- "The Kantian (Non)-Conceptualism Debate," forthcoming in *Philosophy
 Compass*. [(Preprint)](|filename|/pdfs/papers/KantConceptualism.pdf)
 - "Kant on Perceptual Content," forthcoming in *Mind*.
 [(Preprint)](|filename|/pdfs/papers/KantContent.pdf)
