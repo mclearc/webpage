@@ -21,7 +21,7 @@ Status: hidden
 - If you are finding it difficult to understand what you should be doing in reading philosophy read ch.1 of Vaughn---*Writing Philosophy*
 - If you find it difficult to distinguish and evaluate different kinds of arguments (e.g. inductive and deductive arguments) you should read ch. 2 of Vaughn---*Writing Philosophy*
 - Please be sure to bring your iClicker to class
-- [Slides](|filename|/pdfs/phil101/3Physicalism.pdf) (9/2)
+- [Slides]( |filename|/pdfs/phil101/3Physicalism.pdf) (9/2)
 
 ---
 
