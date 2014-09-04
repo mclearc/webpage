@@ -1,6 +1,14 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 5 – Block on Confusion about Consciousness (9/9) ###
+
+- Ned Block: [On a Confusion about a Function of Consciousness](|filename|/pdfs/phil101/BlockConsciousness.pdf)
+    - What is the difference between A-consciousness and P-consciousness?
+    - Does this distinction make a difference to Nagel's argument about physicalism?
+
+---
+
 ### Class 4 – Nagel on Consciousness (9/4) ###
 
 - Reread Nagel's [essay](|filename|/pdfs/phil101/NagelBat.pdf)
@@ -8,6 +16,7 @@ Status: hidden
     - What is the connection between physicalism and objectivity?
     - What is the significance of the experience of the bat for physicalism?
     - What is the connection between consciousness and subjectivity?
+- [Slides]( |filename|/pdfs/phil101/4NagelConsciousness.pdf) (9/4)
 
 ---
 
