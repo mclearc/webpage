@@ -1,7 +1,7 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
-<!--
+
 ### Class 3 – Kant on Mathematics (9/11)
 
 - CPR: The Discipline of Pure Reason in dogmatic use (A712-38/B740-66; Guyer & Wood, 630-643)
@@ -9,7 +9,8 @@ Status: hidden
 - Optional: Shabel, ['Kant's Philosophy of Mathematics'](http://plato.stanford.edu/entries/kant-mathematics/)
 - Optional: Shabel, ['Apriority and Application'](https://www.dropbox.com/s/c0bm4u2x8kggrt2/shabel2005.pdf?dl=0)
 - Optional: Anderson, ['It Adds Up After All: Philosophy of Arithmetic in Light of the Traditional Logic'](https://www.dropbox.com/s/10ufndmtlf60adw/anderson2004.pdf?dl=0)
- -->
+
+---
 
 ### Class 2 – Kant on Space (9/4) ###
 
