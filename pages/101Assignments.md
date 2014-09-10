@@ -4,6 +4,11 @@ Status: hidden
 ### Class 6 – Confusion about Consciousness, Continued (9/11) ###
 
 - Block (continued)
+    + What is the 'target reasoning' that Block is criticizing?
+    + What cases does Block discuss concerning access without phenomenal
+      consciousness?
+    + What cases does Block discuss concerning phenomenal without access
+      consciousness?
 
 ---
 
