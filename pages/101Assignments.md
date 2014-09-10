@@ -1,11 +1,16 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 6 – Confusion about Consciousness, Continued (9/11) ###
+
+- Block (continued)
+
 ### Class 5 – Block on Confusion about Consciousness (9/9) ###
 
 - Ned Block: [On a Confusion about a Function of Consciousness](|filename|/pdfs/phil101/BlockConsciousness.pdf)
     - What is the difference between A-consciousness and P-consciousness?
     - Does this distinction make a difference to Nagel's argument about physicalism?
+- [Slides](|filename|/pdfs/phil101/5BlockConfusions.pdf) (9/9)
 
 ---
 
