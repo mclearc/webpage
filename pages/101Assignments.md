@@ -5,6 +5,8 @@ Status: hidden
 
 - Block (continued)
 
+---
+
 ### Class 5 – Block on Confusion about Consciousness (9/9) ###
 
 - Ned Block: [On a Confusion about a Function of Consciousness](|filename|/pdfs/phil101/BlockConsciousness.pdf)
