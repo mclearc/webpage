@@ -1,6 +1,15 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 7 – Qualia & the Knowledge Argument (9/16) ###
+
+- Frank Jackson: ["Ephiphenomenal Qualia"](|filename|/pdfs/phil101/JacksonQualia.pdf)
+    - What is the knowledge argument? How does it threaten the truth of
+      physicalism?
+    - What is the modal argument? Why is the possibility of a so-called 'phenomenal zombie' a problem for physicalism?
+
+---
+
 ### Class 6 – Confusion about Consciousness, Continued (9/11) ###
 
 - Block (continued)
@@ -9,6 +18,7 @@ Status: hidden
       consciousness?
     + What cases does Block discuss concerning phenomenal without access
       consciousness?
+- [Slides](|filename|/pdfs/phil101/6BlockConfusionII.pdf)
 
 ---
 
