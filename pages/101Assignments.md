@@ -18,7 +18,7 @@ Status: hidden
       consciousness?
     + What cases does Block discuss concerning phenomenal without access
       consciousness?
-- [Slides](|filename|/pdfs/phil101/6BlockConfusionII.pdf)
+- [Slides](|filename|/pdfs/phil101/6BlockConfusionII.pdf) (9/11)
 
 ---
 
