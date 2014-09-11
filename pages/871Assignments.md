@@ -9,6 +9,7 @@ Status: hidden
 - Optional: Shabel, ['Kant's Philosophy of Mathematics'](http://plato.stanford.edu/entries/kant-mathematics/)
 - Optional: Shabel, ['Apriority and Application'](https://www.dropbox.com/s/c0bm4u2x8kggrt2/shabel2005.pdf?dl=0)
 - Optional: Anderson, ['It Adds Up After All: Philosophy of Arithmetic in Light of the Traditional Logic'](https://www.dropbox.com/s/10ufndmtlf60adw/anderson2004.pdf?dl=0)
+- [Handout](|filename|/pdfs/871kant/3_KantMath.pdf)
 
 ---
 
