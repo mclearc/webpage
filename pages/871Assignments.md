@@ -5,8 +5,8 @@ Status: hidden
 
 - CPR: Transcendental Logic & Analytic (the Clue), B91-116 (Guyer & Wood, 201-18)
 - CPR: Analytic ch. 2, §13 & 'Transition', B116-29 (Guyer & Wood, 219-26)
-- Optional: Longuenesse, ['Kant on A Priori Concepts'](|filename|/pdfs/871kant/longuenesseMD.pdf)
-- Optional: Allison, ['The Intellectual Conditions of Human Cognition'](|filename|/pdfs/871kant/AllisonMD.pdf)
+- Optional: Longuenesse, ['Kant on A Priori Concepts']( |filename|/pdfs/871kant/longuenesseMD.pdf)
+- Optional: Allison, ['The Intellectual Conditions of Human Cognition']( |filename|/pdfs/871kant/AllisonMD.pdf)
 
 ---
 
