@@ -1,6 +1,14 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
+### Class 4 – The Forms of Judgment & the Metaphysical Deduction (9/18) ###
+
+- CPR: Transcendental Logic & Analytic (the Clue), B91-116 (Guyer & Wood, 201-18)
+- CPR: Analytic ch. 2, §13 & 'Transition', B116-29 (Guyer & Wood, 219-26)
+- Optional: Longuenesse, ['Kant on A Priori Concepts'](|filename|/pdfs/871kant/longuenesseMD.pdf)
+- Optional: Allison, ['The Intellectual Conditions of Human Cognition'](|filename|/pdfs/871kant/AllisonMD.pdf)
+
+---
 
 ### Class 3 – Kant on Mathematics (9/11)
 
