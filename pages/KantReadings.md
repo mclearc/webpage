@@ -17,7 +17,7 @@ status: hidden
 
 ### Secondary Literature ###
 
-### Theoretical Philosophy  ###
+#### Theoretical Philosophy ####
 
 - Allison, [*Kant's Transcendental Idealism*](https://www.dropbox.com/s/ol01gu8gmrawxig/allison2004.pdf?dl=0)
 - Friedman, [*Kant and the Exact Sciences*](https://www.dropbox.com/s/z4ddcq8txii9xj3/friedman1992.pdf?dl=0)
