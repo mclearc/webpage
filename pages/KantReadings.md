@@ -17,6 +17,8 @@ status: hidden
 
 ### Secondary Literature ###
 
+### Theoretical Philosophy  ###
+
 - Allison, [*Kant's Transcendental Idealism*](https://www.dropbox.com/s/ol01gu8gmrawxig/allison2004.pdf?dl=0)
 - Friedman, [*Kant and the Exact Sciences*](https://www.dropbox.com/s/z4ddcq8txii9xj3/friedman1992.pdf?dl=0)
 - Guyer, [*Kant and the Claims of Knowledge*](https://www.dropbox.com/s/wmt4ulo1mo4byoh/guyer1987.pdf?dl=0)
@@ -24,3 +26,9 @@ status: hidden
 - Strawson, [*The Bounds of Sense*](https://www.dropbox.com/s/qs28xe115xxg8op/strawson1966.pdf?dl=0)
 - Van Cleve, [*Problems from Kant*](https://www.dropbox.com/s/afskaiurw2gu086/van%20cleve1999.pdf)
 - Wood, [*Kant*](https://www.dropbox.com/s/tn8wnp9bf4ztb7h/wood2005.pdf?dl=0)
+
+#### Practical Philosophy ####
+
+- Korsgaard, [*Creating the Kingdom of Ends*](https://www.dropbox.com/s/cm0vljabl2ci5c4/korsgaard1996a.pdf?dl=0)
+- O'Neil, [*Constructions of Reason*](https://www.dropbox.com/s/4e8scy3g6pfbhi3/o%27neill1989.pdf?dl=0)
+- Sedgwick, [*Groundwork of the Metaphysics of Morals: An Introduction*](https://www.dropbox.com/s/xkj5ifdmxo2r4pv/sedgwick2008.pdf?dl=0)
