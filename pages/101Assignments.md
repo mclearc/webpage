@@ -1,12 +1,23 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 8 – The Knowledge Argument, continued (9/18) ###
+
+- Frank Jackson: ["Ephiphenomenal Qualia"](|filename|/pdfs/phil101/JacksonQualia.pdf), continued
+    + What does Mary know before she leaves the black and white room? What does
+      she learn when she leaves?
+    + What are the two versions of the knowledge argument? Which one is a
+      threat to physicalism?
+
+---
+
 ### Class 7 – Qualia & the Knowledge Argument (9/16) ###
 
 - Frank Jackson: ["Ephiphenomenal Qualia"](|filename|/pdfs/phil101/JacksonQualia.pdf)
     - What is the knowledge argument? How does it threaten the truth of
       physicalism?
     - What is the modal argument? Why is the possibility of a so-called 'phenomenal zombie' a problem for physicalism?
+- [Slides](|filename|/pdfs/phil101/7JacksonQualia.pdf) (9/16)
 
 ---
 
