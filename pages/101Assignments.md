@@ -26,7 +26,7 @@ Status: hidden
       she learn when she leaves?
     + What are the two versions of the knowledge argument? Which one is a
       threat to physicalism?
-- [Slides](|filename|/pdfs/phil101/8JacksonQualiaII.pdf)      
+- [Slides](|filename|/pdfs/phil101/8JacksonQualiaII.pdf) (9/18) 
 
 ---
 
