@@ -7,6 +7,7 @@ Status: hidden
 - CPR: Analytic ch. 2, §13 & 'Transition', B116-29 (Guyer & Wood, 219-26)
 - Optional: Longuenesse, ['Kant on A Priori Concepts']( |filename|/pdfs/871kant/longuenesseMD.pdf)
 - Optional: Allison, ['The Intellectual Conditions of Human Cognition']( |filename|/pdfs/871kant/AllisonMD.pdf)
+- [Handout](|filename|/pdfs/871kant/4_KantMD.pdf)
 
 ---
 
