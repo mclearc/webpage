@@ -1,6 +1,24 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 9 – Lewis Against the Knowledge Argument (9/25)
+
+- David Lewis: ["What Experience Teaches"](|filename|/pdfs/phil101/LewisQualia.pdf)
+    - Read the following sections (though you're encouraged to read the whole thing!)
+        - Experience the best teacher
+        - The hypothesis of phenomenal information
+        - the knowledge argument
+        - the ability hypothesis
+    - What, according to Lewis, is 'phenomenal information'?
+    - What role does phenomenal information play in the Knowledge Argument and its assessment?
+    - What is the 'ability hypothesis' and how does it propose to resolve the Knowledge Argument?
+
+---
+
+### No Class (9/23) ###
+
+---
+
 ### Class 8 – The Knowledge Argument, continued (9/18) ###
 
 - Frank Jackson: ["Ephiphenomenal Qualia"](|filename|/pdfs/phil101/JacksonQualia.pdf), continued
@@ -8,6 +26,7 @@ Status: hidden
       she learn when she leaves?
     + What are the two versions of the knowledge argument? Which one is a
       threat to physicalism?
+- [Slides](|filename|/pdfs/phil101/8JacksonQualiaII.pdf)      
 
 ---
 
