@@ -1,6 +1,16 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
+### Class 5 – The Transcendental Deduction (9/25) ###
+
+- CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66)
+- Recommended: Van Cleve, *Problems from Kant*, ch. 7 
+- Recommended: Pereboom, ['Kant's Metaphysical and Transcendental Deductions'](https://www.dropbox.com/s/bn49z2qpffkq5uv/pereboom2006.pdf?dl=0)
+- Recommended: Pereboom, ['Self-Understanding in Kant's Transcendental Deduction'](https://www.dropbox.com/s/e8c8jq3e380a3hb/pereboom1995.pdf?dl=0)
+- Optional: Guyer, ['The Deduction of the Categories: The Metaphysical and Transcendental Deductions'](https://www.dropbox.com/s/fu32owtdal7ldx9/guyer2010a.pdf?dl=0)
+
+---
+
 ### Class 4 – The Forms of Judgment & the Metaphysical Deduction (9/18) ###
 
 - CPR: Transcendental Logic & Analytic (the Clue), B91-116 (Guyer & Wood, 201-18)
