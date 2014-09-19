@@ -4,6 +4,8 @@ Status: hidden
 ### Class 5 – The Transcendental Deduction (9/25) ###
 
 - CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66)
+    + During this class we'll focus primarily on the 'first step' of the
+      argument, §§15-20
 - Recommended: Van Cleve, *Problems from Kant*, ch. 7 
 - Recommended: Pereboom, ['Kant's Metaphysical and Transcendental Deductions'](https://www.dropbox.com/s/bn49z2qpffkq5uv/pereboom2006.pdf?dl=0)
 - Recommended: Pereboom, ['Self-Understanding in Kant's Transcendental Deduction'](https://www.dropbox.com/s/e8c8jq3e380a3hb/pereboom1995.pdf?dl=0)
