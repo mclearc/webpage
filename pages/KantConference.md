@@ -1,5 +1,6 @@
 title: Robert R. Chambers Philosophy Conference
 status: hidden
+slug: chambers-conference
 template: chambers_page
 
 <!-- # Kant on Introspection, Self-Consciousness, and Self-Knowledge -->
