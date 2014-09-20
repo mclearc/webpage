@@ -1,5 +1,6 @@
 title: Call for Papers: 
 status: hidden
+template: chambers_page
 
 ## Kant on Introspection, Self-Consciousness, & Self-Knowledge ##
 #### May 1-2, 2015
