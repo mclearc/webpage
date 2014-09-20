@@ -5,8 +5,6 @@ template: chambers_page
 
 <!-- # Kant on Introspection, Self-Consciousness, and Self-Knowledge -->
 
-
-
 Welcome to the home page for the seventh annual [Robert R. Chambers Philosophy
 Conference](http://www.unl.edu/philosophy/speaker/speaker/ChambersConference.shtml) on themes related to Kant's (and Kantian) views on introspection,
 self-consciousness, and self-knowledge hosted by the [Department of
