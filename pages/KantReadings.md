@@ -25,6 +25,7 @@ status: hidden
 - Longuenesse, [*Kant and the Capacity to Judge*](https://www.dropbox.com/s/uoa9rauau6lqghm/longuenesse1998.pdf?dl=0)
 - Strawson, [*The Bounds of Sense*](https://www.dropbox.com/s/qs28xe115xxg8op/strawson1966.pdf?dl=0)
 - Van Cleve, [*Problems from Kant*](https://www.dropbox.com/s/afskaiurw2gu086/van%20cleve1999.pdf)
+- Watkins, [*Kant and the Metaphysics of Causality*](https://www.dropbox.com/s/n46hz0hv95sk41k/watkins2005.pdf?dl=0)
 - Wood, [*Kant*](https://www.dropbox.com/s/tn8wnp9bf4ztb7h/wood2005.pdf?dl=0)
 
 #### Practical Philosophy ####
