@@ -10,7 +10,7 @@ Status: hidden
 - Recommended: Pereboom, ['Kant's Metaphysical and Transcendental Deductions'](https://www.dropbox.com/s/bn49z2qpffkq5uv/pereboom2006.pdf?dl=0)
 - Recommended: Pereboom, ['Self-Understanding in Kant's Transcendental Deduction'](https://www.dropbox.com/s/e8c8jq3e380a3hb/pereboom1995.pdf?dl=0)
 - Optional: Guyer, ['The Deduction of the Categories: The Metaphysical and Transcendental Deductions'](https://www.dropbox.com/s/fu32owtdal7ldx9/guyer2010a.pdf?dl=0)
-- [Handout](|filename|/pdfs/871kant/5_KantTDI.pdf)
+- [Handout]( |filename|/pdfs/871kant/5_KantTDI.pdf )
 
 ---
 
