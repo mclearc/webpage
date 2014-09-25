@@ -1,6 +1,16 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 10 – Lewis, continued (9/30) ###
+
+- Review of Lewis, Jackson, & Nagel
+- What is the 'hypothesis of phenomenal information'? What is the 'ability
+  hypothesis'?
+- Does the ability hypothesis explain what happens to Mary when she leaves the
+  B&W room better than the hypothesis of phenomenal information?
+
+---
+
 ### Class 9 – Lewis Against the Knowledge Argument (9/25)
 
 - David Lewis: ["What Experience Teaches"](|filename|/pdfs/phil101/LewisQualia.pdf)
@@ -12,6 +22,7 @@ Status: hidden
     - What, according to Lewis, is 'phenomenal information'?
     - What role does phenomenal information play in the Knowledge Argument and its assessment?
     - What is the 'ability hypothesis' and how does it propose to resolve the Knowledge Argument?
+- [Slides](|filename|/pdfs/phil101/9LewisAbility.pdf) (9/25)    
 
 ---
 
