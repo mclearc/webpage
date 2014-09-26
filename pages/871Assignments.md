@@ -9,7 +9,7 @@ Status: hidden
 - Griffith, ['Perception and the Categories'](https://www.dropbox.com/s/lrnvxshiw9eee54/griffith2012.pdf?dl=0)
 - Messina, ['Kant on the Unity of Space and the Synthetic Unity of Apperception'](https://www.dropbox.com/s/k8lp17eeqq0v4mp/messina2014.pdf?dl=0)
 - Allais, ['Kant, Non-Conceptual Content and the Representation of Space'](https://www.dropbox.com/s/m8koh16zdf6xd51/allais2009.pdf?dl=0)
-- Optional: McLear, [The Kantian (Non)-Conceptualism Debate](|filename|/pdfs/papers/KantConceptualism.pdf)
+- Optional: McLear, ['The Kantian (Non)-Conceptualism Debate'](|filename|/pdfs/papers/KantConceptualism.pdf)
 
 ---
 
