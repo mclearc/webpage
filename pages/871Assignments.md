@@ -1,6 +1,18 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
+### Class 6 – The Transcendental Deduction, Second Step (10/9) ###
+
+- CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66)
+    + During this class we'll focus primarily on the 'second step' of the
+      argument, §§21-26
+- Griffith, ['Perception and the Categories'](https://www.dropbox.com/s/lrnvxshiw9eee54/griffith2012.pdf?dl=0)
+- Messina, ['Kant on the Unity of Space and the Synthetic Unity of Apperception'](https://www.dropbox.com/s/k8lp17eeqq0v4mp/messina2014.pdf?dl=0)
+- Allais, ['Kant, Non-Conceptual Content and the Representation of Space'](https://www.dropbox.com/s/m8koh16zdf6xd51/allais2009.pdf?dl=0)
+- Optional: McLear, [The Kantian (Non)-Conceptualism Debate](|filename|/pdfs/papers/KantConceptualism.pdf)
+
+---
+
 ### Class 5 – The Transcendental Deduction (9/25) ###
 
 - CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66)
