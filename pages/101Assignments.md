@@ -23,7 +23,7 @@ Status: hidden
   hypothesis'?
 - Does the ability hypothesis explain what happens to Mary when she leaves the
   B&W room better than the hypothesis of phenomenal information?
-- [Slides](|filename|/pdfs/phil101/10ConsciousnessReview.pdf)
+- [Slides](|filename|/pdfs/phil101/10ConsciousnessReview.pdf) (9/30)
 
 ---
 
