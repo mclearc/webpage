@@ -1,6 +1,21 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 11 – The Puzzle of Representation (10/7)
+
+- Tim Crane, ["The Puzzle of Representation"](|filename|/pdfs/phil101/Crane_PuzzleMind.pdf)
+    - Why is the issue of representation problematic?
+    - Why can't all representation be understood in terms of resemblance?
+    - What is the distinction between attitude and content in mental
+      representation?
+    - What is intentionality?
+
+---
+
+### No Class! (10/2)
+
+---
+
 ### Class 10 – Lewis, continued (9/30) ###
 
 - Review of Lewis, Jackson, & Nagel
@@ -8,6 +23,7 @@ Status: hidden
   hypothesis'?
 - Does the ability hypothesis explain what happens to Mary when she leaves the
   B&W room better than the hypothesis of phenomenal information?
+- [Slides](|filename|/pdfs/phil101/10ConsciousnessReview.pdf)
 
 ---
 
