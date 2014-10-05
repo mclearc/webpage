@@ -12,11 +12,8 @@ status: hidden
     + [Grading Rubric](|filename|/pdfs/phil101/PaperRubric.pdf)
     + [A Guide to Philosophical Writing](http://writingproject.fas.harvard.edu/files/hwp/files/philosophical_writing.pdf)
 - [Syllabus](|filename|/pdfs/phil101/IntroSyllabus.pdf)
-- Contact: 
-    + [Dr. Colin McLear](|filename|/pages/Contact.md)
-    + Gabe Bruguier
-        * Office hours: T Th, 10:30-11:30
-        * Office: 1019 Oldfather Hall
-        * Email: <gbruguier@gmail.com>
-- [iClicker](http://its.unl.edu/srs) References
-    + [iClicker Registration Guide](http://its.unl.edu/pdfs/Student%20Registration%20Steps.pdf)
+- Contact: [Dr. Colin McLear](|filename|/pages/Contact.md)
+- Office Hours: M-F, 2-3 p.m. in Oldfather Hall 1003
+- iClicker References
+    + [User Guide](http://learningspaces.unl.edu/Self%20Paced%20Polling%20Student%20User%20Guide.pdf)
+    + [iClicker Registration Guide](http://learningspaces.unl.edu/Student%20Registration%20Steps.pdf)
