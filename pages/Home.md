@@ -12,6 +12,6 @@ Mind.
 
 [My Vita➝](|filename|/pdfs/McLearCV.pdf)
 
-[Kant Chambers Conference, May 1-2 2015➝](http://colinmclear.net/chambers-conference)
+[Kant Chambers Conference, May 1-2, 2015➝](http://colinmclear.net/chambers-conference)
 
 
