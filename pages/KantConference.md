@@ -37,4 +37,4 @@ Other updates coming soon...
 - [Conference CFP](|filename|/pages/ChambersCFP.md)
 - [Phil Events Page](http://philevents.org/event/show/15076)
 
-[HOME➝](|filename|/pages/home.md)
+[HOME➝](http://colinmclear.net)
