@@ -27,11 +27,8 @@ quote!** For further questions please consult the [grading rubric](|filename|/pd
 
 Be sure to review the guidelines on [writing a thesis statement](|filename|/pdfs/phil101/ThesisOverview.pdf) and [paper structure](|filename|/pdfs/phil101/PaperStructure.pdf)!
 
-__Paper topics TBA!__
-<!--**Papers are due to your section leader by Friday 4/25 by 4
-    pm**.-->
 
-<!-- 1.  In “What is it like to be a bat” Thomas Nagel argues that the nature
+1.  In “What is it like to be a bat” Thomas Nagel argues that the nature
     of consciousness presents a challenge to our understanding of
     physicalism. What is Nagel’s argument? What is the significance for
     physicalism of a “point of view” as Nagel understands it? Is
@@ -41,6 +38,10 @@ __Paper topics TBA!__
     physicalism? What is the basic structure of Lewis’s reply? Is his
     reply convincing? Provide reasons why or why not.
 
-3.  Mackie argues that there are no objective values. Explain his
-    arguments. Are they convincing? Provide reasons why or why not. -->
+3. Explain the free will problem. Why might free will and determinism be
+   incompatible? What, if any reason do we have to think that they *are*
+   compatible? Defend your position by providing reasons why or why not.
+
+4.  Mackie argues that there are no objective values. Explain his
+    arguments. Are they convincing? Provide reasons why or why not.
 
