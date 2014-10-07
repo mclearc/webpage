@@ -1,6 +1,15 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 12 – Can Machines Think? (10/9) ###
+
+- Searle, ["Is the Brain's Mind a Computer Program?"](|filename|/pdfs/phil101/SearleBrain.pdf)
+    - What model of the mind is Searle criticizing?
+    - What is the difference between syntax and semantics?
+    - What is the 'Chinese Room Argument'? What is it supposed to show?
+
+---
+
 ### Class 11 – The Puzzle of Representation (10/7)
 
 - Tim Crane, ["The Puzzle of Representation"](|filename|/pdfs/phil101/Crane_PuzzleMind.pdf)
@@ -9,6 +18,7 @@ Status: hidden
     - What is the distinction between attitude and content in mental
       representation?
     - What is intentionality?
+- [Slides](|filename|/pdfs/phil101/11CraneRepresentation.pdf) (10/7)
 
 ---
 
