@@ -1,12 +1,23 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 13 – Objections to the Chinese Room Argument (10/14) ###
+
+- Searle (continued)
+    + What is the 'imitation game'? How is it related to the Turing test?
+    + Does the Chinese room pass the Turing test?
+    + What is the 'Systems Objection' (see p. 30)?
+        * Is Searle's response convincing?
+
+---
+
 ### Class 12 – Can Machines Think? (10/9) ###
 
 - Searle, ["Is the Brain's Mind a Computer Program?"](|filename|/pdfs/phil101/SearleBrain.pdf)
     - What model of the mind is Searle criticizing?
     - What is the difference between syntax and semantics?
     - What is the 'Chinese Room Argument'? What is it supposed to show?
+- [Slides](|filename|/pdfs/phil101/12SearleAI.pdf) (10/9)
 
 ---
 
