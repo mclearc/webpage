@@ -1,6 +1,19 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
+### Class 7 – The Schematism & Second Analogy
+ 
+- CPR: 
+    + Introduction to the Analytic, B169-75 (Guyer & Wood, 267-70)
+    + The Schematism, B176-87 (Guyer & Wood, 271-77)
+    + System of Principles, B187-202 (Guyer & Wood, 278-86)
+    + Second Analogy, B232-256 (Guyer & Wood, 304-316)
+- *Prolegomena* §§27-30, 4:310-13 (Hatfield, 62-5)
+- Optional: Watkins, [*Kant and the Metaphysics of Causality*](https://www.dropbox.com/s/n46hz0hv95sk41k/watkins2005.pdf?dl=0), chs. 3, 6.
+- Optional: Van Cleve, [*Problems from Kant*](https://www.dropbox.com/s/afskaiurw2gu086/van%20cleve1999.pdf), ch. 9
+
+---
+
 ### Class 6 – The Transcendental Deduction, Second Step (10/9) ###
 
 - CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66)
@@ -10,6 +23,7 @@ Status: hidden
 - Messina, ['Kant on the Unity of Space and the Synthetic Unity of Apperception'](https://www.dropbox.com/s/k8lp17eeqq0v4mp/messina2014.pdf?dl=0)
 - Allais, ['Kant, Non-Conceptual Content and the Representation of Space'](https://www.dropbox.com/s/m8koh16zdf6xd51/allais2009.pdf?dl=0)
 - Optional: McLear, ['The Kantian (Non)-Conceptualism Debate'](|filename|/pdfs/papers/KantConceptualism.pdf)
+- [Handout](|filename|/pdfs/871kant/6_KantTDII.pdf)
 
 ---
 
