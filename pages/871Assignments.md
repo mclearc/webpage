@@ -11,6 +11,7 @@ Status: hidden
 - *Prolegomena* §§27-30, 4:310-13 (Hatfield, 62-5)
 - Optional: Watkins, [*Kant and the Metaphysics of Causality*](https://www.dropbox.com/s/n46hz0hv95sk41k/watkins2005.pdf?dl=0), chs. 3, 6.
 - Optional: Van Cleve, [*Problems from Kant*](https://www.dropbox.com/s/afskaiurw2gu086/van%20cleve1999.pdf), ch. 9
+- Optional: Pendlebury, ['Making Sense of Kant's Schematism'](/Users/Roambot/Dropbox/PDFLibrary/pendlebury1995.pdf)
 
 ---
 
