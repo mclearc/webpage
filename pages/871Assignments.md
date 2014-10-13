@@ -9,9 +9,10 @@ Status: hidden
     + System of Principles, B187-202 (Guyer & Wood, 278-86)
     + Second Analogy, B232-256 (Guyer & Wood, 304-316)
 - *Prolegomena* §§27-30, 4:310-13 (Hatfield, 62-5)
-- Optional: Watkins, [*Kant and the Metaphysics of Causality*](https://www.dropbox.com/s/n46hz0hv95sk41k/watkins2005.pdf?dl=0), chs. 3, 6.
+- Optional: Watkins, [*Kant and the Metaphysics of Causality*](https://www.dropbox.com/s/n46hz0hv95sk41k/watkins2005.pdf?dl=0), chs. 3, 6
 - Optional: Van Cleve, [*Problems from Kant*](https://www.dropbox.com/s/afskaiurw2gu086/van%20cleve1999.pdf), ch. 9
 - Optional: Pendlebury, ['Making Sense of Kant's Schematism'](https://www.dropbox.com/s/8i48n6pz1j4cnpc/pendlebury1995.pdf?dl=0)
+- Guyer, [*Kant and the Claims of Knowledge*](https://www.dropbox.com/s/wmt4ulo1mo4byoh/guyer1987.pdf?dl=0), ch. 6
 
 ---
 
