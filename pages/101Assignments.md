@@ -1,6 +1,12 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 14 – Mid-Term Review (10/16) ###
+
+- Bring questions for review
+
+---
+
 ### Class 13 – Objections to the Chinese Room Argument (10/14) ###
 
 - Searle (continued)
@@ -8,6 +14,7 @@ Status: hidden
     + Does the Chinese room pass the Turing test?
     + What is the 'Systems Objection' (see p. 30)?
         * Is Searle's response convincing?
+- [Slides](|filename|/pdfs/phil101/13SearleObjections.pdf) (10/14)
 
 ---
 
