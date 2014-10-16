@@ -11,6 +11,8 @@ Status: hidden
 
 ### No Class on Tuesday (10/21) ###
 
+- Happy break!
+
 ---
 
 ### Class 14 – Mid-Term Review (10/16) ###
