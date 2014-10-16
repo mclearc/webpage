@@ -1,5 +1,4 @@
 Title: Phil 101
-Date: 26-06-2013
 status: hidden
 
 ### Course Information ###

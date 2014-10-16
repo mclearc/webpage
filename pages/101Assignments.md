@@ -1,9 +1,22 @@
+
 Title: Phil 101 Assignments
 Status: hidden
+
+### Mid-Term Exam (10/23) ###
+
+- Normal class time and location
+- No blue books required
+
+---
+
+### No Class on Tuesday (10/21) ###
+
+---
 
 ### Class 14 – Mid-Term Review (10/16) ###
 
 - Bring questions for review
+- [Slides](|filename|/pdfs/phil101/Mid-Term_Review_Fall_2014.pdf) (10/16)
 
 ---
 
