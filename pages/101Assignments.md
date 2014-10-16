@@ -1,4 +1,3 @@
-
 Title: Phil 101 Assignments
 Status: hidden
 
