@@ -24,6 +24,7 @@ Status: hidden
 - Optional: Van Cleve, [*Problems from Kant*](https://www.dropbox.com/s/afskaiurw2gu086/van%20cleve1999.pdf), ch. 9
 - Optional: Pendlebury, ['Making Sense of Kant's Schematism'](https://www.dropbox.com/s/8i48n6pz1j4cnpc/pendlebury1995.pdf?dl=0)
 - Guyer, [*Kant and the Claims of Knowledge*](https://www.dropbox.com/s/wmt4ulo1mo4byoh/guyer1987.pdf?dl=0), ch. 6
+- [Handout](|filename|/pdfs/871kant/7_KantSchematism&Causation.pdf)
 
 ---
 
