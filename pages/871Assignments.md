@@ -5,8 +5,8 @@ Status: hidden
 
 - CPR: Introduction, B349-B398 (Guyer & Wood, 384-410)
 - *Prolegomena*: §§33-5 (Hatfield, 67-9), §§40-5 (Hatfield, 79-85)
-- Optional: Ameriks, ['The Critique of Metaphysics: Kant and Traditional Ontology'](https://www.dropbox.com/s/uva8t1ssufbz35k/ameriks1992.pdf?dl=0)
-- Optional: Rohlf, ['The Ideas of Pure Reason'](https://www.dropbox.com/s/lblcrj0k4rzpxjs/rohlf2010.pdf?dl=0)
+- Ameriks, ['The Critique of Metaphysics: Kant and Traditional Ontology'](https://www.dropbox.com/s/uva8t1ssufbz35k/ameriks1992.pdf?dl=0)
+- Rohlf, ['The Ideas of Pure Reason'](https://www.dropbox.com/s/lblcrj0k4rzpxjs/rohlf2010.pdf?dl=0)
 - Optional: Williams, ['Kant's Account of Reason' (SEP)](http://plato.stanford.edu/entries/kant-reason/)
 - Optional: Grier, ['Kant's Critique of Metaphysics' (SEP)](http://plato.stanford.edu/entries/kant-metaphysics/)
 
