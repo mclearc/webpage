@@ -1,7 +1,9 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
-### Class 8 – Dialectic, Transcendental Illusion, & the Ideas of Pure Reason
+
+<!-- 
+### Class 9 – Dialectic, Transcendental Illusion, & the Ideas of Pure Reason
 
 - CPR: Introduction, B349-B398 (Guyer & Wood, 384-410)
 - *Prolegomena*: §§33-5 (Hatfield, 67-9), §§40-5 (Hatfield, 79-85)
@@ -9,6 +11,14 @@ Status: hidden
 - Rohlf, ['The Ideas of Pure Reason'](https://www.dropbox.com/s/lblcrj0k4rzpxjs/rohlf2010.pdf?dl=0)
 - Optional: Williams, ['Kant's Account of Reason' (SEP)](http://plato.stanford.edu/entries/kant-reason/)
 - Optional: Grier, ['Kant's Critique of Metaphysics' (SEP)](http://plato.stanford.edu/entries/kant-metaphysics/)
+
+-->
+
+### Class 8 – The Architectonic & MFNS Preface ###
+
+- CPR: Architectonic, A832-51/B860-79 (Guyer & Wood, pp. 691-701)
+- MFNS: [Preface, 4:467-79](|filename|/pdfs/871kant/MFNS_Preface.pdf)
+- Optional: Watkins, [Kant's Philosophy of Science (SEP)](http://plato.stanford.edu/entries/kant-science/)
 
 ---
 
