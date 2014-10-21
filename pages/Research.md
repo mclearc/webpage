@@ -36,7 +36,7 @@ Compass*. [(Preprint)](|filename|/pdfs/papers/KantConceptualism.pdf)
 
 ### Other Work ###
 
-- [Comments on Stefanie Grüne's *Blinde Anschauung*](http://virtualcritique.wordpress.com/2014/08/19/colin-mclear-on-stefanie-grunes-blinde-anschauung/), Author meets critics session of [*Critique*](http://virtualcritique.wordpress.com/about/). ([PDF version](|filename|/pdfs/papers/GrüneCritique.pdf))
+- [Comments on Stefanie Grüne's *Blinde Anschauung*](http://virtualcritique.wordpress.com/2014/08/19/colin-mclear-on-stefanie-grunes-blinde-anschauung/), Author meets critics session of [*Critique*](http://virtualcritique.wordpress.com/about/). ([PDF version](|filename|/pdfs/papers/GruneCritique.pdf))
 
 ### Work in Progress
 
