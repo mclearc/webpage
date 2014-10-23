@@ -10,6 +10,10 @@ Status: hidden
 
 ---
 
+### No Section on Friday (10/24) ###
+
+---
+
 ### Mid-Term Exam (10/23) ###
 
 - Normal class time and location
