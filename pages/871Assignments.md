@@ -20,6 +20,7 @@ Status: hidden
 - MFNS: [Preface, 4:467-79](|filename|/pdfs/871kant/MFNS_Preface.pdf)
 - Optional: Watkins, [Kant's Philosophy of Science (SEP)](http://plato.stanford.edu/entries/kant-science/)
 - Optional: de Jong & Betti, [The Classical Model of Science](https://www.dropbox.com/s/z1va212ofakopnl/de%20jong2010.pdf?dl=0)
+- [Handout](|filename|/pdfs/871kant/8_KantArchitectonic.pdf)
 
 ---
 
