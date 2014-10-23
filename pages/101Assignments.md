@@ -1,6 +1,15 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Freedom & Determinism (10/28) ###
+
+- Thomas Nagel, ["Free Will"](|filename|/pdfs/phil101/NagelFreeWill.pdf)
+    + What is freedom of the will?
+    + What is determinism?
+    + Are determinism and free will compatible?
+
+---
+
 ### Mid-Term Exam (10/23) ###
 
 - Normal class time and location
