@@ -1,8 +1,6 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
-
-<!-- 
 ### Class 9 – Dialectic, Transcendental Illusion, & the Ideas of Pure Reason
 
 - CPR: Introduction, B349-B398 (Guyer & Wood, 384-410)
@@ -12,7 +10,7 @@ Status: hidden
 - Optional: Williams, ['Kant's Account of Reason' (SEP)](http://plato.stanford.edu/entries/kant-reason/)
 - Optional: Grier, ['Kant's Critique of Metaphysics' (SEP)](http://plato.stanford.edu/entries/kant-metaphysics/)
 
--->
+---
 
 ### Class 8 – The Architectonic & MFNS Preface ###
 
