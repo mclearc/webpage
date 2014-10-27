@@ -1,7 +1,7 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
-### Class 9 – Dialectic, Transcendental Illusion, & the Ideas of Pure Reason
+### Class 9 – Dialectic, Transcendental Illusion, & the Ideas of Pure Reason (10/30)
 
 - CPR: Introduction, B349-B398 (Guyer & Wood, 384-410)
 - *Prolegomena*: §§33-5 (Hatfield, 67-9), §§40-5 (Hatfield, 79-85)
@@ -12,7 +12,7 @@ Status: hidden
 
 ---
 
-### Class 8 – The Architectonic & MFNS Preface ###
+### Class 8 – The Architectonic & MFNS Preface (10/23) ###
 
 - CPR: Architectonic, A832-51/B860-79 (Guyer & Wood, pp. 691-701)
 - MFNS: [Preface, 4:467-79](|filename|/pdfs/871kant/MFNS_Preface.pdf)
@@ -22,7 +22,7 @@ Status: hidden
 
 ---
 
-### Class 7 – The Schematism & Second Analogy
+### Class 7 – The Schematism & Second Analogy (10/16)
  
 - CPR: 
     + Introduction to the Analytic, B169-75 (Guyer & Wood, 267-70)
