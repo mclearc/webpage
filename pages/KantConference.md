@@ -21,6 +21,8 @@ Confirmed speakers include:
 - [Derk Pereboom](http://derk-pereboom.net) (Cornell University)
 - [Clinton Tolley](http://philosophyfaculty.ucsd.edu/faculty/ctolley/) (University of California, San Diego)
 
+If you would like to attend, or are interested in chairing a session, please [contact me](mailto:mclear@unl.edu).
+
 ## Accomodations ##
 
 We will have two blocks of rooms reserved in downtown Lincoln, convenient to the conference venue. More information coming soon!
