@@ -1,7 +1,7 @@
 Title: Phil 101 Assignments
 Status: hidden
 
-### Freedom & Determinism (10/28) ###
+### Class 15 – Freedom & Determinism (10/28) ###
 
 - Thomas Nagel, ["Free Will"](|filename|/pdfs/phil101/NagelFreeWill.pdf)
     + What is freedom of the will?
