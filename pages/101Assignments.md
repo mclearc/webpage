@@ -1,12 +1,22 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 16 – Freedom & Alternate Possibilities (10/30) ###
+
+- Harry Frankfurt, ["Alternate Possibilities and Moral Responsibility"](|filename|/pdfs/phil101/FrankfurtPossibilities.pdf)
+    + What is the principle of alternate possibilities?
+    + Why might alternate possibilities be relevant to freedom?
+    + Why does Frankfurt think that alternate possibilities aren't relevant to freedom?
+
+---
+
 ### Class 15 – Freedom & Determinism (10/28) ###
 
 - Thomas Nagel, ["Free Will"](|filename|/pdfs/phil101/NagelFreeWill.pdf)
     + What is freedom of the will?
     + What is determinism?
     + Are determinism and free will compatible?
+- [Slides](|filename|/pdfs/phil101/15FreeWill.pdf) (10/28)
 
 ---
 
@@ -30,7 +40,7 @@ Status: hidden
 ### Class 14 – Mid-Term Review (10/16) ###
 
 - Bring questions for review
-- [Slides](|filename|/pdfs/phil101/Mid-Term_Review_Fall_2014.pdf) (10/16)
+- [Slides](|filename|/pdfs/phil101/14Mid-Term_Review_Fall_2014.pdf) (10/16)
 
 ---
 
