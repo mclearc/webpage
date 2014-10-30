@@ -9,6 +9,7 @@ Status: hidden
 - Rohlf, ['The Ideas of Pure Reason'](https://www.dropbox.com/s/lblcrj0k4rzpxjs/rohlf2010.pdf?dl=0)
 - Optional: Williams, ['Kant's Account of Reason' (SEP)](http://plato.stanford.edu/entries/kant-reason/)
 - Optional: Grier, ['Kant's Critique of Metaphysics' (SEP)](http://plato.stanford.edu/entries/kant-metaphysics/)
+- [Handout](|filename|/pdfs/871kant/9_KantDialectic.pdf)
 
 ---
 
