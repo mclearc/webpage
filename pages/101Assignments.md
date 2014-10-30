@@ -1,12 +1,21 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 17 – Determinism & Moral Responsibility (11/4) ###
+
+- Galen Strawson, ["The Impossibility of Moral Responsibility"](|filename|/pdfs/phil101/StrawsonDeterminism.pdf)
+    + What is the 'Basic Argument'?
+    + How could one be responsible for the way one is?
+
+---
+
 ### Class 16 – Freedom & Alternate Possibilities (10/30) ###
 
 - Harry Frankfurt, ["Alternate Possibilities and Moral Responsibility"](|filename|/pdfs/phil101/FrankfurtPossibilities.pdf)
     + What is the principle of alternate possibilities?
     + Why might alternate possibilities be relevant to freedom?
     + Why does Frankfurt think that alternate possibilities aren't relevant to freedom?
+- [Slides](|filename|/pdfs/phil101/16FrankfurtPAP.pdf) (10/30)
 
 ---
 
