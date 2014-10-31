@@ -1,6 +1,16 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
+### Class 10 – The Paralogisms (I-II) ###
+
+- CPR: First and Second Paralogisms, A341-61 (Guyer & Wood, 411-22)
+- CPR: Refutation of Mendelssohn, B413-26 (Guyer & Wood, 449-55)
+- *Prolegomena*: §46 (Hatfield, 85-6)
+- Optional: Dyck, ['The Divorce of Reason and Psychology'](https://www.dropbox.com/s/ixfbmaj8it5xyb5/dyck2009.pdf?dl=0)
+- Optional: Hatfield, ['Empirical, Rational, and Transcendental Pyschology'](https://www.dropbox.com/s/gr8i47ihgvdkfel/hatfield1992.pdf?dl=0)
+
+---
+
 ### Class 9 – Dialectic, Transcendental Illusion, & the Ideas of Pure Reason (10/30)
 
 - CPR: Introduction, B349-B398 (Guyer & Wood, 384-410)
