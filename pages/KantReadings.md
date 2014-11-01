@@ -14,6 +14,7 @@ status: hidden
     + [*Treatise of Human Nature*](https://www.dropbox.com/s/whgmgl428b2xrsi/hume1888.pdf?dl=0)
     + [*Enquiry Concerning Human Understanding*](https://www.dropbox.com/s/4e9ave6kt09c245/hume2007.pdf?dl=0)
 - Newton, [Philosophical Writings](https://www.dropbox.com/s/w2t4r1r208ob9g1/newton2004.pdf?dl=0)
+- Watkins, [*Background Source Materials*](https://www.dropbox.com/s/7ng5jdis8siihxi/watkins2009.pdf?dl=0)
 
 ### Secondary Literature ###
 
