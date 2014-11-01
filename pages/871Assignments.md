@@ -4,6 +4,7 @@ Status: hidden
 ### Class 10 – The Paralogisms (I-II) ###
 
 - CPR: First and Second Paralogisms, A341-61 (Guyer & Wood, 411-22)
+  + Compare B406-8 (Guyer & Wood, 445-6)
 - CPR: Refutation of Mendelssohn, B413-26 (Guyer & Wood, 449-55)
 - *Prolegomena*: §46 (Hatfield, 85-6)
 - Optional: Dyck, ['The Divorce of Reason and Psychology'](https://www.dropbox.com/s/ixfbmaj8it5xyb5/dyck2009.pdf?dl=0)
