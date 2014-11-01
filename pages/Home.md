@@ -9,9 +9,8 @@ My work focuses on two (often intersecting) areas of philosophy -- the
 History of Modern Philosophy (especially Kant) and the Philosophy of
 Mind.
 
+Here is my complete [CV](|filename|/pdfs/McLearCV.pdf) (PDF).
 
-[My Vita➝](|filename|/pdfs/McLearCV.pdf)
-
-[Kant Chambers Conference (May 1-2, 2015)➝](http://colinmclear.net/chambers-conference)
+I'm also organizing this year's [Chambers Conference (May 1-2, 2015)](http://colinmclear.net/chambers-conference). The theme concerns Kant's (and Kantian) views on introspection, self-consciousness, and self-knowledge. 
 
 
