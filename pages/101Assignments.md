@@ -1,11 +1,21 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 18 – Determinism & Moral Responsibility, continued (11/6) ###
+
+- Strawson, continued
+    + What is the connection between being responsible for what you do and how you are?
+    + Can we be responsible for how we are?
+        * Why does Strawson think this is impossible?
+
+---
+
 ### Class 17 – Determinism & Moral Responsibility (11/4) ###
 
 - Galen Strawson, ["The Impossibility of Moral Responsibility"](|filename|/pdfs/phil101/StrawsonDeterminism.pdf)
     + What is the 'Basic Argument'?
     + How could one be responsible for the way one is?
+- [Slides](|filename|/pdfs/phil101/17StrawsonResponsibility.pdf) (11/4)
 
 ---
 
