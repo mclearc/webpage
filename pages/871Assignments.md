@@ -9,6 +9,7 @@ Status: hidden
 - *Prolegomena*: §46 (Hatfield, 85-6)
 - Optional: Dyck, ['The Divorce of Reason and Psychology'](https://www.dropbox.com/s/ixfbmaj8it5xyb5/dyck2009.pdf?dl=0)
 - Optional: Hatfield, ['Empirical, Rational, and Transcendental Pyschology'](https://www.dropbox.com/s/gr8i47ihgvdkfel/hatfield1992.pdf?dl=0)
+- Optional: Proops, ['Kant's First Paralogism'](https://www.dropbox.com/s/ps6r04la4tvt9hr/proops2010.pdf?dl=0)
 
 ---
 
