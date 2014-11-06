@@ -1,12 +1,22 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+## Class 19 -- Free Will and Neuroscience (11/11) ##
+
+- Benjamin Libet, ["Do We Have Free Will"](|filename|/pdfs/phil101/LibetFreeWill.pdf)
+    + Does Libet think that what we consciously will determines what we do?
+    + What role does Libet assign for the will?
+    + What is the experiment that Libet bases his findings on?
+
+---
+
 ### Class 18 – Determinism & Moral Responsibility, continued (11/6) ###
 
 - Strawson, continued
     + What is the connection between being responsible for what you do and how you are?
     + Can we be responsible for how we are?
         * Why does Strawson think this is impossible?
+- [Slides](|filename|/pdfs/phil101/18StrawsonResponsiblity(II).pdf) (11/6)
 
 ---
 
