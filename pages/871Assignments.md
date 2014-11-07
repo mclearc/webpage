@@ -3,7 +3,7 @@ Status: hidden
 
 ### Class 11 – The Paralogisms (III-IV) ###
 
-- CPR: Third and Fourth Paralogisms, and general conclusion, A361-405 (Guyer & Wood, 422-44)
+- CPR: Third and Fourth Paralogisms, and Observation, A361-405 (Guyer & Wood, 422-44)
 - CPR: B409-10, 426-32 (Guyer & Wood, 446-8, 456-8)
 - *Prolegomena* §49 (Hatfield, 88-9)
 - Optional: CPR - Refutation of Idealism, B274-9 (Guyer & Wood, 326-9)
