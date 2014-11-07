@@ -1,6 +1,17 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
+### Class 11 – The Paralogisms (III-IV) ###
+
+- CPR: Second and Third Paralogisms, and general conclusion, A361-405 (Guyer & Wood, 422-44)
+- CPR: B409-10, 426-32 (Guyer & Wood, 446-8, 456-8)
+- *Prolegomena* §49 (Hatfield, 88-9)
+- Optional: CPR - Refutation of Idealism, B274-9 (Guyer & Wood, 326-9)
+- Optional: Wuerth, ['The Paralogisms of Pure Reason'](https://www.dropbox.com/s/npcf7x15ep2r7j7/wuerth2010.pdf?dl=0)
+- Optional: Caranti, ['The Antiskeptical Argument of the Fourth Paralogism'](|filename|/pdfs/871kant/caranti2007_ch.4.pdf)
+
+---
+
 ### Class 10 – The Paralogisms (I-II) ###
 
 - CPR: First and Second Paralogisms, A341-61 (Guyer & Wood, 411-22)
@@ -10,6 +21,7 @@ Status: hidden
 - Optional: Dyck, ['The Divorce of Reason and Psychology'](https://www.dropbox.com/s/ixfbmaj8it5xyb5/dyck2009.pdf?dl=0)
 - Optional: Hatfield, ['Empirical, Rational, and Transcendental Pyschology'](https://www.dropbox.com/s/gr8i47ihgvdkfel/hatfield1992.pdf?dl=0)
 - Optional: Proops, ['Kant's First Paralogism'](https://www.dropbox.com/s/ps6r04la4tvt9hr/proops2010.pdf?dl=0)
+- [Handout](|filename|/pdfs/871kant/10_KantRP1.pdf)
 
 ---
 
