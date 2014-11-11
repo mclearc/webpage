@@ -1,13 +1,23 @@
 Title: Phil 101 Assignments
 Status: hidden
 
-## Class 19 -- Free Will and Neuroscience (11/11) ##
+### Class 20 – Conscious Willing & Legal Responsibility
+
+- Walter Sinnott-Armstrong, ['Lessons from Libet'](|filename|/pdfs/phil101/ArmstrongOnLibet.pdf)
+    - What, according to Sinnott-Armstrong, *doesn't* Libet's argument show?
+    - What role does the conception of conscious willing play in our conception of legal responsibility?
+    - What significance does Sinnott-Armstrong think the Libet experimental results have for our notion of legal responsibiltity?
+
+---
+
+### Class 19 -- Free Will and Neuroscience (11/11) ##
 
 - Benjamin Libet, ["Do We Have Free Will"](|filename|/pdfs/phil101/LibetFreeWill.pdf)
     + Does Libet think that what we consciously will determines what we do?
     + What role does Libet assign for the will?
     + What is the experiment that Libet bases his findings on?
 - [Wikipedia page](https://en.wikipedia.org/wiki/Benjamin_Libet) on Libet 
+- [Slides](|filename|/pdfs/phil101/19Libet.pdf)
 
 ---
 
