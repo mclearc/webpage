@@ -17,7 +17,7 @@ Status: hidden
     + What role does Libet assign for the will?
     + What is the experiment that Libet bases his findings on?
 - [Wikipedia page](https://en.wikipedia.org/wiki/Benjamin_Libet) on Libet 
-- [Slides](|filename|/pdfs/phil101/19Libet.pdf)
+- [Slides](|filename|/pdfs/phil101/19Libet.pdf) (11/11)
 
 ---
 
