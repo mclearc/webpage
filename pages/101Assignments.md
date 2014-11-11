@@ -7,6 +7,7 @@ Status: hidden
     + Does Libet think that what we consciously will determines what we do?
     + What role does Libet assign for the will?
     + What is the experiment that Libet bases his findings on?
+- [Wikipedia page](https://en.wikipedia.org/wiki/Benjamin_Libet) on Libet 
 
 ---
 
