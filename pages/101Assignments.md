@@ -1,12 +1,27 @@
 Title: Phil 101 Assignments
 Status: hidden
 
-### Class 20 – Conscious Willing & Legal Responsibility
+
+### Class 21 – Ethics & Meta-Ethics (11/18)
+
+- Mackie, ["The Subjectivity of Value"](|filename|/pdfs/phil101/MackieValue.pdf)
+    - How does Mackie understand the notions of moral skepticism and
+      subjectivism?
+    - How does Mackie understand the difference between "first-order"
+      and "second-order" questions in ethics?
+    - What, according to Mackie, is characteristic of objectivity in ethics?
+    - What is Mackie's "error theory"? Why does he think the error
+      theory is the best description of the nature of ethical judgment?
+
+---
+
+### Class 20 – Conscious Willing & Legal Responsibility (11/13)
 
 - Walter Sinnott-Armstrong, ['Lessons from Libet'](|filename|/pdfs/phil101/ArmstrongOnLibet.pdf)
     - What, according to Sinnott-Armstrong, *doesn't* Libet's argument show?
     - What role does the conception of conscious willing play in our conception of legal responsibility?
     - What significance does Sinnott-Armstrong think the Libet experimental results have for our notion of legal responsibiltity?
+- [Slides](|filename|/pdfs/phil101/20Libet(II).pdf) (11/13)
 
 ---
 
