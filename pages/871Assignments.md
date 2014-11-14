@@ -1,6 +1,18 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
+
+### Class 12 – The Third Antinomy ###
+
+- CPR: Antinomy of Pure Reason and Third Antinomy, A405-25/B432-53 and 
+  A444-51/B474-9 (Guyer and Wood, 459-69 and 484-9)
+- CPR: Resolution of the cosmological idea, A532-58/B560-86 (Guyer and Wood, 
+  532-46)
+- *Prolegomena*, §§50-4 (Hatfield, 90-9)
+- Optional: Pereboom, ['Kant on Transcendental Freedom'](https://www.dropbox.com/s/5i3pofvwannostk/pereboom2006b.pdf?dl=0)
+
+---
+
 ### Class 11 – The Paralogisms (III-IV) ###
 
 - CPR: Third and Fourth Paralogisms, and Observation, A361-405 (Guyer & Wood, 422-44)
