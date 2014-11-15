@@ -23,6 +23,7 @@ Status: hidden
 - Optional: Wuerth, ['The Paralogisms of Pure Reason'](https://www.dropbox.com/s/npcf7x15ep2r7j7/wuerth2010.pdf?dl=0)
 - Optional: Caranti, ['The Antiskeptical Argument of the Fourth Paralogism'](|filename|/pdfs/871kant/caranti2007_ch.4.pdf)
 - Optional: Dyck, ['The Aeneas Argument: The Personality of the Soul'](|filename|/pdfs/871kant/dyck2010.pdf)
+- [Handout](|filename|/pdfs/871kant/11_KantRP2.pdf)
 
 ---
 
