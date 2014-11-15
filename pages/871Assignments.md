@@ -10,6 +10,7 @@ Status: hidden
   532-46)
 - *Prolegomena*, §§50-4 (Hatfield, 90-9)
 - Optional: Pereboom, ['Kant on Transcendental Freedom'](https://www.dropbox.com/s/5i3pofvwannostk/pereboom2006b.pdf?dl=0)
+- Optional: Wood, ['The Antinomies of Pure Reason'](https://www.dropbox.com/s/o0zmd55l52dxq7w/Guyer%202010%20The%20Antinomies%20of%20Pure%20Reason.pdf?dl=0)
 
 ---
 
