@@ -1,6 +1,13 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 22 - Two Kinds of Moral Skepticism (11/20)
+
+- Mackie (continued)
+    - What is Mackie's argument against noncognitivism?
+    - How does Mackie argue for his error theory?
+
+---
 
 ### Class 21 – Ethics & Meta-Ethics (11/18)
 
@@ -12,6 +19,7 @@ Status: hidden
     - What, according to Mackie, is characteristic of objectivity in ethics?
     - What is Mackie's "error theory"? Why does he think the error
       theory is the best description of the nature of ethical judgment?
+- [Slides](|filename|/pdfs/phil101/21Mackie(I).pdf) (11/18)
 
 ---
 
