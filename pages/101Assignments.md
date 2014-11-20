@@ -1,11 +1,20 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Class 23 – Mackie's Error Theory (11/25)
+
+- Mackie (continued)
+    + What is the argument from disagreement? Why does it count against the objectivity of morality?
+    + What is the argument from 'queerness'?
+
+---
+
 ### Class 22 - Two Kinds of Moral Skepticism (11/20)
 
 - Mackie (continued)
     - What is Mackie's argument against noncognitivism?
     - How does Mackie argue for his error theory?
+- [Slides](|filename|/pdfs/phil101/22Mackie(II).pdf) (11/20)
 
 ---
 
