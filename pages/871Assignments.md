@@ -12,6 +12,7 @@ Status: hidden
 - Optional: Pereboom, ['Kant on Transcendental Freedom'](https://www.dropbox.com/s/5i3pofvwannostk/pereboom2006b.pdf?dl=0)
 - Optional: Wood, ['The Antinomies of Pure Reason'](https://www.dropbox.com/s/o0zmd55l52dxq7w/Guyer%202010%20The%20Antinomies%20of%20Pure%20Reason.pdf?dl=0)
 - Optional: Wood, ['Kant's Compatibilism'](https://www.dropbox.com/s/s7qmfim3ejpq22x/Wood%201984%20Kant%27s%20Compatibilism.pdf?dl=0)
+- [Handout](|filename|/pdfs/871kant/12_KantAntinomy.pdf)
 
 ---
 
