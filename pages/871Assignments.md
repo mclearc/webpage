@@ -1,8 +1,10 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
+### Class 13 – Groundwork I (12/4)
 
-### Class 12 – The Third Antinomy ###
+
+### Class 12 – The Third Antinomy (11/20) ###
 
 - CPR: Antinomy of Pure Reason and Third Antinomy, A405-25/B432-53 and 
   A444-51/B474-9 (Guyer and Wood, 459-69 and 484-9)
@@ -16,7 +18,7 @@ Status: hidden
 
 ---
 
-### Class 11 – The Paralogisms (III-IV) ###
+### Class 11 – The Paralogisms (III-IV) (11/13)  ### 
 
 - CPR: Third and Fourth Paralogisms, and Observation, A361-405 (Guyer & Wood, 422-44)
 - CPR: B409-10, 426-32 (Guyer & Wood, 446-8, 456-8)
@@ -29,7 +31,7 @@ Status: hidden
 
 ---
 
-### Class 10 – The Paralogisms (I-II) ###
+### Class 10 – The Para logisms (I-II) (11/6) ###
 
 - CPR: First and Second Paralogisms, A341-61 (Guyer & Wood, 411-22)
   + Compare B406-8 (Guyer & Wood, 445-6)
