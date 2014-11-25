@@ -3,6 +3,12 @@ Status: hidden
 
 ### Class 13 – Groundwork I (12/4)
 
+- *Groundwork*, Preface & section I: 4:387-405 (Gregor & Timmerman, pp. 3-20)
+- Korsgaard, "Introduction" (Gregor & Timmerman, pp. ix-xvii)
+- Optional: Korsgaard, ['Kant's Analysis of Obligation'](|filename|/pdfs/871kant/KorsgaardObligation.pdf)
+- Optional: Potter, [The Argument of Kant's Groundwork, chapter 1](|filename|/pdfs/871kant/PotterGroundwork1.pdf)
+
+---
 
 ### Class 12 – The Third Antinomy (11/20) ###
 
