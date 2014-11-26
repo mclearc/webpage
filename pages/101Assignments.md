@@ -41,7 +41,7 @@ Status: hidden
 
 --- 
 
- ### Class 23 – Mackie's Error Theory (11/25)
+### Class 23 – Mackie's Error Theory (11/25)
 
 - Mackie (continued)
     + What is the argument from disagreement? Why does it count against the objectivity of morality?
