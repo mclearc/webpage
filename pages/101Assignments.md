@@ -1,11 +1,52 @@
 Title: Phil 101 Assignments
 Status: hidden
 
-### Class 23 – Mackie's Error Theory (11/25)
+
+<!-- ### Class 26 - Moore's Proof (12/9) -->
+
+<!-- - Moore, ["Proof of the External World"](|filename|/pdfs/phil101/MooreProof.pdf) -->
+<!--     - What is Moore's Proof? -->
+<!--     - What assumption about knowledge does Moore reject? -->
+<!-- - [Slides (4/24)](|filename|/pdfs/phil101/class26.pdf) -->
+
+<!-- --- -->
+
+<!-- ### Class 25 - Descartes & Skepticism (12/4) ## -->
+
+<!-- - Descartes, ["Meditations I-II"](|filename|/pdfs/phil101/DescartesMeditations.pdf) -->
+<!--     - What does Descartes doubt and why? -->
+<!--     - What are the stages of doubt? -->
+<!--     - What, according to Descartes, cannot be doubted? -->
+
+<!-- --- -->
+
+
+### Class 24 - The Error Theory/Camus & Nagel on the Absurd (12/2)
+
+- Mackie wrap-up
+    - What does the 'Error Theory' say?
+    - What is the argument from disagreement?
+    - What is the argument from 'Queerness'?
+- Camus, ["The Myth of Sisyphus"](|filename|/pdfs/phil101/CamusSisyphus.pdf)
+    - Why, according to Camus, is the only philosophical problem
+      whether one should commit suicide?
+    - Why does Camus think life is absurd? What does 'absurd' mean here?
+    - What does Camus think the appropriate response is to the
+      (supposed) absurdity of life?
+- Nagel, ["The Absurd"](|filename|/pdfs/phil101/NagelAbsurd.pdf)
+    - What does Nagel think of standard ways of arguing for the absurdity of
+      life?
+    - What, according to Nagel, generates the sense that life is absurd?
+    - What is Nagel's 'solution' to the absurdity of life?
+
+--- 
+
+ ### Class 23 – Mackie's Error Theory (11/25)
 
 - Mackie (continued)
     + What is the argument from disagreement? Why does it count against the objectivity of morality?
     + What is the argument from 'queerness'?
+- [Slides](|filename|/pdfs/phil101/23Mackie(III).pdf) (11/25)
 
 ---
 
