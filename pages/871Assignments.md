@@ -47,7 +47,7 @@ Status: hidden
 
 ---
 
-### Class 11 – The Paralogisms (III-IV) (11/13)  ### 
+### Class 11 – The Paralogisms (III-IV) (11/13) 
 
 - CPR: Third and Fourth Paralogisms, and Observation, A361-405 (Guyer & Wood, 422-44)
 - CPR: B409-10, 426-32 (Guyer & Wood, 446-8, 456-8)
