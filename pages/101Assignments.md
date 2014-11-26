@@ -21,7 +21,7 @@ Status: hidden
 <!-- --- -->
 
 
-### Class 24 - The Error Theory/Camus & Nagel on the Absurd (12/2)
+### Class 24 - The Error Theory/Camus & Nagel on the Absurdity of Life (12/2)
 
 - Mackie wrap-up
     - What does the 'Error Theory' say?
