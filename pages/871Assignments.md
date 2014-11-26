@@ -60,7 +60,7 @@ Status: hidden
 
 ---
 
-### Class 10 – The Para logisms (I-II) (11/6) ###
+### Class 10 – The Paralogisms (I-II) (11/6) ###
 
 - CPR: First and Second Paralogisms, A341-61 (Guyer & Wood, 411-22)
   + Compare B406-8 (Guyer & Wood, 445-6)
