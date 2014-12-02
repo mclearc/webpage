@@ -11,14 +11,19 @@ Status: hidden
 
 <!-- --- -->
 
-<!-- ### Class 25 - Descartes & Skepticism (12/4) ## -->
+### Class 25 - The Absurd (continued)/Descartes & Skepticism (12/4) ##
 
-<!-- - Descartes, ["Meditations I-II"](|filename|/pdfs/phil101/DescartesMeditations.pdf) -->
-<!--     - What does Descartes doubt and why? -->
-<!--     - What are the stages of doubt? -->
-<!--     - What, according to Descartes, cannot be doubted? -->
+- Nagel, ["The Absurd"](|filename|/pdfs/phil101/NagelAbsurd.pdf)
+    - What does Nagel think of standard ways of arguing for the absurdity of
+      life?
+    - What, according to Nagel, generates the sense that life is absurd?
+    - What is Nagel's 'solution' to the absurdity of life?
+- Descartes, ["Meditations I-II"](|filename|/pdfs/phil101/DescartesMeditations.pdf)
+    - What does Descartes doubt and why?
+    - What are the stages of doubt?
+    - What, according to Descartes, cannot be doubted?
 
-<!-- --- -->
+---
 
 
 ### Class 24 - The Error Theory/Camus & Nagel on the Absurdity of Life (12/2)
