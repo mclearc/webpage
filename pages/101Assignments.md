@@ -25,7 +25,6 @@ Status: hidden
 
 ---
 
-
 ### Class 24 - The Error Theory/Camus & Nagel on the Absurdity of Life (12/2)
 
 - Mackie wrap-up
@@ -38,11 +37,7 @@ Status: hidden
     - Why does Camus think life is absurd? What does 'absurd' mean here?
     - What does Camus think the appropriate response is to the
       (supposed) absurdity of life?
-- Nagel, ["The Absurd"](|filename|/pdfs/phil101/NagelAbsurd.pdf)
-    - What does Nagel think of standard ways of arguing for the absurdity of
-      life?
-    - What, according to Nagel, generates the sense that life is absurd?
-    - What is Nagel's 'solution' to the absurdity of life?
+- [Slides](|filename|/pdfs/phil101/24Absurdity.pdf) (12/2)
 
 --- 
 
