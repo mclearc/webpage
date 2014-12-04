@@ -13,16 +13,16 @@ Status: hidden
 <!-- --- -->
 
 
-<!-- ### Class 14 - Groundwork II (12/11) --> 
+### Class 14 - Groundwork II (12/11) 
 
-<!-- - *Groundwork*, section II: 4:406-45 (Gregor & Timmerman, pp. 21-55) -->
-<!-- - Korsgaard, 'Introduction', second section (Gregor & Timmerman, pp. xvii-xxviii) -->
-<!-- - Optional: O'Neil, [Consistency in Action](|filename|/pdfs/871kant/OneilConsistency.pdf) -->
-<!-- - Optional: Korsgaard, 'Kant's Formula of Universal Law' & 'Kant's Formula of Humanitty', chs. 3 & 4 in *Creating the -->
-<!--   Kingdom of Ends* -->
-<!-- - Optional: Wood, ['Humanity'](|filename|/pdfs/871kant/WoodHumanity.pdf), ch. 5 of *Kantian Ethics* -->
+- *Groundwork*, section II: 4:406-45 (Gregor & Timmerman, pp. 21-55)
+- Korsgaard, 'Introduction', second section (Gregor & Timmerman, pp. xvii-xxviii)
+- Optional: O'Neil, [Consistency in Action](|filename|/pdfs/871kant/OneilConsistency.pdf)
+- Optional: Korsgaard, 'Kant's Formula of Universal Law' & 'Kant's Formula of Humanitty', chs. 3 & 4 in *Creating the
+  Kingdom of Ends*
+- Optional: Wood, ['Humanity'](|filename|/pdfs/871kant/WoodHumanity.pdf), ch. 5 of *Kantian Ethics*
 
-<!-- --- -->
+---
 
 ### Class 13 – Groundwork I (12/4)
 
@@ -30,6 +30,7 @@ Status: hidden
 - Korsgaard, 'Introduction', preface and first section (Gregor & Timmerman, pp. ix-xvii)
 - Optional: Korsgaard, ['Kant's Analysis of Obligation'](|filename|/pdfs/871kant/KorsgaardObligation.pdf)
 - Optional: Potter, ['The Argument of Kant's Groundwork, chapter 1'](|filename|/pdfs/871kant/PotterGroundwork1.pdf)
+- [Handout](|filename|/pdfs/871kant/13_KantGroundwork1.pdf)
 
 ---
 
