@@ -2,14 +2,23 @@ Title: Phil 101 Assignments
 Status: hidden
 
 
-<!-- ### Class 26 - Moore's Proof (12/9) -->
+<!-- ### Class 27 - Moore's Proof (12/11) -->
 
 <!-- - Moore, ["Proof of the External World"](|filename|/pdfs/phil101/MooreProof.pdf) -->
 <!--     - What is Moore's Proof? -->
 <!--     - What assumption about knowledge does Moore reject? -->
-<!-- - [Slides (4/24)](|filename|/pdfs/phil101/class26.pdf) -->
+<!-- - [Slides](|filename|/pdfs/phil101/27MooreKnowledge.pdf) (12/11) -->
 
 <!-- --- -->
+
+### Class 26 – Skepticism (12/9)
+
+- Descartes, ["Meditations I-II"](|filename|/pdfs/phil101/DescartesMeditations.pdf)
+    - What does Descartes doubt and why?
+    - What are the stages of doubt?
+    - What, according to Descartes, cannot be doubted?
+
+---
 
 ### Class 25 - The Absurd (continued)/Descartes & Skepticism (12/4) ##
 
@@ -18,10 +27,7 @@ Status: hidden
       life?
     - What, according to Nagel, generates the sense that life is absurd?
     - What is Nagel's 'solution' to the absurdity of life?
-- Descartes, ["Meditations I-II"](|filename|/pdfs/phil101/DescartesMeditations.pdf)
-    - What does Descartes doubt and why?
-    - What are the stages of doubt?
-    - What, according to Descartes, cannot be doubted?
+- [Slides](|filename|/pdfs/phil101/25NagelAbsurd.pdf) (12/4)
 
 ---
 
