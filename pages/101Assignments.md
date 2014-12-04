@@ -2,14 +2,14 @@ Title: Phil 101 Assignments
 Status: hidden
 
 
-<!-- ### Class 27 - Moore's Proof (12/11) -->
+### Class 27 - Moore's Proof (12/11)
 
-<!-- - Moore, ["Proof of the External World"](|filename|/pdfs/phil101/MooreProof.pdf) -->
-<!--     - What is Moore's Proof? -->
-<!--     - What assumption about knowledge does Moore reject? -->
+- Moore, ["Proof of the External World"](|filename|/pdfs/phil101/MooreProof.pdf)
+    - What is Moore's Proof?
+    - What assumption about knowledge does Moore reject?
 <!-- - [Slides](|filename|/pdfs/phil101/27MooreKnowledge.pdf) (12/11) -->
 
-<!-- --- -->
+---
 
 ### Class 26 – Descartes & Skepticism (12/9)
 
