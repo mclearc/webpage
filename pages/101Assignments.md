@@ -11,7 +11,7 @@ Status: hidden
 
 <!-- --- -->
 
-### Class 26 – Skepticism (12/9)
+### Class 26 – Descartes & Skepticism (12/9)
 
 - Descartes, ["Meditations I-II"](|filename|/pdfs/phil101/DescartesMeditations.pdf)
     - What does Descartes doubt and why?
@@ -20,7 +20,7 @@ Status: hidden
 
 ---
 
-### Class 25 - The Absurd (continued)/Descartes & Skepticism (12/4) ##
+### Class 25 - The Absurd (continued) (12/4) ##
 
 - Nagel, ["The Absurd"](|filename|/pdfs/phil101/NagelAbsurd.pdf)
     - What does Nagel think of standard ways of arguing for the absurdity of
