@@ -35,6 +35,7 @@ status: hidden
 - Allison, [*Commentary on the Groundwork*](https://www.dropbox.com/s/5g2u1q5g02vgs9h/allison2011.pdf?dl=0)
 - Korsgaard, [*Creating the Kingdom of Ends*](https://www.dropbox.com/s/cm0vljabl2ci5c4/korsgaard1996a.pdf?dl=0)
 - O'Neil, [*Constructions of Reason*](https://www.dropbox.com/s/4e8scy3g6pfbhi3/o%27neill1989.pdf?dl=0)
+- Rawls, [*Lectures on the History of Moral Philosophy*](https://www.dropbox.com/s/wk3r7q3ho3ekfyo/rawls2000.pdf?dl=0)
 - Sedgwick, [*Groundwork of the Metaphysics of Morals: An Introduction*](https://www.dropbox.com/s/xkj5ifdmxo2r4pv/sedgwick2008.pdf?dl=0)
 - Timmerman, [*Commentary on the Groundwork*](https://www.dropbox.com/s/m8rip9urca240p4/timmermann2007.pdf?dl=0)
 - Wood, [*Kant's Ethical Thought*](https://www.dropbox.com/s/l6pjms3h2zt6oq7/wood1999.pdf?dl=0)
