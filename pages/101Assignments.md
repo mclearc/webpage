@@ -8,7 +8,7 @@ Status: hidden
     - What is Moore's Proof?
     - What assumption about knowledge does Moore reject?
 <!-- - [Slides](|filename|/pdfs/phil101/27MooreKnowledge.pdf) (12/11) -->
-- Papers due Friday by 4 p.m.
+- Papers due Friday (12/12) by 4 p.m.
     - Please submit both a hard copy to Gabe and an electronic copy to safe
       assign
 
