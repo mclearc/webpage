@@ -39,3 +39,4 @@ status: hidden
 - Sedgwick, [*Groundwork of the Metaphysics of Morals: An Introduction*](https://www.dropbox.com/s/xkj5ifdmxo2r4pv/sedgwick2008.pdf?dl=0)
 - Timmerman, [*Commentary on the Groundwork*](https://www.dropbox.com/s/m8rip9urca240p4/timmermann2007.pdf?dl=0)
 - Wood, [*Kant's Ethical Thought*](https://www.dropbox.com/s/l6pjms3h2zt6oq7/wood1999.pdf?dl=0)
+- Wood, [*Kantian Ethics*](https://www.dropbox.com/s/vdap1e5mr6imyxv/wood2008.pdf?dl=0)
