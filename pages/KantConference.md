@@ -56,7 +56,7 @@ discounted rates for those attending the conference at UNL. Here is a list from 
 The Institute of Agriculture and Natural Resources offers [short term rental
 apartments][] on East Campus, which is a short (5-12 minute) shuttle ride away,
 for $60 per night. If you think you'd be interested in an apartment please
-[contact me][]
+[contact me][].
 
   [short term rental apartments]: http://ianrhome.unl.edu/apartments
   [contact me]: mailto:mclear@unl.edu
