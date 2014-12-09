@@ -20,6 +20,7 @@ Status: hidden
     - What does Descartes doubt and why?
     - What are the stages of doubt?
     - What, according to Descartes, cannot be doubted?
+- [Slides](|filename|/pdfs/phil101/26Skepticism.pdf) (12/9)
 
 ---
 
