@@ -1,13 +1,22 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+### Final Exam
+
+- TEAC 105
+- Monday, December 15th: 10am --- 12pm
+- Have a great break!
+
+---
 
 ### Class 27 - Moore's Proof (12/11)
 
 - Moore, ["Proof of the External World"](|filename|/pdfs/phil101/MooreProof.pdf)
     - What is Moore's Proof?
     - What assumption about knowledge does Moore reject?
-<!-- - [Slides](|filename|/pdfs/phil101/27MooreKnowledge.pdf) (12/11) -->
+- [Slides](|filename|/pdfs/phil101/27MooreKnowledge.pdf) (12/11)
+    - Note that you won't be examined on Moore -- though there may be some 
+      questions for extra credit!
 - Papers due Friday (12/12) by 4 p.m.
     - Please submit both a hard copy to Gabe and an electronic copy to safe
       assign
