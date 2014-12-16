@@ -19,7 +19,7 @@ Status: hidden
 - Korsgaard, 'Introduction', second section (Gregor & Timmerman, pp. xvii-xxviii)
 - Optional: Korsgaard, 'Kant's Formula of Universal Law' & 'Kant's Formula of Humanitty', chs. 3 & 4 in *Creating the
   Kingdom of Ends*
-- Optional: O'Neil, [Consistency in Action](|filename|/pdfs/871kant/OneilConsistency.pdf)
+- Optional: O'Neill, [Consistency in Action](|filename|/pdfs/871kant/OneilConsistency.pdf)
 - Optional: Rawls, *Lectures*, Kant §§II-IV
 - Optional: Wood, ['Humanity'](|filename|/pdfs/871kant/WoodHumanity.pdf), ch. 5 
   of *Kantian Ethics*
