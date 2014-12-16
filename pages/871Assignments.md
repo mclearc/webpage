@@ -6,7 +6,7 @@ Status: hidden
 - *Groundwork*, section III: 4:446-63 (Gregor & Timmerman, pp. 56-72)
 - Korsgaard, 'Introduction', third section (Gregor & Timmerman, pp.
   xxviii-xxxiii)
-- Optional: O'Neil, ['Reason and Autonomy in *Grundlegung* III'](|filename|/pdfs/871kant/OneilReason.pdf)
+- Optional: O'Neill, ['Reason and Autonomy in *Grundlegung* III'](|filename|/pdfs/871kant/OneilReason.pdf)
 - Optional: Korsgaard, 'Morality as Freedom', ch. 6 in *Creating the Kingdom of
   Ends*
 
