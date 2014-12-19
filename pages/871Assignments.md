@@ -9,6 +9,7 @@ Status: hidden
 - Optional: O'Neill, ['Reason and Autonomy in *Grundlegung* III'](|filename|/pdfs/871kant/OneilReason.pdf)
 - Optional: Korsgaard, 'Morality as Freedom', ch. 6 in *Creating the Kingdom of
   Ends*
+- [Handout](|filename|/pdfs/871kant/15_KantGroundwork3.pdf)
 
 ---
 
