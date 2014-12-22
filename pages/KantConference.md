@@ -10,8 +10,8 @@ Conference][] on themes related to Kant's (and Kantian) views on introspection,
 self-consciousness, and self-knowledge. The conference is hosted by the
 [Department of Philosophy][] at [UNL][] on May 1-2, 2015.
 
-  [Robert R. Chambers Philosophy Conference]: http://www.unl.edu/philosophy/speaker/speaker/ChambersConference.shtml
-  [Department of Philosophy]: http://www.unl.edu/philosophy/philosophy
+  [Robert R. Chambers Philosophy Conference]: http://www.unl.edu/philosophy/chambers-philosophy-conference-series
+  [Department of Philosophy]: http://www.unl.edu/philosophy/home
   [UNL]: http://www.unl.edu/
 
 If you would like to attend please [register here][]. If you are interested in
