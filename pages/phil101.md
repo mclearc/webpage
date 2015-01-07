@@ -13,9 +13,5 @@ status: hidden
 - [Syllabus](|filename|/pdfs/phil101/IntroSyllabus.pdf)
 - Contact: 
     + [Dr. Colin McLear](|filename|/pages/Contact.md)
-    + Gabe Bruguier
-        * Office hours: T Th, 10:30-11:30
-        * Office: 1019 Oldfather Hall
-        * Email: <gbruguier@gmail.com>
 - [iClicker](http://its.unl.edu/srs) References
     + [iClicker Registration Guide](http://its.unl.edu/pdfs/Student%20Registration%20Steps.pdf)
