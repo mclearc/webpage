@@ -1,6 +1,7 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+<!--
 ### Final Exam
 
 - TEAC 105
@@ -324,11 +325,10 @@ Status: hidden
 - [Slides](|filename|/pdfs/phil101/2Logic.pdf) (8/28)
 
 ---
+-->
 
-### Class 1 – Philosophy & Argument (8/26) ###
+### Class 1 – Philosophy & Argument (1/13)
 
-- [Slides](|filename|/pdfs/phil101/1Intro.pdf) (8/26)
-
-
-
+- Course introduction
+- Assessing arguments 
 
