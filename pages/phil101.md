@@ -12,6 +12,12 @@ status: hidden
     + [A Guide to Philosophical Writing](http://writingproject.fas.harvard.edu/files/hwp/files/philosophical_writing.pdf)
 - [Syllabus](|filename|/pdfs/phil101/IntroSyllabus.pdf)
 - Contact: 
-    + [Dr. Colin McLear](|filename|/pages/Contact.md)
+    - [Dr. Colin McLear](|filename|/pages/Contact.md)
+    - Zachery Garrett 
+        - [Email](mailto:zackgarrett127@gmail.com)
+        - Office hours: T: 11:30-12:30, W: 1:30-2:30 in Oldfather Hall, 1022 
+    - Kevin Patton 
+        - [Email](mailto:kp12584@gmail.com)
+        - Office Hourse: M: 12-1, W: 2:30-3:30 in Oldfather Hall, 1022 
 - [iClicker](http://its.unl.edu/srs) References
     + [iClicker Registration Guide](http://its.unl.edu/pdfs/Student%20Registration%20Steps.pdf)
