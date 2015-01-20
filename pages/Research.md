@@ -20,18 +20,21 @@ research programs in philosophy of mind and metaphysics.
 
 ### Upcoming Conferences & Presentations ###
 
+- May 1-2, 2015: Organizer, UNL Chambers Philosophy Conference – [Kant on
+  Introspection, Self-Consciousness, & Self-Knowledge](|filename|/pages/KantConference.md)
+- April 2, 2015: Pacific APA, Vancouver - "Definition and Essence in the
+  *Metaphysical Foundations of Natural Science*"
+- January 16, 2015: Workshop on Kant and the Mind, Oxford University -
+  "Comments on Stefanie Grüne on the Object-Dependence of Intuition"
+- October 25-6, 2014: Midwest Study Group of the North American Kant Society,
+  Washington University in St. Louis – "Intuition and Presence"
+- October 3-5, 2014: [Kantian Freedom, Simon Fraser
+  University](http://www.sfu.ca/kantian-freedom/index.html) – "Priority Monism,
+  Intuition, and Freedom"
 - August 23, 2014: [UK Kant Society Annual Conference, Oxford
   University](http://www.philosophy.ox.ac.uk/events/uk_kant_society_conference)
   – "Definition and Essence in the *Metaphysical Foundations of Natural
   Science*"
-- October 3-5, 2014: [Kantian Freedom, Simon Fraser
-  University](http://www.sfu.ca/kantian-freedom/index.html) – "Priority Monism,
-  Intuition, and Freedom"
-- October 25-6, 2014: Midwest Study Group of the North American Kant Society,
-  Washington University in St. Louis – "Intuition and Presence"
-- May 1-2, 2015: Organizer, UNL Chambers Philosophy Conference – [Kant on
-  Introspection, Self-Consciousness, &
-  Self-Knowledge](|filename|/pages/KantConference.md)
 
 ### Other Work ###
 
