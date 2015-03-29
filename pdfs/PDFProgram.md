@@ -12,7 +12,7 @@ lfoot:
 ...
 
 \noindent Conference sessions will all take place in Architecture Hall ([Google map
-link][]), room ???. Coffee and light pastries will be available prior to, and in
+link][]), room 127. Coffee and light pastries will be available prior to, and in
 between, sessions.
 
   [Google map link]: https://www.google.com/maps/place/Architecture+Hall/@40.817212,-96.706361,17z/data=!3m1!4b1!4m2!3m1!1s0x8796bf1d892c71b5:0xe5a445fe60e5a8c7?hl=en
@@ -41,7 +41,7 @@ between, sessions.
 
 - 12:45-2:15: **Lunch** 
 
-- 2:30-4: Andrew Brook (McGill), "Apperception and Dark Representations"
+- 2:30-4: Andrew Brook (Carleton), "Apperception and Dark Representations"
 - 4:15-5:45: Derk Pereboom (Cornell), "Concepts, Objects, and the Unity of
   Intuitions"
     - Chair: Colin McLear (UNL)
