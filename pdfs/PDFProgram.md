@@ -23,7 +23,7 @@ between, sessions.
 - 11:15-12:45: Clinton Tolley (UCSD), "Distinguishing Inner Sensation, Intuition, Perception, and Experience"
     - Chair: Daniel Smyth (Chicago)
 
-- 12:45-2:15: **Lunch** 
+- 12:45: **Lunch** 
 
 - 2:30-4: Andrew Chignell (Cornell), "Content Externalism and the Refutation of Idealism"
 - 4:15-5:45: Beatrice Longuenesse (NYU), "Kant on 'I' and the Soul"
@@ -35,18 +35,16 @@ between, sessions.
 
 ## Saturday, May 2
 
-- 9:30-11: Sasha Newton (UIUC), "Kant and the Transparency of the Mind"
-- 11:15-12:45: Anil Gomes (Oxford), "Unity, Passivity, Objectivity"
+- 10:00-11:30: Sasha Newton (UIUC), "Kant and the Transparency of the Mind"
+- 11:45-1:15: Anil Gomes (Oxford), "Unity, Passivity, Objectivity"
     - Chair: Andrew Roche (Centre College)
 
-- 12:45-2:15: **Lunch** 
+- 1:30: **Lunch** 
 
-- 2:30-4: Andrew Brook (Carleton), "Apperception and Dark Representations"
-- 4:15-5:45: Derk Pereboom (Cornell), "Concepts, Objects, and the Unity of
-  Intuitions"
+- 3:00-4:30: Andrew Brook (Carleton), "Apperception and Dark Representations"
     - Chair: Colin McLear (UNL)
 
-- 6:30: **Dinner for all conference attendees at the Schorr Presidential Suite
-  in the Center for Great Plains Studies**
-
+- 5:30: **Drinks for all conference attendees at Schorr Presidential Suite in the Center for Great Plains Studies** 
+- 6:30: **Dinner for all conference attendees at the Schorr Presidential Suite**
+  
 
