@@ -11,7 +11,7 @@ lfoot:
     Robert R. Chambers Conference
 ...
 
-\noindent Friday's conference session will all take place in Mabel Lee Hall
+\noindent Friday's conference session will take place in Mabel Lee Hall
 ([Google map link][]), room 230. Saturday's session will be in Architecture Hall
 ([Google map link][]), room 127. Coffee and light pastries will be available
 prior to, and in between, sessions.
@@ -20,7 +20,7 @@ prior to, and in between, sessions.
 
   [Google map link]: https://www.google.com/maps/place/Architecture+Hall/@40.817212,-96.706361,17z/data=!3m1!4b1!4m2!3m1!1s0x8796bf1d892c71b5:0xe5a445fe60e5a8c7?hl=en
 
-## Friday, May 1
+## Friday, May 1 (Mabel Lee Hall, 230)
 
 - 9:30-11: Yoon Choi (Marquette), "Inner Sense and the 1787 Deduction"
 - 11:15-12:45: Clinton Tolley (UCSD), "Distinguishing Inner Sensation, Intuition, Perception, and Experience"
@@ -36,7 +36,7 @@ prior to, and in between, sessions.
 
 ---
 
-## Saturday, May 2
+## Saturday, May 2 (Architecture Hall, 127)
 
 - 10:00-11:30: Sasha Newton (UIUC), "Kant and the Transparency of the Mind"
 - 11:45-1:15: Anil Gomes (Oxford), "Unity, Passivity, Objectivity"
