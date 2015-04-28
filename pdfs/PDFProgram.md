@@ -11,9 +11,12 @@ lfoot:
     Robert R. Chambers Conference
 ...
 
-\noindent Conference sessions will all take place in Architecture Hall ([Google map
-link][]), room 127. Coffee and light pastries will be available prior to, and in
-between, sessions.
+\noindent Friday's conference session will all take place in Mabel Lee Hall
+([Google map link][]), room 230. Saturday's session will be in Architecture Hall
+([Google map link][]), room 127. Coffee and light pastries will be available
+prior to, and in between, sessions.
+
+  [Mabel Lee Hall]: https://www.google.com/maps/place/Mabel+Lee+Hall,+University+of+Nebraska-Lincoln,+University+of+Nebraska+-+Lincoln:+City+Campus,+Lincoln,+NE+68508/@40.8214703,-96.7008246,18z/data=!3m1!4b1!4m2!3m1!1s0x8796bee6d19be2c3:0x96f1e67c4f53b60a
 
   [Google map link]: https://www.google.com/maps/place/Architecture+Hall/@40.817212,-96.706361,17z/data=!3m1!4b1!4m2!3m1!1s0x8796bf1d892c71b5:0xe5a445fe60e5a8c7?hl=en
 
@@ -44,7 +47,11 @@ between, sessions.
 - 3:00-4:30: Andrew Brook (Carleton), "Apperception and Dark Representations"
     - Chair: Colin McLear (UNL)
 
-- 5:30: **Drinks for all conference attendees at Schorr Presidential Suite in the Center for Great Plains Studies** 
-- 6:30: **Dinner for all conference attendees at the Schorr Presidential Suite**
+-   5:30: **Drinks for all conference attendees at Schorr Presidential Suite in
+    the Center for Great Plains Studies** ([Google map link][])
+-   6:30: **Dinner for all conference attendees at the Schorr Presidential
+    Suite**
+
+  [Google map link]: https://www.google.com/maps/place/Great+Plains+Studies+Center/@40.815513,-96.704359,19z/data=!3m1!4b1!4m5!1m2!2m1!1scenter+for+great+plains+studies!3m1!1s0x0000000000000000:0x6691762a48040bd7
   
 
